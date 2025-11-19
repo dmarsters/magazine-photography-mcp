@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "creative_anachronism",
+    "technical_score": 4,
+    "aesthetic_score": 2,
+    "creative_tension": 9,
+    "overall_harmony": 3,
+    "reasoning": "This pairing creates extreme creative tension between Interview's deliberately raw, anti-commercial aesthetic and product photography's pristine perfection. The contrast between underground authenticity and commercial polish generates fascinating artistic possibilities but challenges both styles' core principles."
+  },
+  "description": {
+    "name": "Factory Products",
+    "tagline": "Commercial objects reimagined through Warhol's underground lens of artistic rebellion and deliberate imperfection.",
+    "full_description": "This provocative fusion transforms sterile product photography into subversive art statements by applying Interview magazine's Factory-era aesthetic of deliberate amateurism and anti-establishment rebellion. Products are photographed with harsh direct flash, creating dramatic shadows and blown-out highlights that challenge traditional commercial polish. The resulting images treat consumer objects as pop art subjects, emphasizing authenticity over perfection through heavy grain, experimental angles, and confrontational lighting.\n\nThe approach deliberately breaks every rule of traditional product photography, using off-center framing, intentional overexposure, and raw Polaroid-style immediacy to create images that feel more like underground art pieces than commercial photography. High-contrast black and white dominates, with occasional shocking color pops that reference Warhol's silk-screen aesthetic.\n\nThis style transforms mundane commercial objects into cultural commentary, questioning consumer culture while maintaining the product's visibility and desirability through sheer artistic audacity. The result is product photography that doubles as gallery-worthy art, perfect for brands seeking to align with counterculture authenticity and artistic credibility.",
+    "visual_expectations": "Harsh direct flash creating dramatic shadows on products, deliberately off-center compositions with blown-out highlights, heavy film grain and experimental darkroom effects, high-contrast black and white with occasional saturated color pops, products photographed against raw or unconventional backgrounds rather than seamless studio setups",
+    "use_cases": [
+      "Art-focused brands seeking counterculture credibility",
+      "Gallery exhibitions exploring consumer culture",
+      "Alternative fashion and lifestyle brand campaigns"
+    ]
+  },
+  "suggested_subjects": [
+    "Vintage synthesizers and electronic instruments",
+    "Artist tools and creative supplies",
+    "Underground fashion accessories and jewelry"
+  ],
+  "prompt_keywords": [
+    "factory_aesthetic",
+    "harsh_flash",
+    "high_contrast_grain",
+    "anti_commercial",
+    "warhol_underground"
+  ],
+  "temporal_notes": "This anachronistic pairing creates deliberate tension between 1970s anti-establishment art culture and modern commercial photography, challenging both the underground authenticity of Interview and the polished perfection of product photography to create something entirely new.",
+  "magazine_id": "interview_1970s",
+  "photography_id": "product_photography",
+  "id": "interview_1970s__product_photography",
+  "generated_at": "2025-11-13T09:33:34.396565",
+  "llm_model": "claude-sonnet-4-20250514"
+}

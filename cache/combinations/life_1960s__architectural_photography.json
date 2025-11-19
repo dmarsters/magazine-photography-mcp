@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 7,
+    "creative_tension": 6,
+    "overall_harmony": 7,
+    "reasoning": "Both styles emerged during photography's documentary golden age, sharing technical precision and narrative purpose. The combination creates tension between Life's human-centered storytelling and architecture's formal geometric approach, resulting in compelling documentary architecture photography."
+  },
+  "description": {
+    "name": "Documentary Architecture",
+    "tagline": "Architectural photography that tells human stories through the built environment.",
+    "full_description": "This style merges Life magazine's legendary photojournalistic approach with architectural documentation, creating images that reveal buildings not as isolated objects but as vital parts of human experience. Shot with the technical precision of architectural photography but infused with Life's narrative sensibility, these photographs capture structures within their social and cultural contexts. The result emphasizes how architecture shapes and reflects the lives of people who inhabit, work in, and move through these spaces.\n\nVisually, this approach maintains architecture photography's geometric precision and perspective correction while incorporating Life's preference for natural lighting and decisive moments. Rather than sterile documentation, buildings are photographed during moments of activity - workers emerging from office towers, families gathering in suburban developments, communities using public spaces. The Kodachrome color palette and Tri-X grain structure add warmth and authenticity to what might otherwise be cold architectural studies.\n\nThis style works particularly well for documenting significant architectural projects within their historical moment, capturing both the designer's intent and the reality of human occupation. It serves architects, urban planners, and historians who need documentation that goes beyond mere formal analysis to show architecture's role in shaping society and culture.",
+    "visual_expectations": "Sharp architectural details with visible film grain texture, people integrated naturally for scale and context, rich Kodachrome colors or high-contrast black and white, perspective-corrected buildings shot during golden hour or with dramatic natural lighting, environmental context showing surrounding neighborhoods and urban fabric.",
+    "use_cases": [
+      "Architectural project documentation with social context",
+      "Urban development impact studies",
+      "Historical preservation showing buildings in use"
+    ]
+  },
+  "suggested_subjects": [
+    "Mid-century modern office buildings with workers entering and leaving",
+    "Public housing developments showing community life and daily activities",
+    "Educational institutions captured during student activities and campus life"
+  ],
+  "prompt_keywords": [
+    "kodachrome_architecture",
+    "documentary_buildings",
+    "human_scale_context",
+    "natural_lighting",
+    "tri-x_grain"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "life_1960s",
+  "photography_id": "architectural_photography",
+  "id": "life_1960s__architectural_photography",
+  "generated_at": "2025-11-13T10:01:37.469262",
+  "llm_model": "claude-sonnet-4-20250514"
+}

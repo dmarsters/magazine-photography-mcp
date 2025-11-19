@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Apartamento's contemporary editorial approach aligns perfectly with modern editorial photography's emphasis on authentic storytelling and environmental context. Both prioritize natural lighting, genuine moments, and sophisticated composition over staged perfection."
+  },
+  "description": {
+    "name": "Intimate Editorial",
+    "tagline": "Editorial sophistication meets everyday authenticity in thoughtfully captured domestic narratives.",
+    "full_description": "This pairing creates a distinctive visual language that elevates ordinary domestic moments into compelling editorial stories. The approach combines Apartamento's signature anti-aspirational aesthetic with editorial photography's narrative strength, resulting in images that feel both journalistic and deeply personal. Natural light floods through windows to illuminate carefully composed scenes of creative living, where imperfect details become the most compelling elements.\n\nThe technical execution balances editorial precision with intimate casualness. Medium format digital clarity captures every texture - from linen wrinkles to ceramic glazes - while maintaining the relaxed framing that makes viewers feel like welcomed guests rather than outside observers. Color palettes favor muted earth tones and soft pastels, creating a cohesive visual story that spans multiple frames.\n\nThis style excels at revealing the authentic personalities behind designed spaces, showing how creative individuals actually live rather than how they pose for cameras. The result is editorial content that feels both aspirational and achievable, sophisticated yet approachably human.",
+    "visual_expectations": "Abundant natural window light creating soft shadows on textured surfaces, casual compositions that feel discovered rather than arranged, muted color palettes dominated by warm whites and dusty pastels, high-detail capture of fabric weaves and material textures, and subjects naturally integrated into their authentic environments.",
+    "use_cases": [
+      "Design magazine feature stories on creative professionals' homes",
+      "Lifestyle brand editorial content showcasing authentic living",
+      "Architectural photography emphasizing human inhabitation over pure design"
+    ]
+  },
+  "suggested_subjects": [
+    "Artist's cluttered studio with afternoon light streaming across work surfaces",
+    "Designer's kitchen during casual breakfast preparation with vintage ceramics",
+    "Writer's book-filled living room with subject reading in natural window light"
+  ],
+  "prompt_keywords": [
+    "natural_window_light",
+    "muted_earth_tones",
+    "lived_in_authenticity",
+    "editorial_intimacy",
+    "textural_detail"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "apartamento_contemporary",
+  "photography_id": "editorial_photography",
+  "id": "apartamento_contemporary__editorial_photography",
+  "generated_at": "2025-11-13T09:30:22.258427",
+  "llm_model": "claude-sonnet-4-20250514"
+}

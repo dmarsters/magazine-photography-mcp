@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Perfect synergy between Life magazine's 1960s photojournalism mission and candid photography's authentic moment capture. Both prioritize truth-telling over formal beauty, using available light and genuine human emotion."
+  },
+  "description": {
+    "name": "Documentary Intimacy",
+    "tagline": "Authentic human moments captured with the visual authority and emotional depth that defined America's golden age of photojournalism.",
+    "full_description": "This combination recreates the iconic look of Life magazine's most powerful human interest stories from the 1960s, where master photojournalists like W. Eugene Smith and Gordon Parks elevated candid photography to an art form. The approach combines candid photography's unguarded authenticity with Life's sophisticated visual treatment - rich Kodachrome colors or deep black-and-white contrasts that transform ordinary moments into compelling narratives.\n\nImages feature the decisive moment philosophy, where genuine expressions and natural interactions are captured with professional-grade film stocks pushed to their limits in available light. The result maintains candid photography's spontaneous energy while achieving Life's editorial polish - sharp detail where it matters, atmospheric grain that adds texture rather than distraction, and compositions that feel both intimate and significant.\n\nThe aesthetic balances photojournalistic objectivity with human warmth, creating images that feel both immediate and timeless. Natural lighting conditions are embraced and enhanced through careful exposure and printing techniques, while the 35mm format provides the mobility needed for authentic candid capture. Every frame carries the weight of documentary importance while celebrating the beauty found in unposed human moments.",
+    "visual_expectations": "Rich Kodachrome color saturation with slight magenta cast, or deep black-and-white contrasts with full tonal range; natural grain structure from professional film stocks; genuine expressions captured in available light conditions; layered compositions showing environmental context; slight vignetting and natural lens characteristics that add warmth without compromising sharpness.",
+    "use_cases": [
+      "Human interest documentary projects capturing authentic cultural moments",
+      "Editorial storytelling requiring both journalistic credibility and emotional impact",
+      "Historical recreation projects documenting contemporary life with 1960s visual authority"
+    ]
+  },
+  "suggested_subjects": [
+    "Multi-generational family gathering around dinner table in natural window light",
+    "Civil rights march participants in spontaneous moment of solidarity",
+    "Children playing in urban neighborhood with rich environmental context"
+  ],
+  "prompt_keywords": [
+    "kodachrome",
+    "photojournalism",
+    "available light",
+    "decisive moment",
+    "grain structure"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "life_1960s",
+  "photography_id": "candid_photography",
+  "id": "life_1960s__candid_photography",
+  "generated_at": "2025-11-13T10:01:17.089171",
+  "llm_model": "claude-sonnet-4-20250514"
+}

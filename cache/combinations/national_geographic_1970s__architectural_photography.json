@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 2,
+    "overall_harmony": 8,
+    "reasoning": "The methodical, documentary approach of 1970s National Geographic aligns perfectly with architectural photography's precision requirements. Kodachrome's saturated palette and fine detail capture will beautifully render building materials and structural elements with rich, archival quality."
+  },
+  "description": {
+    "name": "Kodachrome Architecture",
+    "tagline": "Monumental buildings captured with the rich, saturated warmth of documentary film's golden age.",
+    "full_description": "This style transforms architectural photography through the distinctive lens of 1970s National Geographic's Kodachrome mastery. Buildings are documented with the same patient, methodical approach used for remote cultures and pristine wilderness, creating images that feel both scientifically precise and emotionally compelling. The film's signature saturated palette brings unexpected warmth to concrete and steel, while deep cobalt skies provide dramatic backdrops for structural silhouettes.\n\nKodachrome's ultra-fine grain and tack-sharp detail capture every texture - from rough concrete surfaces to gleaming glass facades - with an almost tactile quality. The medium-high contrast preserves rich shadows that reveal architectural depth while maintaining detail in bright highlight areas. Golden hour lighting becomes particularly magical, casting warm amber light across building faces and creating the kind of atmospheric documentation that made National Geographic legendary.\n\nThe compositional approach emphasizes environmental context over isolated architectural elements, showing buildings as part of their cultural and geographical landscape. This documentary sensibility creates architectural photography that tells stories rather than simply showcasing design, with each frame contributing to a broader narrative about place, purpose, and human habitation.",
+    "visual_expectations": "Kodachrome's distinctive warm color cast giving concrete and steel unexpected richness, ultra-sharp architectural details with visible material textures, deep cobalt blue skies contrasting with warm building tones, golden hour lighting creating dramatic shadows and highlights across structural elements, and fine film grain adding organic texture to geometric precision.",
+    "use_cases": [
+      "Architectural documentation for historical preservation with artistic gravitas",
+      "Portfolio presentation emphasizing buildings within cultural context",
+      "Urban planning documentation with environmental storytelling approach"
+    ]
+  },
+  "suggested_subjects": [
+    "Modernist concrete buildings during golden hour",
+    "Traditional architecture integrated with natural landscapes",
+    "Urban complexes with human scale elements for context"
+  ],
+  "prompt_keywords": [
+    "kodachrome",
+    "architectural documentation",
+    "golden hour lighting",
+    "film grain texture",
+    "saturated palette"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "national_geographic_1970s",
+  "photography_id": "architectural_photography",
+  "id": "national_geographic_1970s__architectural_photography",
+  "generated_at": "2025-11-13T09:38:33.564325",
+  "llm_model": "claude-sonnet-4-20250514"
+}

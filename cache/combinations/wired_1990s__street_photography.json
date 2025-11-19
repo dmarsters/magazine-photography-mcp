@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 7,
+    "overall_harmony": 8,
+    "reasoning": "The candid, unposed nature of street photography perfectly complements Wired's authentic documentation of digital culture emergence. Both styles embrace urban environments and technological integration as natural subjects."
+  },
+  "description": {
+    "name": "Cyber Streets",
+    "tagline": "Raw street photography electrified with Day-Glo cyberpunk energy and digital revolution optimism.",
+    "full_description": "This style captures authentic urban moments through the hyper-saturated, techno-optimistic lens of 1990s Wired magazine. Street scenes explode with electric hot pink, lime green, and electric blue overlays against stark white backgrounds, while maintaining the candid intimacy of traditional street photography. The combination creates a unique documentary approach that treats everyday urban technology - from payphones to early cell phones, from neon signs to computer store windows - as revolutionary artifacts of digital transformation.\n\nHigh-contrast studio lighting techniques are adapted for street environments, creating harsh shadows and blown-out highlights that emphasize the dramatic tension between old analog city infrastructure and emerging digital culture. Wide-angle distortion and unconventional crops slice through scenes of people interacting with technology, while digital post-processing adds scan lines, pixelated elements, and color channel separations that transform mundane street moments into cyberpunk prophecy.\n\nThe aesthetic documents the exact moment when digital culture began infiltrating street life, capturing tech workers, early internet adopters, and digital artists navigating urban spaces filled with the promise of technological revolution. Every frame pulses with the electric energy of the dot-com boom while maintaining street photography's commitment to authentic human moments.",
+    "visual_expectations": "Oversaturated CMYK colors bleeding into candid street scenes, harsh neon accent lighting casting electric shadows on sidewalks, digital scan line overlays across urban architecture, extreme close-ups of hands on early mobile devices mixed with wide environmental shots of tech districts, pixelated digital artifacts integrated as design elements over documentary photography.",
+    "use_cases": [
+      "Tech company culture documentation with cyberpunk aesthetic",
+      "Urban development projects in tech districts",
+      "Digital art exhibitions exploring 1990s internet culture"
+    ]
+  },
+  "suggested_subjects": [
+    "Early tech workers on city streets with pagers and flip phones",
+    "Neon-lit computer stores and internet cafes in urban environments",
+    "Street scenes in Silicon Valley during the dot-com boom era"
+  ],
+  "prompt_keywords": [
+    "electric-day-glo-colors",
+    "scan-lines-digital-artifacts",
+    "harsh-neon-street-lighting",
+    "candid-tech-workers",
+    "cyberpunk-urban-documentary"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "wired_1990s",
+  "photography_id": "street_photography",
+  "id": "wired_1990s__street_photography",
+  "generated_at": "2025-11-13T09:58:47.931189",
+  "llm_model": "claude-sonnet-4-20250514"
+}

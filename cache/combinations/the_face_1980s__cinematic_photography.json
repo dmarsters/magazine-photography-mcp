@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Both styles emerged from the same 1980s cultural zeitgeist that celebrated dramatic lighting and high-contrast visuals. The cinematic photography approach perfectly amplifies The Face's revolutionary fusion of street culture with sophisticated art direction."
+  },
+  "description": {
+    "name": "Neo-Romantic Cinema",
+    "tagline": "Where underground culture meets Hollywood drama in stark, theatrical portraiture.",
+    "full_description": "This powerful combination transforms subjects into protagonists of their own cultural narrative, using cinematic lighting techniques to elevate street style and club culture with the visual language of film noir and new wave cinema. The result captures the theatrical essence of 1980s New Romantic culture, where every portrait becomes a scene from an art house film about youth rebellion and creative expression.\n\nDramatic three-point lighting creates deep shadows and sculptural highlights that emphasize the architectural makeup and bold styling characteristic of the era. The cinematic approach adds layers of narrative depth to The Face's revolutionary editorial vision, making each image feel like a freeze-frame from a dystopian fashion film. High-contrast printing and strategic use of colored gels create an otherworldly atmosphere that perfectly captures the era's fusion of punk authenticity with glamorous theatricality.\n\nSubjects are transformed into icons through careful directorial approach that treats every club kid, musician, or street style maven as a leading actor in the cultural revolution of the 1980s. The combination preserves The Face's commitment to documenting genuine subcultural moments while elevating them through sophisticated cinematic techniques that rival contemporary art photography.",
+    "visual_expectations": "Stark directional lighting creating dramatic shadows across angular faces and bold makeup, high-contrast black and white or heavily stylized color with electric blue and magenta accents, tight cinematic crops that feel like film stills, subjects posed with the intensity of movie characters, and layered compositions mixing sharp foreground details with atmospheric backgrounds.",
+    "use_cases": [
+      "Music industry promotional materials for new wave and alternative artists",
+      "Editorial fashion photography celebrating subcultural style",
+      "Art gallery exhibitions documenting 1980s youth culture"
+    ]
+  },
+  "suggested_subjects": [
+    "New wave musicians in dramatic makeup and avant-garde styling",
+    "Club culture icons in architectural lighting with neon accents",
+    "Street style subjects posed as protagonists in their urban environment"
+  ],
+  "prompt_keywords": [
+    "dramatic lighting",
+    "high contrast",
+    "new romantic",
+    "cinematic portrait",
+    "neon accents"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "the_face_1980s",
+  "photography_id": "cinematic_photography",
+  "id": "the_face_1980s__cinematic_photography",
+  "generated_at": "2025-11-13T09:45:34.815033",
+  "llm_model": "claude-sonnet-4-20250514"
+}

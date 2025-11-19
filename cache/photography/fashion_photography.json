@@ -1,0 +1,40 @@
+{
+  "name": "Fashion Photography",
+  "technical": {
+    "focal_length": "85-135mm for portraits, 24-70mm for full body, 50mm for editorial work. Prime lenses preferred for sharpness",
+    "depth_of_field": "Variable - shallow f/1.4-f/2.8 for beauty shots, f/5.6-f/11 for full body to keep entire garment sharp",
+    "shutter_speed": "1/125s-1/250s minimum for handheld, up to 1/1000s for movement, sync speeds for studio strobes",
+    "lighting": "Studio strobes with softboxes/beauty dishes, ring lights for beauty, natural window light, reflectors and diffusers essential",
+    "camera_format": "Medium format (Hasselblad, Fuji GFX) preferred for detail, full-frame DSLRs/mirrorless common"
+  },
+  "aesthetic": {
+    "composition": "Rule of thirds, leading lines, negative space emphasis, dynamic poses, attention to garment flow and drape",
+    "subject_background": "Clean, minimal backgrounds in studio; environmental contexts that complement not compete; seamless papers common",
+    "tonal_range": "High contrast for dramatic looks, softer contrast for beauty, emphasis on clean highlights and rich shadows",
+    "color_approach": "Coordinated palettes, seasonal colors, brand-consistent schemes, often desaturated or complementary",
+    "texture_detail": "Fabric texture crucial - sharp detail in garments, skin retouching for flawless finish, material properties emphasized"
+  },
+  "shooting_approach": {
+    "subject_distance": "Varies by shot type - close for beauty (3-6 feet), medium for three-quarter (8-12 feet), wide for full body (15+ feet)",
+    "angle_perspective": "Eye level common, slight high angle for slimming, low angle for power/drama, profile and three-quarter poses frequent",
+    "subject_relationship": "Primarily posed and directed, confident expressions, body language emphasizing garment fit and flow",
+    "environment": "Professional studios with cycloramas, high-end retail locations, urban settings, minimalist interiors"
+  },
+  "context": {
+    "typical_uses": [
+      "Magazine editorials and covers",
+      "E-commerce and catalog imagery",
+      "Advertising campaigns and lookbooks"
+    ],
+    "historical_context": "Emerged in 1920s with Vogue and Harper's Bazaar, evolved through Avedon, Newton, Leibovitz innovations",
+    "key_characteristics": "Emphasis on clothing/accessories, aspirational aesthetic, high production values, model as clothes horse",
+    "related_styles": "Beauty photography, commercial portraiture, lifestyle photography, editorial photography"
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "1950s-60s: formal, studio-based; 1970s-80s: more dynamic, lifestyle integration; 1990s-2000s: grunge influence, candid feel; 2010s+: social media influence, authentic/diverse representation"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:26:16.535007",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Street Photography",
+  "technical": {
+    "focal_length": "35mm and 50mm most common, with 28mm and 85mm also popular; wide-angle for environmental context, normal for natural perspective",
+    "depth_of_field": "Variable - often moderate to deep (f/5.6-f/11) for zone focusing and sharp backgrounds, occasionally shallow for subject isolation",
+    "shutter_speed": "Fast enough to freeze motion (1/125s-1/500s), sometimes slower for intentional blur or panning effects",
+    "lighting": "Available light preferred - natural daylight, artificial street lighting, neon signs, window light; minimal or no flash to maintain candidness",
+    "camera_format": "35mm film historically dominant, now full-frame and APS-C digital; rangefinders and compact cameras favored for discretion"
+  },
+  "aesthetic": {
+    "composition": "Rule of thirds, leading lines, framing within frames, layered compositions, geometric patterns, decisive moment timing",
+    "subject_background": "Background integral to storytelling - urban architecture, signage, crowds provide context and narrative depth",
+    "tonal_range": "High contrast often preferred, deep blacks and bright whites, though can vary from high-key to low-key depending on mood",
+    "color_approach": "Both B&W and color - B&W for timeless quality and focus on form/light, color for contemporary urban vibrancy and cultural documentation",
+    "texture_detail": "Sharp detail throughout scene typical, capturing urban textures - concrete, metal, glass, fabric, weathered surfaces"
+  },
+  "shooting_approach": {
+    "subject_distance": "Varies widely - close for intimate human moments, medium for interaction with environment, distant for environmental context",
+    "angle_perspective": "Eye-level most common for natural perspective, low angles for drama, high angles for overview of urban scenes",
+    "subject_relationship": "Predominantly candid and unposed, subjects often unaware of photographer, capturing authentic human behavior",
+    "environment": "Urban streets, public spaces, markets, transportation hubs, sidewalks - anywhere public life unfolds naturally"
+  },
+  "context": {
+    "typical_uses": [
+      "Documentary photography",
+      "Photojournalism",
+      "Fine art photography",
+      "Cultural documentation",
+      "Urban sociology studies"
+    ],
+    "historical_context": "Emerged in 1920s-1930s with portable cameras, peaked mid-20th century with Leica cameras and masters like Cartier-Bresson, Evans, Frank",
+    "key_characteristics": "Captures unposed moments of everyday urban life, emphasizes human condition, social commentary, and spontaneous interactions in public spaces",
+    "related_styles": "Documentary photography, photojournalism, urban photography, candid photography, social realism"
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "1920s-40s focused on formal composition and decisive moment; 1950s-60s became more intimate and subjective; digital era brought continuous shooting and immediate review capabilities"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:26:11.295446",
+  "llm_model": "claude-sonnet-4-20250514"
+}

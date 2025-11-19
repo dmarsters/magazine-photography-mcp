@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 7,
+    "aesthetic_score": 6,
+    "creative_tension": 5,
+    "overall_harmony": 6,
+    "reasoning": "While both are contemporary approaches, golden hour's dramatic warmth contrasts with Apartamento's preference for soft, natural light and muted tones. The combination creates interesting tension between intimate domesticity and romantic drama."
+  },
+  "description": {
+    "name": "Sunset Domesticity",
+    "tagline": "Intimate home spaces transformed by the golden hour's warm embrace.",
+    "full_description": "This pairing brings the romantic drama of golden hour lighting into the carefully curated domestic spaces that define contemporary lifestyle photography. The result is a heightened intimacy where everyday home moments—morning coffee by a window, reading in a favorite chair, arranging flowers—are elevated by warm, directional sunlight streaming through interiors. The aesthetic maintains Apartamento's commitment to authentic, lived-in spaces while adding golden hour's emotional warmth and dramatic lighting ratios.\n\nThe visual approach captures homes during those precious moments when low sun floods through windows, creating rim-lit silhouettes of inhabitants and casting long shadows across textured surfaces. Muted pastels and sage greens are warmed by orange and amber light, while the natural imperfections and personal objects that define authentic living spaces are highlighted with ethereal backlighting.\n\nThis style works particularly well for spaces with large windows, outdoor terraces, or architectural features that interact beautifully with directional light. The timing-dependent nature of golden hour photography adds anticipation and intentionality to domestic documentation, creating images that feel both spontaneous and cinematically crafted.",
+    "visual_expectations": "Warm sunlight streaming through windows onto textured fabrics and natural materials, silhouetted figures moving through intimate spaces, rim-lit ceramic objects and plants creating gentle bokeh, long shadows emphasizing architectural details, and the interplay between Apartamento's muted palette and golden hour's amber warmth.",
+    "use_cases": [
+      "Architectural photography showcasing homes during optimal lighting conditions",
+      "Lifestyle brand content emphasizing warmth and authentic living",
+      "Editorial features about creative professionals' evening routines and domestic rituals"
+    ]
+  },
+  "suggested_subjects": [
+    "Artist's studio with large windows during sunset work sessions",
+    "Kitchen islands with natural textures backlit by golden evening light",
+    "Reading nooks and textile collections illuminated by directional sun rays"
+  ],
+  "prompt_keywords": [
+    "golden_hour_interiors",
+    "backlit_domesticity",
+    "warm_natural_light",
+    "intimate_home_moments",
+    "sunset_through_windows"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "apartamento_contemporary",
+  "photography_id": "golden_hour_photography",
+  "id": "apartamento_contemporary__golden_hour_photography",
+  "generated_at": "2025-11-13T09:31:53.854825",
+  "llm_model": "claude-sonnet-4-20250514"
+}

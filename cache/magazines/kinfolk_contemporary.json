@@ -1,0 +1,43 @@
+{
+  "name": "Kinfolk (contemporary)",
+  "display_name": "Kinfolk: Slow Living Era",
+  "era": {
+    "start": 2011,
+    "end": null,
+    "label": "Contemporary slow living movement"
+  },
+  "visual_treatment": {
+    "color_palette": "Muted earth tones, warm beiges, soft whites, dusty pastels, and desaturated naturals with occasional pops of sage green or terracotta",
+    "lighting": "Abundant soft natural light, golden hour warmth, diffused window light, minimal artificial lighting with emphasis on organic shadows",
+    "contrast": "Low to medium contrast with lifted shadows, gentle highlights, and compressed tonal range for dreamy, ethereal quality",
+    "texture": "Clean, minimal grain structure, sharp but not clinical detail, emphasis on tactile surfaces like linen, wood, and natural materials"
+  },
+  "composition": {
+    "framing": "Generous negative space, asymmetrical balance, subjects often positioned in rule-of-thirds intersections with breathing room",
+    "spatial_relationships": "Minimalist arrangements with intentional gaps between elements, creating sense of calm and contemplation",
+    "perspectives": "Eye-level and slightly elevated angles, intimate close-ups balanced with environmental context shots",
+    "layout_philosophy": "Less-is-more aesthetic with emphasis on white space, clean lines, and uncluttered visual hierarchy"
+  },
+  "technical": {
+    "film_or_technology": "High-end digital cameras with medium format aesthetic, occasional film photography with fine-grain stocks",
+    "lens_character": "Clean, clinical lens rendering with subtle vignetting, shallow depth of field for selective focus",
+    "post_processing": "Subtle color grading with lifted blacks, warm highlights, desaturated color channels, and film emulation"
+  },
+  "cultural_context": {
+    "values": "Mindful consumption, authentic relationships, craftsmanship, sustainability, and intentional living",
+    "subject_matter": "Intimate gatherings, artisanal crafts, natural landscapes, simple home interiors, seasonal cooking, and quiet human moments",
+    "target_audience": "Design-conscious millennials and Gen X seeking authentic lifestyle inspiration and slower pace",
+    "era_signature": "Reaction against digital overwhelm through visual restraint and celebration of analog experiences"
+  },
+  "temporal_markers": [
+    "Instagram-influenced square and portrait formats",
+    "Hygge and lagom lifestyle philosophy visualization",
+    "Post-recession minimalism and conscious consumption",
+    "Digital photography mimicking film aesthetic",
+    "Scandinavian design influence proliferation"
+  ],
+  "distinguishing_features": "Aspirational yet attainable lifestyle imagery with editorial restraint, celebrating imperfection and authentic human connection through meticulously crafted 'unstaged' moments",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:23:20.774303",
+  "llm_model": "claude-sonnet-4-20250514"
+}

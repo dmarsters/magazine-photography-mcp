@@ -1,0 +1,42 @@
+{
+  "name": "Monocle (contemporary)",
+  "display_name": "Monocle: Global Sophistication",
+  "era": {
+    "start": 2007,
+    "end": null,
+    "label": "Digital-age premium lifestyle journalism"
+  },
+  "visual_treatment": {
+    "color_palette": "Muted, sophisticated palette with emphasis on navy, forest green, burgundy, and cream; liberal use of white space with selective pops of brand orange",
+    "lighting": "Natural, soft lighting favoring golden hour and overcast conditions; avoids harsh shadows and high contrast dramatic lighting",
+    "contrast": "Medium contrast with rich midtones; avoids pure blacks and blown highlights for a refined, approachable feel",
+    "texture": "Clean, sharp digital capture with subtle film-like warmth; minimal grain, emphasis on material textures like wool, leather, and natural fibers"
+  },
+  "composition": {
+    "framing": "Generous negative space, often asymmetrical with subjects positioned using rule of thirds; environmental context always present",
+    "spatial_relationships": "Layered compositions showing context and environment; subjects integrated naturally into their settings rather than isolated",
+    "perspectives": "Eye-level and slightly elevated angles; architectural shots favor human-scale perspectives rather than dramatic low or high angles",
+    "layout_philosophy": "Grid-based Swiss design principles with emphasis on typography hierarchy and breathing room between elements"
+  },
+  "technical": {
+    "film_or_technology": "High-end digital cameras (Canon 5D series, Leica M systems) with occasional medium format for covers and key features",
+    "lens_character": "Sharp but not clinical; 35mm and 50mm equivalent focal lengths dominate; shallow depth of field used sparingly",
+    "post_processing": "Subtle color grading toward warm neutrals; minimal HDR effects; natural skin tones with slight desaturation for sophistication"
+  },
+  "cultural_context": {
+    "values": "Global citizenship, quality craftsmanship, understated luxury, cultural curiosity, and informed consumption",
+    "subject_matter": "International affairs, design objects, urban planning, hospitality, fashion as cultural expression, and entrepreneurship",
+    "target_audience": "Educated, well-traveled professionals aged 30-55 with disposable income and cultural interests",
+    "era_signature": "Post-recession optimism balanced with global awareness; quality over quantity ethos"
+  },
+  "temporal_markers": [
+    "Digital-native publishing with consistent cross-platform visual identity",
+    "Instagram-aware compositions that work at multiple scales",
+    "Sustainable and ethical consumption messaging reflected in visual choices",
+    "Global perspective evident in diverse locations and cultural contexts"
+  ],
+  "distinguishing_features": "Combines Swiss design minimalism with British editorial sophistication; photography feels documentary-inspired but polished; consistent orange brand accent used strategically across all imagery; celebrates the intersection of function and beauty in everyday objects and spaces",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:23:55.930131",
+  "llm_model": "claude-sonnet-4-20250514"
+}

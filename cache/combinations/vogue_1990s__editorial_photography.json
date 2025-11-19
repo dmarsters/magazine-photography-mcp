@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 7,
+    "creative_tension": 6,
+    "overall_harmony": 7,
+    "reasoning": "Both styles peaked in the 1990s, creating perfect temporal alignment. The tension between Vogue's studio glamour and editorial photography's authentic storytelling creates compelling creative opportunities."
+  },
+  "description": {
+    "name": "Supermodel Editorial",
+    "tagline": "Where high fashion glamour meets authentic storytelling in the golden age of print media.",
+    "full_description": "This powerful combination merges 1990s Vogue's supermodel-era glamour with editorial photography's narrative-driven approach, creating images that are both aspirational and authentic. The result maintains the luxurious production values and dramatic lighting of peak fashion photography while incorporating the environmental context and genuine moments that define great editorial work. Rich saturated colors and crisp contrasts from the Vogue aesthetic blend with editorial photography's commitment to storytelling, producing images that feel both polished and real.\n\nThe technical marriage of medium format film quality with editorial's varied focal lengths creates versatility between intimate portraits and establishing shots. Studio-perfect lighting techniques adapt to real-world environments, while the era's pre-digital authenticity ensures genuine skin textures and natural expressions. This style captures the confidence and power of 1990s fashion photography while grounding it in editorial context that tells compelling stories.\n\nPerfect for fashion features that need both glamour and substance, this approach treats every subject with the reverence typically reserved for supermodels while maintaining editorial integrity. The aesthetic speaks to an era when print media commanded respect and fashion photography was an art form, creating images that are simultaneously timeless and distinctly of their moment.",
+    "visual_expectations": "Dramatic studio-quality lighting in real environments, rich jewel tones and deep blacks with editorial context, sharp medium format-style detail with authentic expressions, power poses softened by genuine moments, luxurious textures and fabrics rendered with documentary honesty",
+    "use_cases": [
+      "High-end fashion editorials with narrative depth",
+      "Celebrity profiles balancing glamour with authenticity",
+      "Luxury lifestyle features grounded in real stories"
+    ]
+  },
+  "suggested_subjects": [
+    "Fashion designers in their studios wearing their creations",
+    "Models between shows during fashion week",
+    "Artists and creatives in their workspaces with elevated styling"
+  ],
+  "prompt_keywords": [
+    "editorial glamour",
+    "supermodel confidence",
+    "rich saturated colors",
+    "dramatic lighting",
+    "authentic luxury"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "vogue_1990s",
+  "photography_id": "editorial_photography",
+  "id": "vogue_1990s__editorial_photography",
+  "generated_at": "2025-11-13T09:59:15.973381",
+  "llm_model": "claude-sonnet-4-20250514"
+}

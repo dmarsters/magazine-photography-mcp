@@ -1,0 +1,43 @@
+{
+  "name": "Documentary Photography",
+  "technical": {
+    "focal_length": "35mm-85mm standard lenses preferred for natural perspective; 24-35mm wide-angle for environmental context; 85-135mm for intimate portraits without intrusion",
+    "depth_of_field": "Variable based on narrative needs - deep DOF for environmental context, moderate DOF for subject isolation while maintaining background information",
+    "shutter_speed": "1/60s-1/250s for handheld stability; faster speeds 1/125s-1/500s for action/movement; slower speeds acceptable with stabilization for available light",
+    "lighting": "Natural/available light preferred; minimal artificial lighting to preserve authenticity; reflectors and fill flash used subtly when necessary",
+    "camera_format": "35mm film historically dominant; full-frame digital sensors; some medium format for higher quality archival work; rangefinders and SLRs for discretion"
+  },
+  "aesthetic": {
+    "composition": "Strong geometric compositions; rule of thirds; leading lines; framing through environmental elements; balanced but not overly stylized arrangements",
+    "subject_background": "Background provides context and narrative information; environmental elements support story; careful attention to avoid distracting elements",
+    "tonal_range": "Full tonal range with good shadow and highlight detail; moderate contrast; emphasis on detail retention over dramatic effect",
+    "color_approach": "Natural color rendition; muted, realistic palettes; black and white common for timeless quality and focus on content over aesthetics",
+    "texture_detail": "High attention to texture and fine detail; sharp focus where narratively important; preservation of environmental textures and surfaces"
+  },
+  "shooting_approach": {
+    "subject_distance": "Variable - close for intimate human moments, medium distance for subject-environment relationship, wider for contextual scenes",
+    "angle_perspective": "Eye-level perspective most common for human connection; slight variations for narrative emphasis; avoid extreme angles that distract from subject",
+    "subject_relationship": "Primarily candid and unposed; subjects often unaware or comfortable with photographer; natural expressions and body language prioritized",
+    "environment": "Real-world locations essential; subjects photographed in their natural environments; studio work rare except for formal portrait documentation"
+  },
+  "context": {
+    "typical_uses": [
+      "Photojournalism and news documentation",
+      "Social issue advocacy and awareness",
+      "Historical record keeping",
+      "Anthropological and sociological studies",
+      "Personal documentary projects",
+      "Corporate and institutional documentation"
+    ],
+    "historical_context": "Emerged in 1930s with photographers like Walker Evans and Dorothea Lange during Great Depression; formalized through FSA projects; evolved through civil rights era and continues as digital medium",
+    "key_characteristics": "Commitment to truth and accuracy; minimal manipulation; strong narrative content; social consciousness; respect for subjects; technical competence serving content",
+    "related_styles": "Street photography, photojournalism, social documentary, environmental portraiture, reportage photography"
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "1930s-50s: formal, large format approach; 1960s-80s: more intimate 35mm style; 1990s-2000s: color acceptance increased; 2010s+: digital tools enable new distribution but core ethics remain"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:27:01.715533",
+  "llm_model": "claude-sonnet-4-20250514"
+}

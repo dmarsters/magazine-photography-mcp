@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 7,
+    "overall_harmony": 8,
+    "reasoning": "1990s Wired's radical digital aesthetic translates powerfully to fashion photography, with electric colors and extreme contrast creating striking garment presentations. The magazine's deconstructed design philosophy adds editorial dynamism to fashion imagery."
+  },
+  "description": {
+    "name": "Cyberfashion Editorial",
+    "tagline": "High-fashion meets digital revolution with electric colors and radical compositions that shatter traditional fashion photography.",
+    "full_description": "This striking combination transforms fashion photography through 1990s Wired's radical digital lens, creating editorial imagery that pulses with techno-optimism and fluorescent energy. Models become digital pioneers draped in fabrics that glow under harsh studio lighting, their poses angular and deconstructed like circuit board geometries. The signature Day-Glo palette - hot pink, lime green, electric blue - transforms garments into wearable technology, while extreme contrast and blown-out highlights create an almost holographic quality that makes clothing appear to emerge from computer screens.\n\nCompositions break every traditional fashion rule, employing Dutch angles, extreme close-ups that crop through models' faces, and macro distortion that turns fabric textures into digital landscapes. Background elements float and layer like early Photoshop experiments, with scan lines and pixelated effects treating digital artifacts as high-fashion accessories. The result captures fashion at the moment when analog met digital, creating editorial spreads that look simultaneously futuristic and nostalgically Y2K.\n\nLighting pushes printing technology to its limits, with neon accent lighting and computer screen glows creating an atmosphere where fashion exists in cyberspace. Every image carries the era's belief that digital technology would revolutionize human experience - and in this case, revolutionize how we see and wear clothing.",
+    "visual_expectations": "Models posed at extreme Dutch angles against stark white backgrounds with floating digital elements, garments rendered in electric Day-Glo colors that seem to glow off the page, harsh studio lighting creating blown-out highlights and deep black shadows, macro close-ups of fabric textures mixed with wide environmental shots, scan lines and pixelated effects integrated as design elements throughout compositions.",
+    "use_cases": [
+      "Avant-garde fashion magazine editorials pushing creative boundaries",
+      "Tech company fashion collaborations and wearable technology campaigns",
+      "Retro-futuristic fashion brand lookbooks celebrating 90s digital culture"
+    ]
+  },
+  "suggested_subjects": [
+    "Models in metallic and iridescent fabrics posed like cyberpunk characters",
+    "Tech-influenced streetwear and accessories with digital interface aesthetics",
+    "High-fashion garments styled with vintage computer equipment and CRT monitors"
+  ],
+  "prompt_keywords": [
+    "electric-day-glo-colors",
+    "harsh-studio-lighting",
+    "dutch-angles",
+    "digital-artifacts",
+    "blown-out-highlights"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "wired_1990s",
+  "photography_id": "fashion_photography",
+  "id": "wired_1990s__fashion_photography",
+  "generated_at": "2025-11-13T09:59:20.581082",
+  "llm_model": "claude-sonnet-4-20250514"
+}

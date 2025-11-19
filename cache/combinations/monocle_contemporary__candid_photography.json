@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Monocle's documentary-inspired editorial approach aligns perfectly with candid photography's authentic moment capture. Both prioritize natural lighting and genuine environments over artificial staging."
+  },
+  "description": {
+    "name": "Global Authenticity",
+    "tagline": "Sophisticated candid photography that captures unguarded moments of international culture and craftsmanship with editorial polish.",
+    "full_description": "This style merges Monocle's refined editorial sensibility with the spontaneous energy of candid photography, creating images that feel both discovered and carefully considered. The approach favors natural moments in sophisticated environments - artisans at work in their studios, entrepreneurs in thoughtful conversation, or travelers experiencing authentic cultural exchanges. The photography maintains Monocle's signature restraint through muted color palettes and generous negative space while embracing candid photography's commitment to genuine, unposed moments.\n\nTechnically, the style employs available light whenever possible, favoring the golden hour warmth and soft overcast conditions that Monocle prefers. Fast shutter speeds capture fleeting gestures and authentic expressions, while the 35-85mm focal length range allows for intimate yet respectful documentation. The post-processing maintains natural skin tones with subtle desaturation, avoiding the over-processed look that might compromise authenticity.\n\nThe resulting images possess a documentary quality that supports Monocle's editorial mission of intelligent global reporting. Each photograph tells a story about place, craft, or human connection while maintaining the visual sophistication expected of premium lifestyle journalism. The candid approach reveals character and personality that posed photography might miss, creating more compelling portraits of the entrepreneurs, designers, and cultural figures that populate Monocle's pages.",
+    "visual_expectations": "Natural moments captured in well-designed spaces with soft, ambient lighting and muted color palettes featuring navy, forest green, and cream tones. Subjects appear relaxed and unposed within their authentic environments, with generous negative space and subtle orange accent elements integrated naturally into compositions. Sharp but warm digital capture that feels documentary-inspired yet polished.",
+    "use_cases": [
+      "International lifestyle and culture magazines",
+      "Corporate storytelling for design-focused brands",
+      "Editorial portraits of entrepreneurs and creatives"
+    ]
+  },
+  "suggested_subjects": [
+    "Artisans working in their studios with natural window light",
+    "Business travelers in airport lounges during golden hour",
+    "Chefs preparing dishes in restaurant kitchens during service"
+  ],
+  "prompt_keywords": [
+    "candid documentary",
+    "natural available light",
+    "muted sophisticated palette",
+    "unposed authentic moments",
+    "editorial lifestyle"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "monocle_contemporary",
+  "photography_id": "candid_photography",
+  "id": "monocle_contemporary__candid_photography",
+  "generated_at": "2025-11-13T09:45:51.201035",
+  "llm_model": "claude-sonnet-4-20250514"
+}

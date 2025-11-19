@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 2,
+    "overall_harmony": 8,
+    "reasoning": "Contemporary Elle's digital-optimized approach aligns perfectly with modern editorial photography's evolution toward social media integration and authentic representation. The technical precision and story-driven focus complement each other naturally."
+  },
+  "description": {
+    "name": "Digital Editorial",
+    "tagline": "Contemporary editorial photography optimized for Elle's social-first, diversity-focused digital platform.",
+    "full_description": "This combination merges traditional editorial storytelling with Elle's contemporary digital-first aesthetic, creating images that work seamlessly across print and social media platforms. The photography maintains editorial's core strength of authentic, story-driven imagery while embracing Elle's signature saturated color palette, clean lighting, and Instagram-optimized composition. Each frame balances journalistic integrity with the polished, shareable quality that defines modern fashion media.\n\nThe technical approach combines editorial photography's natural lighting preferences with Elle's ring-light perfection and minimal shadow philosophy. Compositions favor the tight crops and vertical orientations that work on mobile screens, while maintaining editorial's commitment to environmental context and authentic subject relationships. The result is imagery that feels both professionally crafted and digitally native.\n\nPost-processing reflects Elle's contemporary standards with selective saturation boosts and skin smoothing, but retains editorial's commitment to preserving shadow detail and natural textures. The aesthetic serves Elle's values-conscious, diverse audience while meeting the platform's need for content that performs across multiple digital channels and consumption contexts.",
+    "visual_expectations": "Clean, bright lighting with golden hour warmth and minimal shadows. Saturated colors with millennial pink and electric blue accents optimized for phone screens. Tight facial crops mixed with environmental context shots. Ultra-smooth digital retouching with crisp sharpness. Vertical compositions designed for social media sharing.",
+    "use_cases": [
+      "Elle digital magazine feature stories",
+      "Social media editorial content for Instagram and TikTok",
+      "Cross-platform fashion journalism campaigns"
+    ]
+  },
+  "suggested_subjects": [
+    "Diverse fashion influencers in sustainable clothing brands",
+    "Gen-Z entrepreneurs in their creative workspaces",
+    "Body-positive activists at wellness and lifestyle events"
+  ],
+  "prompt_keywords": [
+    "social-media-optimized",
+    "saturated-colors",
+    "ring-light-clean",
+    "vertical-composition",
+    "digital-native"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "elle_contemporary",
+  "photography_id": "editorial_photography",
+  "id": "elle_contemporary__editorial_photography",
+  "generated_at": "2025-11-13T10:03:38.631096",
+  "llm_model": "claude-sonnet-4-20250514"
+}

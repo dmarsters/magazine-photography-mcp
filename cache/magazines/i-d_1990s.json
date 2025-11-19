@@ -1,0 +1,43 @@
+{
+  "name": "i-D (1990s)",
+  "display_name": "i-D: Street Culture Era",
+  "era": {
+    "start": 1990,
+    "end": 1999,
+    "label": "Street culture documentation and youth rebellion"
+  },
+  "visual_treatment": {
+    "color_palette": "High saturation primary colors, neon accents, stark black and white contrasts, fluorescent pinks and greens",
+    "lighting": "Harsh direct flash, strong shadows, blown-out highlights, street lighting effects, unflattering documentary-style illumination",
+    "contrast": "Extreme high contrast with deep blacks and bright whites, intentionally overexposed flash photography",
+    "texture": "Heavy grain from pushed film, rough printing quality, xerox-like reproduction, deliberately lo-fi aesthetic"
+  },
+  "composition": {
+    "framing": "Tight crops on faces, extreme close-ups, unconventional angles, off-center subjects",
+    "spatial_relationships": "Crowded layouts with overlapping elements, collage-like arrangements, text integrated into imagery",
+    "perspectives": "Street-level viewpoints, candid documentary angles, worm's eye view, deliberately amateur framing",
+    "layout_philosophy": "Anti-design aesthetic, deliberately chaotic, fanzine-inspired layouts, rejection of traditional magazine composition"
+  },
+  "technical": {
+    "film_or_technology": "35mm film pushed to high ISO, disposable cameras, Polaroid instant film, cheap color negative film",
+    "lens_character": "Built-in flash aesthetics, wide-angle distortion, plastic lens characteristics from toy cameras",
+    "post_processing": "Minimal retouching, high contrast printing, color shifts from cheap processing, deliberate technical imperfection"
+  },
+  "cultural_context": {
+    "values": "Authenticity over polish, youth culture documentation, anti-establishment rebellion, DIY ethos",
+    "subject_matter": "Club kids, street fashion, emerging musicians, underground culture, youth subcultures",
+    "target_audience": "Fashion-forward youth, club scene participants, creative underground, early adopters",
+    "era_signature": "Pre-internet youth culture documentation with raw immediacy and cultural authenticity"
+  },
+  "temporal_markers": [
+    "Pre-digital photography limitations creating authentic grain and color shifts",
+    "Rave and club culture influence on color and styling choices",
+    "Xerox and photocopier aesthetic integrated into design",
+    "Disposable camera and amateur photography celebration",
+    "Anti-supermodel movement toward real people and street casting"
+  ],
+  "distinguishing_features": "Combination of high fashion sensibility with deliberately amateur photographic technique, celebrating imperfection and authenticity over technical excellence, pioneering street style documentation",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:25:02.241369",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "creative_anachronism",
+    "technical_score": 4,
+    "aesthetic_score": 3,
+    "creative_tension": 9,
+    "overall_harmony": 5,
+    "reasoning": "This pairing creates fascinating tension between 90s Vogue's polished studio glamour and documentary's raw authenticity. The contrast between supermodel perfection and candid realism offers compelling creative possibilities despite fundamental aesthetic conflicts."
+  },
+  "description": {
+    "name": "Supermodel Documentary",
+    "tagline": "Behind-the-scenes intimacy meets high fashion power in an unprecedented glimpse into 90s supermodel culture.",
+    "full_description": "This revolutionary approach strips away the polished studio veneer of 90s Vogue to reveal the authentic human moments behind supermodel mythology. Imagine Linda Evangelista caught in natural light between takes, or Naomi Campbell's unguarded expressions during a backstage moment, captured with documentary honesty rather than fashion perfection. The aesthetic maintains documentary's commitment to truth while preserving the era's distinctive color palette and cultural significance.\n\nThe technical approach abandons medium format studio precision for handheld 35mm intimacy, trading perfect lighting for available light authenticity. Rich jewel tones and saturated colors remain, but emerge naturally from the environment rather than controlled studio conditions. Sharp documentary focus captures every detail, from fabric textures to genuine facial expressions, creating an unprecedented archive of fashion industry reality.\n\nThis style transforms fashion photography from aspirational fantasy into compelling human narrative. The power of 90s supermodels becomes even more striking when captured in unposed moments, their natural charisma documented rather than constructed. The result is both historical document and artistic statement, preserving the glamour era through an unexpectedly honest lens.",
+    "visual_expectations": "Candid supermodels in natural poses and genuine expressions, rich 90s color saturation captured in available light, documentary-style composition with fashion industry backstage environments, sharp handheld focus on authentic moments and textures, environmental context showing the real world of high fashion production",
+    "use_cases": [
+      "Fashion industry behind-the-scenes documentation",
+      "Retrospective exhibitions on 90s supermodel culture",
+      "Editorial features exploring fashion history authenticity"
+    ]
+  },
+  "suggested_subjects": [
+    "Supermodels during backstage preparations and candid moments",
+    "Fashion photographers and crew during high-end shoots",
+    "Haute couture fitting sessions and design consultations"
+  ],
+  "prompt_keywords": [
+    "backstage candid",
+    "90s supermodel",
+    "natural light",
+    "documentary style",
+    "fashion industry"
+  ],
+  "temporal_notes": "This anachronistic pairing imagines documentary photographers gaining unprecedented access to the typically controlled world of 90s high fashion, creating tension between the era's polished aesthetic expectations and documentary's commitment to unvarnished truth.",
+  "magazine_id": "vogue_1990s",
+  "photography_id": "documentary_photography",
+  "id": "vogue_1990s__documentary_photography",
+  "generated_at": "2025-11-13T09:58:33.147500",
+  "llm_model": "claude-sonnet-4-20250514"
+}

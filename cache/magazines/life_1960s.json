@@ -1,0 +1,43 @@
+{
+  "name": "Life (1960s)",
+  "display_name": "Life: Photojournalism Golden Age",
+  "era": {
+    "start": 1960,
+    "end": 1969,
+    "label": "Peak photojournalism and cultural documentation era"
+  },
+  "visual_treatment": {
+    "color_palette": "Rich saturated Kodachrome colors when in color, deep blacks and bright whites in B&W with full tonal range",
+    "lighting": "Natural light preferred, dramatic chiaroscuro in portraits, available light pushed to limits",
+    "contrast": "High contrast with deep shadows and bright highlights, punchy blacks in reproduction",
+    "texture": "Fine grain structure from professional film stocks, sharp detail with occasional motion blur for narrative effect"
+  },
+  "composition": {
+    "framing": "Decisive moment framing, often tight crops that eliminate non-essential elements, human-scale perspectives",
+    "spatial_relationships": "Layered depth with clear foreground-background relationships, environmental context preserved",
+    "perspectives": "Eye-level intimate viewpoints, occasional dramatic low or high angles for impact stories",
+    "layout_philosophy": "Content-driven composition prioritizing emotional impact and narrative clarity over formal beauty"
+  },
+  "technical": {
+    "film_or_technology": "35mm Kodachrome for color, Tri-X for B&W, medium format for portraits, Leica and Nikon systems",
+    "lens_character": "Sharp but not clinical, slight vignetting, natural field curvature, fast lenses for available light",
+    "post_processing": "Minimal retouching, hot press printing for rich blacks, color correction for accurate skin tones"
+  },
+  "cultural_context": {
+    "values": "Truth-telling through photography, human dignity, American optimism tempered by social awareness",
+    "subject_matter": "Civil rights, space program, Vietnam War, cultural icons, ordinary Americans, global events",
+    "target_audience": "Middle-class American families seeking visual understanding of their changing world",
+    "era_signature": "Photojournalism as cultural authority and shared national experience"
+  },
+  "temporal_markers": [
+    "Kodachrome's distinctive color rendering with slight magenta cast",
+    "35mm grain structure visible in enlargements",
+    "Fashion and hairstyles of subjects dating images precisely",
+    "Printing technology limitations creating characteristic dot patterns",
+    "Available light photography pushed to technical limits"
+  ],
+  "distinguishing_features": "Combines artistic sophistication with mass media accessibility, prioritizes human stories over abstract concepts, maintains consistent visual quality across diverse subject matter from war zones to Hollywood",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:23:57.390662",
+  "llm_model": "claude-sonnet-4-20250514"
+}

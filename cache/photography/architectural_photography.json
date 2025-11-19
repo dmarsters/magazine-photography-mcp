@@ -1,0 +1,47 @@
+{
+  "name": "Architectural Photography",
+  "technical": {
+    "focal_length": "Wide-angle 14-35mm for exteriors and interiors, 50-85mm for details, tilt-shift lenses for perspective correction",
+    "depth_of_field": "Deep DOF (f/8-f/16) to maintain sharpness throughout the frame, occasional shallow DOF for detail isolation",
+    "shutter_speed": "Tripod-based long exposures (1/15s to several seconds), especially for twilight and interior lighting",
+    "lighting": "Golden hour and blue hour preferred, HDR techniques for high contrast scenes, artificial lighting for interiors, light painting",
+    "camera_format": "Full-frame and medium format cameras for maximum detail and dynamic range, high-resolution sensors essential"
+  },
+  "aesthetic": {
+    "composition": "Emphasis on geometric patterns, leading lines, symmetry, rule of thirds, vertical and horizontal line correction",
+    "subject_background": "Building integrated with surrounding context or isolated against sky, minimal distracting elements",
+    "tonal_range": "Full tonal range with detailed shadows and highlights, often HDR processing for interior-exterior balance",
+    "color_approach": "Natural color rendition emphasizing material textures, warm interior lighting contrasted with cool exterior light",
+    "texture_detail": "Sharp detail in materials (concrete, glass, steel, wood), surface textures and patterns emphasized"
+  },
+  "shooting_approach": {
+    "subject_distance": "Variable from wide establishing shots to intimate detail close-ups, often multiple distances for comprehensive coverage",
+    "angle_perspective": "Low angles for monumentality, eye-level for human scale, elevated positions for context, corrected verticals",
+    "subject_relationship": "Formal documentation approach, occasional human elements for scale, emphasis on design intent",
+    "environment": "Primarily location-based, natural context essential, occasional studio work for architectural models"
+  },
+  "context": {
+    "typical_uses": [
+      "Architectural documentation",
+      "Real estate marketing",
+      "Design portfolio presentation",
+      "Urban planning",
+      "Historical preservation"
+    ],
+    "historical_context": "Emerged in 1850s with architectural documentation needs, evolved with modernist movement emphasizing clean lines and form",
+    "key_characteristics": "Perspective correction, emphasis on form and function, geometric composition, attention to lighting and materials",
+    "related_styles": [
+      "Interior photography",
+      "Urban landscape",
+      "Fine art photography",
+      "Documentary photography"
+    ]
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "Early work focused on documentation, mid-century emphasized modernist aesthetics, contemporary work includes HDR techniques and digital perspective correction"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:25:50.985241",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Still Life Photography",
+  "technical": {
+    "focal_length": "85-135mm for classic distortion-free rendering, 50mm for environmental context, macro lenses for extreme detail work",
+    "depth_of_field": "Variable - shallow DOF for selective focus and bokeh, deep DOF for sharp detail throughout composition",
+    "shutter_speed": "1/60s to several seconds, often slower speeds due to controlled lighting and tripod use",
+    "lighting": "Controlled studio lighting - softboxes, diffusers, reflectors, window light, multiple light sources for shadow control",
+    "camera_format": "Medium format preferred for maximum detail and tonal gradation, full-frame digital, large format for commercial work"
+  },
+  "aesthetic": {
+    "composition": "Rule of thirds, triangular arrangements, leading lines, careful negative space management, geometric balance",
+    "subject_background": "Clean, uncluttered backgrounds that complement subject, often neutral tones or textured surfaces",
+    "tonal_range": "Full tonal range preferred, subtle gradations, controlled contrast, rich shadows and highlights",
+    "color_approach": "Harmonious color relationships, monochromatic schemes, complementary palettes, often muted or saturated depending on intent",
+    "texture_detail": "High emphasis on surface textures, material qualities, sharp detail rendering, tactile visual qualities"
+  },
+  "shooting_approach": {
+    "subject_distance": "Close to medium distances allowing detailed subject rendering while maintaining compositional context",
+    "angle_perspective": "Eye-level to slight overhead angles, occasionally dramatic low angles for impact, precise viewpoint selection",
+    "subject_relationship": "Highly controlled and deliberate arrangements, formal composition, intentional object relationships",
+    "environment": "Primarily controlled studio environments, occasionally natural window light setups, minimal environmental distractions"
+  },
+  "context": {
+    "typical_uses": [
+      "Commercial product photography",
+      "Fine art gallery work",
+      "Editorial illustration",
+      "Advertising campaigns",
+      "Artistic personal expression"
+    ],
+    "historical_context": "Emerged with early photography in 1840s, influenced by Dutch Golden Age paintings, evolved through pictorialism to modernist approaches",
+    "key_characteristics": "Inanimate subjects, controlled lighting, deliberate composition, emphasis on form and texture, timeless quality",
+    "related_styles": [
+      "Product photography",
+      "Food photography",
+      "Macro photography",
+      "Fine art photography",
+      "Commercial advertising photography"
+    ]
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "Victorian era emphasized elaborate arrangements, 1920s-30s brought modernist simplification, digital era enabled precise lighting control and post-processing refinement"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:25:30.474453",
+  "llm_model": "claude-sonnet-4-20250514"
+}

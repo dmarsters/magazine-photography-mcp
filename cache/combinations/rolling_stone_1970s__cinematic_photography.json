@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "creative_anachronism",
+    "technical_score": 7,
+    "aesthetic_score": 8,
+    "creative_tension": 6,
+    "overall_harmony": 7,
+    "reasoning": "The warm, grainy authenticity of 1970s Rolling Stone pairs intriguingly with cinematic drama, creating a heightened documentary feel. Modern cinematic techniques elevate the intimate rock journalism aesthetic while maintaining its countercultural authenticity."
+  },
+  "description": {
+    "name": "Cinematic Counterculture",
+    "tagline": "The golden age of rock journalism meets Hollywood storytelling drama.",
+    "full_description": "This fusion transforms the intimate, grain-soaked world of 1970s Rolling Stone photography into something more theatrically dramatic while preserving its rebellious authenticity. The result captures musicians and cultural figures with the insider access and warm film tones of classic rock journalism, but elevated through cinematic lighting techniques and narrative framing that makes every shot feel like a scene from an epic music biopic.\n\nThe aesthetic maintains the earthy, saturated color palette and heavy grain structure that defined counterculture photography, but introduces more controlled lighting scenarios and deliberate compositional drama. Natural window light becomes more directional and moody, backstage moments are framed with greater cinematic intention, and the casual intimacy of 1970s music photography gains layers of visual storytelling depth.\n\nThis approach works particularly well for contemporary music photography that wants to evoke the mythic quality of rock's golden age while meeting modern visual expectations. The combination creates images that feel both authentically vintage and cinematically polished, perfect for artists who want to channel the romantic mythology of 1970s music culture through a more contemporary visual language.",
+    "visual_expectations": "Warm, saturated film colors with heavy grain structure and earth tones, dramatic directional lighting that maintains natural feel, intimate close-ups with cinematic depth and framing, controlled shadows and moody atmospheric conditions, rich textural details in both foreground and background elements",
+    "use_cases": [
+      "Music artist promotional photography with vintage rock aesthetic",
+      "Documentary-style concert and backstage photography with dramatic flair",
+      "Editorial portraits of cultural figures with countercultural authenticity"
+    ]
+  },
+  "suggested_subjects": [
+    "Contemporary rock musicians in vintage-inspired settings",
+    "Behind-the-scenes music industry moments with dramatic lighting",
+    "Cultural figures and artists in intimate environmental portraits"
+  ],
+  "prompt_keywords": [
+    "warm film grain",
+    "dramatic directional lighting",
+    "intimate backstage",
+    "earth tones",
+    "cinematic framing"
+  ],
+  "temporal_notes": "The anachronism creates compelling tension between 1970s authenticity and modern cinematic polish, resulting in images that feel like scenes from a high-budget period film about rock's golden age.",
+  "magazine_id": "rolling_stone_1970s",
+  "photography_id": "cinematic_photography",
+  "id": "rolling_stone_1970s__cinematic_photography",
+  "generated_at": "2025-11-13T09:34:07.058842",
+  "llm_model": "claude-sonnet-4-20250514"
+}

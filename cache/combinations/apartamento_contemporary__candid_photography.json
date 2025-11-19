@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 9,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Both Apartamento's contemporary editorial approach and candid photography emerged from similar anti-perfectionist values, celebrating authentic moments over staged compositions. The natural lighting preferences and intimate framing philosophies align perfectly for capturing lived-in domestic spaces."
+  },
+  "description": {
+    "name": "Intimate Documentary",
+    "tagline": "Authentic home stories captured through unguarded moments and natural light.",
+    "full_description": "This approach transforms domestic spaces into compelling visual narratives by documenting the authentic, unposed moments that reveal how people truly inhabit their homes. Drawing from Apartamento's editorial sensibility, the photography embraces imperfection and genuine human presence, using abundant natural light to illuminate both architectural details and spontaneous interactions. The aesthetic prioritizes emotional resonance over technical perfection, creating images that feel discovered rather than directed.\n\nThe visual language speaks to a generation that values substance over superficial luxury, capturing morning coffee rituals, creative work sessions, and quiet domestic moments with the same editorial sophistication typically reserved for fashion shoots. Each frame balances documentary authenticity with considered composition, revealing personal style through accumulated objects, worn textures, and the natural patina of daily life.\n\nThis combination excels at storytelling through environmental details and candid human moments, creating a visual diary of contemporary creative living that feels both aspirational and attainable. The result is photography that invites viewers into genuine spaces rather than showrooms, celebrating the beauty found in authentic domestic life.",
+    "visual_expectations": "Soft natural light streaming through windows illuminating dust motes and textile textures, people caught in genuine moments of daily life within their personal spaces, layered compositions showing books, plants, and personal objects in natural arrangements, warm color palettes dominated by cream whites and muted earth tones, and slightly imperfect framings that feel spontaneous rather than calculated.",
+    "use_cases": [
+      "Editorial features on creative professionals' homes and studios",
+      "Lifestyle brand campaigns emphasizing authenticity over aspiration",
+      "Architectural photography that prioritizes human inhabitation over pristine interiors"
+    ]
+  },
+  "suggested_subjects": [
+    "Artist reading in sunlit studio surrounded by work-in-progress",
+    "Morning coffee preparation in lived-in kitchen with natural mess",
+    "Creative professional working at cluttered desk by window"
+  ],
+  "prompt_keywords": [
+    "natural_window_light",
+    "candid_domestic_moment",
+    "muted_earth_tones",
+    "authentic_imperfection",
+    "lived_in_space"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "apartamento_contemporary",
+  "photography_id": "candid_photography",
+  "id": "apartamento_contemporary__candid_photography",
+  "generated_at": "2025-11-13T10:07:29.961134",
+  "llm_model": "claude-sonnet-4-20250514"
+}

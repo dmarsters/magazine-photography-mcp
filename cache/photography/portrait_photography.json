@@ -1,0 +1,49 @@
+{
+  "name": "Portrait Photography",
+  "technical": {
+    "focal_length": "85-135mm for headshots, 50-85mm for environmental portraits, wide aperture lenses preferred (f/1.4-f/2.8)",
+    "depth_of_field": "Shallow DOF dominant (f/1.4-f/4) for subject isolation, occasionally deep DOF for environmental context",
+    "shutter_speed": "1/60s-1/250s for static poses, 1/125s minimum for handheld to avoid camera shake",
+    "lighting": "Soft, directional lighting preferred - studio strobes, softboxes, natural window light, reflectors for fill",
+    "camera_format": "Full-frame and medium format for professional work, APS-C acceptable, mirrorless increasingly common"
+  },
+  "aesthetic": {
+    "composition": "Rule of thirds for eye placement, leading lines toward subject, negative space for impact, tight framing on face/upper body",
+    "subject_background": "Background secondary to subject - either creamy bokeh, simple textures, or contextual environments that don't compete",
+    "tonal_range": "Moderate to high contrast emphasizing facial features, careful shadow/highlight balance on skin tones",
+    "color_approach": "Accurate skin tone reproduction paramount, often warmer color temperature (3200-5600K), muted backgrounds",
+    "texture_detail": "Sharp focus on eyes essential, skin texture balanced - detailed but flattering, fabric and hair texture secondary"
+  },
+  "shooting_approach": {
+    "subject_distance": "3-8 feet typical working distance to avoid perspective distortion, closer for intimate headshots",
+    "angle_perspective": "Eye level or slightly above, 45-degree lighting angle common, avoid extreme high/low angles",
+    "subject_relationship": "Mix of posed and candid moments, formal business portraits vs intimate personal portraits",
+    "environment": "Controlled studio settings, natural outdoor locations, architectural backgrounds, subject's natural environment"
+  },
+  "context": {
+    "typical_uses": [
+      "Professional headshots",
+      "Family portraits",
+      "Fashion and beauty",
+      "Editorial portraits",
+      "Wedding photography",
+      "Corporate photography"
+    ],
+    "historical_context": "Evolved from painted portraiture traditions, formalized with studio photography in early 1900s, democratized with 35mm cameras",
+    "key_characteristics": "Subject is primary focus, emphasis on capturing personality and character, technical excellence in skin tones and eye sharpness",
+    "related_styles": [
+      "Fashion photography",
+      "Street portraiture",
+      "Documentary portraiture",
+      "Fine art portraiture",
+      "Corporate headshots"
+    ]
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "Classical formal poses (1900s-1950s) to casual environmental portraits (1960s+), digital era brought focus stacking and advanced retouching"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:27:04.883969",
+  "llm_model": "claude-sonnet-4-20250514"
+}

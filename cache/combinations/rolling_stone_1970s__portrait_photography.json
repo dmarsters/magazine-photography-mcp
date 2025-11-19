@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 9,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Portrait photography and 1970s Rolling Stone aesthetic align perfectly, as intimate musician portraits were core to the magazine's visual identity. The warm film tones and natural lighting approach enhance traditional portraiture techniques."
+  },
+  "description": {
+    "name": "Rockstar Intimacy",
+    "tagline": "Capturing the soul behind the music with 1970s Rolling Stone's legendary intimate portrait style.",
+    "full_description": "This style transforms traditional portrait photography through the lens of Rolling Stone's golden age, when photographers like Annie Leibovitz and Baron Wolman created iconic images that revealed the humanity behind rock's biggest stars. The approach emphasizes natural, available light scenarios—soft window light filtering across weathered faces, the golden glow of backstage bulbs, or the dramatic contrast of stage lighting caught in quiet moments between performances.\n\nThe visual treatment celebrates the organic imperfections of film grain and the warm, saturated color palette that defined 1970s photography. Earth tones, deep reds, and golden yellows create an atmosphere of authenticity and intimacy, while the medium-to-high contrast renders rich blacks and creamy highlights that make subjects feel both mythical and approachable. The grain structure adds texture and soul, preventing the clinical perfection of modern digital portraiture.\n\nCompositions favor close-ups and medium shots that capture unguarded moments and genuine expressions. Rather than formal posed sessions, this style suggests insider access—the photographer as confidant rather than outsider. Environmental elements provide context without overwhelming the subject, creating layered scenes that tell stories about the person's world and creative process.",
+    "visual_expectations": "Visible film grain texture that adds character and authenticity, warm golden-hour color grading with emphasis on earth tones and saturated reds, natural catchlight in eyes from window or ambient light sources, slightly soft focus quality that enhances intimacy over clinical sharpness, environmental details that suggest creative or bohemian lifestyle contexts",
+    "use_cases": [
+      "Musician and artist headshots with authentic character",
+      "Creative professional portraits for writers and performers",
+      "Personal branding photography with vintage rock aesthetic"
+    ]
+  },
+  "suggested_subjects": [
+    "Singer-songwriter with acoustic guitar in natural light",
+    "Bearded artist in leather jacket against brick wall",
+    "Bohemian creative type with vintage clothing and natural styling"
+  ],
+  "prompt_keywords": [
+    "1970s film grain",
+    "warm golden hour lighting",
+    "natural window light portrait",
+    "earth tones color grading",
+    "intimate rock star aesthetic"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "rolling_stone_1970s",
+  "photography_id": "portrait_photography",
+  "id": "rolling_stone_1970s__portrait_photography",
+  "generated_at": "2025-11-13T09:35:37.528090",
+  "llm_model": "claude-sonnet-4-20250514"
+}

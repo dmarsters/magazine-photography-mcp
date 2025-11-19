@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 9,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Both share sophisticated digital-era technical precision and restrained aesthetic approaches. The New Yorker's architectural coverage and architectural photography's documentary rigor align perfectly with mutual emphasis on intellectual depth and visual clarity."
+  },
+  "description": {
+    "name": "Architectural Intelligence",
+    "tagline": "Sophisticated architectural documentation that merges journalistic rigor with design appreciation.",
+    "full_description": "This style combines The New Yorker's intellectual sophistication with architectural photography's technical precision, creating images that function as both documentation and cultural commentary. The approach emphasizes clean, geometric compositions shot with tilt-shift precision, but infused with the magazine's signature restraint and thoughtful narrative context. Lighting follows architectural photography's golden hour and blue hour standards, while maintaining The New Yorker's preference for natural, unmanipulated aesthetics.\n\nThe visual treatment balances technical perfection with editorial storytelling, featuring the magazine's muted, sophisticated color palette applied to architectural subjects. Deep depth of field ensures every structural detail remains sharp, while generous white space in composition echoes The New Yorker's layout philosophy. The result captures not just buildings, but the cultural and social contexts they inhabit.\n\nPost-processing maintains architectural photography's emphasis on material authenticity while incorporating The New Yorker's preference for realistic color grading. HDR techniques are employed judiciously, avoiding over-processing in favor of nuanced tonal relationships that serve the editorial narrative. This creates images suitable for both technical documentation and sophisticated cultural analysis.",
+    "visual_expectations": "Geometrically precise compositions with corrected verticals and carefully balanced horizontals. Muted color palettes emphasizing burgundies and deep blues against neutral architectural materials. Sharp detail throughout the frame with particular attention to surface textures and material qualities. Strategic use of human scale elements and environmental context. Clean, uncluttered framing with generous negative space.",
+    "use_cases": [
+      "Cultural architecture features examining buildings' social impact",
+      "Urban development investigations requiring both technical accuracy and narrative depth",
+      "Design criticism pieces balancing aesthetic appreciation with intellectual analysis"
+    ]
+  },
+  "suggested_subjects": [
+    "Frank Gehry's contemporary museums photographed during blue hour",
+    "Brutalist housing developments with residents for scale and context",
+    "Historic preservation projects showing architectural layers and time"
+  ],
+  "prompt_keywords": [
+    "tilt-shift precision",
+    "sophisticated restraint",
+    "golden hour geometry",
+    "editorial documentation",
+    "architectural intelligence"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "the_new_yorker_contemporary",
+  "photography_id": "architectural_photography",
+  "id": "the_new_yorker_contemporary__architectural_photography",
+  "generated_at": "2025-11-13T09:57:18.025942",
+  "llm_model": "claude-sonnet-4-20250514"
+}

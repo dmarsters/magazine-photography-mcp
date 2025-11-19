@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 7,
+    "aesthetic_score": 6,
+    "creative_tension": 8,
+    "overall_harmony": 7,
+    "reasoning": "The combination creates fascinating tension between portrait photography's traditional emphasis on flattering subjects and Wired's aggressive, experimental aesthetic. The technical approaches can merge well, but the visual philosophies create productive creative conflict."
+  },
+  "description": {
+    "name": "Digital Pioneers",
+    "tagline": "Tech visionaries captured through Wired's revolutionary lens of electric colors and deconstructed design.",
+    "full_description": "This style transforms traditional portraiture through Wired's groundbreaking 1990s aesthetic, where subjects become digital prophets bathed in electric Day-Glo colors and harsh studio lighting. Portraits break conventional rules with extreme crops cutting through faces, Dutch angles, and backgrounds of circuit board grids and floating digital elements. The usual soft, flattering approach gives way to high-contrast drama with blown-out highlights and deep blacks, while neon accent lighting and computer screen glows create an otherworldly atmosphere.\n\nSubjects are framed as pioneers of the digital revolution, their faces sharply rendered against oversaturated CMYK backgrounds of hot pink, lime green, and electric blue. Traditional portrait composition is deconstructed - eyes might be placed off-center in radical crops, with scan lines and pixelated elements integrated as design features rather than flaws. The result captures both human character and the era's techno-optimistic fervor.\n\nThis approach works best for subjects connected to technology, innovation, or creative industries, transforming standard headshots into manifestos of digital culture. The aggressive visual treatment demands confident subjects who can match the intensity of Wired's revolutionary design philosophy.",
+    "visual_expectations": "Electric Day-Glo color overlays on traditional portrait lighting, extreme close-up crops cutting unconventionally through subjects, harsh shadows mixed with neon accent lighting creating dramatic contrast, circuit board-inspired geometric elements layered over backgrounds, scan lines and digital artifacts integrated as intentional design elements",
+    "use_cases": [
+      "Tech entrepreneur profile shoots",
+      "Creative industry professional headshots",
+      "Editorial portraits for innovation magazines"
+    ]
+  },
+  "suggested_subjects": [
+    "Tech startup founders and entrepreneurs",
+    "Digital artists and creative technologists",
+    "Innovation leaders and futurists"
+  ],
+  "prompt_keywords": [
+    "day-glo electric colors",
+    "harsh studio lighting",
+    "extreme close-up crop",
+    "digital scan lines",
+    "circuit board background"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "wired_1990s",
+  "photography_id": "portrait_photography",
+  "id": "wired_1990s__portrait_photography",
+  "generated_at": "2025-11-13T10:01:51.018947",
+  "llm_model": "claude-sonnet-4-20250514"
+}

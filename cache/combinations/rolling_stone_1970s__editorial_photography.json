@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 9,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Perfect temporal and stylistic alignment as 1970s Rolling Stone defined editorial photography for music culture. The intimate access approach and warm film aesthetic creates seamless harmony between magazine style and photographic technique."
+  },
+  "description": {
+    "name": "Backstage Access",
+    "tagline": "Intimate editorial photography capturing the authentic soul of 1970s counterculture with insider proximity and artistic vision.",
+    "full_description": "This style embodies the golden age of rock journalism when Rolling Stone photographers gained unprecedented access to music's biggest stars in their most candid moments. Shot on warm 35mm color film with natural lighting, these images reveal the humanity behind the mythology - artists in hotel rooms, backstage conversations, and quiet moments between performances. The aesthetic balances documentary authenticity with sophisticated composition, using available light to create intimate portraits that feel like stolen glimpses into an exclusive world.\n\nThe visual approach prioritizes genuine connection over studio perfection, employing medium shots and environmental framing that places subjects within meaningful contexts. Film grain adds texture and warmth, while the saturated color palette of earth tones and deep blues creates the romantic atmosphere that defined an era. Every frame suggests privileged access, as if the viewer has been granted entry to the inner circle of cultural revolutionaries.\n\nTechnically refined yet emotionally immediate, this style captures subjects at eye level with natural expressions, avoiding the constructed feel of traditional portrait work. The photography serves the story first, with compositions that accommodate editorial layouts while maintaining artistic integrity and cultural significance.",
+    "visual_expectations": "Rich film grain texture throughout the image, warm color grading with emphasis on golden yellows and deep earth tones, natural lighting creating soft shadows and authentic atmosphere, intimate framing showing environmental context, and subjects captured in candid, unguarded moments.",
+    "use_cases": [
+      "Music industry feature stories and artist profiles",
+      "Cultural documentary projects exploring creative communities",
+      "Editorial spreads celebrating artistic authenticity and counterculture movements"
+    ]
+  },
+  "suggested_subjects": [
+    "Musicians in recording studios or backstage environments",
+    "Artists and cultural figures in their creative spaces",
+    "Behind-the-scenes moments at concerts or cultural events"
+  ],
+  "prompt_keywords": [
+    "1970s film grain",
+    "warm golden hour lighting",
+    "backstage intimacy",
+    "counterculture documentary",
+    "authentic candid moment"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "rolling_stone_1970s",
+  "photography_id": "editorial_photography",
+  "id": "rolling_stone_1970s__editorial_photography",
+  "generated_at": "2025-11-13T09:35:16.510444",
+  "llm_model": "claude-sonnet-4-20250514"
+}

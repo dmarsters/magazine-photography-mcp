@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 4,
+    "overall_harmony": 8,
+    "reasoning": "Both emerged from 1990s anti-establishment culture, sharing raw authenticity and rejection of polish. The grittiness of early Dazed perfectly complements photojournalism's truth-telling approach, though editorial fashion meets documentary reality."
+  },
+  "description": {
+    "name": "Underground Truth",
+    "tagline": "Raw photojournalism meets 90s underground rebellion in deliberately imperfect documentation.",
+    "full_description": "This hybrid approach transforms traditional photojournalism through the lens of 1990s underground culture, creating images that feel like dispatches from the margins of society. The combination takes photojournalism's commitment to authentic storytelling and filters it through Dazed's anti-establishment aesthetic - harsh fluorescent lighting, high-contrast grain, and deliberately amateur compositions that reject mainstream polish. The result is documentary photography that captures not just events, but the raw energy of youth rebellion and subcultural movements.\n\nVisually, this style embraces the accidental and imperfect, using cheap cameras and pushed film to create images that feel urgently real rather than carefully crafted. Subjects are caught in unflattering angles and harsh lighting that reveals rather than flatters, while the heavy grain and blown-out highlights suggest images salvaged from the underground rather than professionally produced. The aesthetic suggests truth found in imperfection - photocopied flyers, rave documentation, and street-level reality.\n\nThis approach excels at documenting alternative culture, protest movements, and youth subcultures with an insider's authenticity. It's photojournalism for the margins - capturing stories that mainstream media might miss or sanitize, told in a visual language that speaks directly to those living these experiences.",
+    "visual_expectations": "Heavy black and white grain with blown highlights and crushed blacks, harsh fluorescent or flash lighting creating unflattering shadows, deliberately awkward framing with subjects cut off or positioned off-center, photocopier-quality texture with degraded contrast, candid moments captured with snapshot-style immediacy",
+    "use_cases": [
+      "Underground music scene documentation",
+      "Youth protest and activism coverage",
+      "Alternative fashion and subculture features"
+    ]
+  },
+  "suggested_subjects": [
+    "Club kids at illegal warehouse raves",
+    "Street protesters in anti-establishment demonstrations",
+    "Underground musicians in DIY venues"
+  ],
+  "prompt_keywords": [
+    "harsh_fluorescent_lighting",
+    "blown_out_grain",
+    "photocopier_aesthetic",
+    "unflattering_candid",
+    "underground_documentation"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "dazed_1990s",
+  "photography_id": "photojournalism",
+  "id": "dazed_1990s__photojournalism",
+  "generated_at": "2025-11-13T10:05:37.150106",
+  "llm_model": "claude-sonnet-4-20250514"
+}

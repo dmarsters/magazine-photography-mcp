@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 9,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Perfect synergy between National Geographic's 1970s documentary approach and candid photography's authentic moment capture. Both prioritize natural lighting, environmental context, and genuine human subjects over staged perfection."
+  },
+  "description": {
+    "name": "Kodachrome Candids",
+    "tagline": "Spontaneous cultural moments captured with the warm, saturated authenticity of documentary film's golden age.",
+    "full_description": "This style merges National Geographic's 1970s mastery of Kodachrome film with candid photography's unposed authenticity, creating images that feel like discovered treasures from a distant expedition. The signature warm amber sunlight and deep cobalt skies of Kodachrome provide a rich, nostalgcalls backdrop for genuine human moments - a child's spontaneous laughter in a Moroccan marketplace, an elder's weathered hands crafting traditional pottery, or workers pausing naturally during their daily routines.\n\nThe aesthetic balances documentary rigor with emotional intimacy, using the medium format's tack-sharp detail and fine grain structure to capture authentic expressions and environmental textures. Subjects are photographed in their natural contexts, unaware of the camera, allowing their true personalities and cultural settings to shine through Kodachrome's distinctive color palette. The film's slight magenta cast in shadows and warm color temperature create an almost mythical quality to everyday moments.\n\nTechnically, this approach employs natural lighting mastery with careful attention to golden hour illumination and subtle fill techniques, while maintaining the candid photographer's priority on authentic moments over perfect technical execution. The result is imagery that feels both scientifically documentary and deeply human, capturing the soul of places and people with the visual richness that made 1970s National Geographic legendary.",
+    "visual_expectations": "Rich Kodachrome color saturation with warm amber highlights and deep shadow detail, unposed subjects showing genuine emotions and natural body language, environmental context showing cultural or geographic settings, fine film grain texture with tack-sharp focal points, layered compositions with distinct foreground and background elements providing storytelling depth",
+    "use_cases": [
+      "Cultural documentary projects capturing authentic traditions and daily life",
+      "Travel photography focusing on genuine local interactions and environments",
+      "Social documentary work preserving disappearing ways of life with artistic vision"
+    ]
+  },
+  "suggested_subjects": [
+    "Traditional craftspeople working in natural light workshops",
+    "Children playing in culturally rich environments like markets or village squares",
+    "Elderly community members engaged in daily routines or storytelling"
+  ],
+  "prompt_keywords": [
+    "kodachrome",
+    "candid",
+    "natural_lighting",
+    "cultural_documentary",
+    "warm_saturated_colors"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "national_geographic_1970s",
+  "photography_id": "candid_photography",
+  "id": "national_geographic_1970s__candid_photography",
+  "generated_at": "2025-11-13T09:37:50.509260",
+  "llm_model": "claude-sonnet-4-20250514"
+}

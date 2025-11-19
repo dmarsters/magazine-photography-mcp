@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 9,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Perfect temporal alignment as editorial photography was National Geographic's core approach in the 1970s. Both prioritize authentic storytelling with environmental context and natural lighting, enhanced by Kodachrome's legendary color rendition."
+  },
+  "description": {
+    "name": "Kodachrome Storytelling",
+    "tagline": "Documentary editorial photography with the rich, saturated warmth that defined an era of exploration and discovery.",
+    "full_description": "This combination captures the golden age of magazine photography, when National Geographic's editorial assignments created some of the most compelling documentary images ever made. Shot on legendary Kodachrome film stock, these images feature the format's signature deep cobalt skies, rich forest greens, and warm amber sunlight that made every frame feel like a precious discovery. The editorial approach ensures each photograph serves the story, with subjects given breathing room within their natural environments and careful attention to the layered depth that creates visual narrative.\n\nThe technical mastery of 1970s National Geographic photographers shines through natural light preference and patient observation, allowing authentic moments to unfold while maintaining the sharp detail and fine grain structure that Kodachrome 25 and 64 delivered. Environmental context takes precedence, with wide-angle perspectives establishing place and culture while intimate portraits reveal human connection. Every frame contributes to a larger story, whether documenting remote cultures before globalization or capturing pristine wilderness areas.\n\nThis aesthetic represents the last era of 'undiscovered' places, when long-term documentary assignments allowed photographers to document seasonal changes and behavioral patterns with scientific accuracy and artistic vision. The result is imagery that feels both educational and emotionally compelling, with Kodachrome's distinctive color science creating that warm, slightly shifted color temperature that became synonymous with exploration and cultural respect.",
+    "visual_expectations": "Rich, saturated colors with Kodachrome's distinctive warmth and slight magenta cast in shadows, environmental contexts with layered foreground-middle-background depth, natural lighting with preserved shadow detail and controlled highlights, ultra-fine grain structure with tack-sharp details, subjects integrated naturally within their authentic surroundings.",
+    "use_cases": [
+      "Cultural documentation and anthropological studies",
+      "Environmental and wildlife storytelling essays",
+      "Travel photography with educational narrative focus"
+    ]
+  },
+  "suggested_subjects": [
+    "Indigenous communities in traditional dress within their natural environments",
+    "Wildlife behavior in pristine wilderness settings with dramatic natural lighting",
+    "Archaeological sites and ancient ruins with contextual landscape elements"
+  ],
+  "prompt_keywords": [
+    "kodachrome",
+    "editorial storytelling",
+    "natural lighting",
+    "environmental context",
+    "documentary narrative"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "national_geographic_1970s",
+  "photography_id": "editorial_photography",
+  "id": "national_geographic_1970s__editorial_photography",
+  "generated_at": "2025-11-13T09:41:55.637637",
+  "llm_model": "claude-sonnet-4-20250514"
+}

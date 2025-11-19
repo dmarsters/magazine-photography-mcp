@@ -1,0 +1,43 @@
+{
+  "name": "Drone Photography",
+  "technical": {
+    "focal_length": "Wide angle 24-35mm equivalent, some 50-85mm for compression effects",
+    "depth_of_field": "Deep DOF (f/5.6-f/11) for maximum sharpness across frame",
+    "shutter_speed": "1/250s or faster for stability, 1/60s for intentional motion blur",
+    "lighting": "Golden hour and blue hour preferred, even overcast for diffused light",
+    "camera_format": "Small sensor (1/2.3\" to APS-C), 12-48MP, 4K video capability"
+  },
+  "aesthetic": {
+    "composition": "Rule of thirds, leading lines, geometric patterns, symmetry from above",
+    "subject_background": "Subject integrated into larger landscape context, patterns emerge",
+    "tonal_range": "High dynamic range, balanced exposure, detail in shadows and highlights",
+    "color_approach": "Enhanced saturation, polarized blues and greens, warm/cool contrast",
+    "texture_detail": "Sharp detail throughout frame, surface textures emphasized from aerial view"
+  },
+  "shooting_approach": {
+    "subject_distance": "50-400 feet altitude typical, varies from intimate to expansive views",
+    "angle_perspective": "Straight down (orthogonal), 45-degree angles, low altitude reveal shots",
+    "subject_relationship": "Subjects unaware or posed for scale, emphasis on environment over individual",
+    "environment": "Outdoor locations, coastal areas, urban environments, natural landscapes"
+  },
+  "context": {
+    "typical_uses": [
+      "Real estate marketing",
+      "Landscape documentation",
+      "Event coverage",
+      "Commercial advertising",
+      "Travel photography",
+      "Mapping and surveying"
+    ],
+    "historical_context": "Emerged 2010s with consumer drone accessibility, democratized aerial photography",
+    "key_characteristics": "Unique elevated perspectives, geometric patterns invisible from ground level, scalability of subjects",
+    "related_styles": "Aerial photography, architectural photography, landscape photography, street photography from above"
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "Early era (2013-2016) focused on novelty of height, modern era emphasizes sophisticated composition and cinematic movement"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:26:29.461004",
+  "llm_model": "claude-sonnet-4-20250514"
+}

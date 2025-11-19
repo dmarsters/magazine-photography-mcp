@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "1990s Vogue's medium format film technology and controlled studio lighting perfectly align with still life photography's technical demands. The era's emphasis on luxurious textures and perfect technical execution complements still life's detail-focused approach."
+  },
+  "description": {
+    "name": "Luxe Objects",
+    "tagline": "High-fashion still life photography capturing luxury objects with supermodel-era glamour and technical perfection.",
+    "full_description": "This combination transforms everyday objects into fashion statements through 1990s Vogue's lens of aspirational luxury and technical mastery. Medium format film captures every surface detail with the same precision that made supermodels legendary, while dramatic studio lighting sculpts objects like haute couture on the runway. Rich jewel tones and deep blacks create the sophisticated color palette that defined the decade's most memorable fashion spreads.\n\nThe aesthetic bridges commercial product photography with editorial sophistication, treating each subject as if it were a coveted luxury item worthy of museum display. Compositions emphasize the inherent drama of form and shadow, using the same lighting techniques that transformed models into icons. The result is still life photography with an unmistakable sense of prestige and desirability.\n\nEvery frame embodies the era's belief that perfection was achievable through superior craftsmanship and attention to detail. The film's organic grain and natural color saturation create a warmth that digital perfection cannot replicate, making even the simplest objects appear covetable and timeless.",
+    "visual_expectations": "Rich saturated colors with deep blacks and metallic highlights, dramatic directional lighting creating sculptural shadows, ultra-sharp medium format film grain revealing every surface texture, tight compositions that fill the frame with luxurious detail, glossy surfaces and pristine technical quality throughout.",
+    "use_cases": [
+      "Luxury product campaigns for jewelry, watches, and high-end accessories",
+      "Editorial spreads showcasing designer objects and lifestyle products",
+      "Fine art gallery exhibitions celebrating material culture and luxury aesthetics"
+    ]
+  },
+  "suggested_subjects": [
+    "Designer handbags and luxury leather goods",
+    "High-end jewelry and precious metals",
+    "Premium cosmetics and perfume bottles"
+  ],
+  "prompt_keywords": [
+    "medium format film",
+    "dramatic studio lighting",
+    "rich jewel tones",
+    "luxury textures",
+    "high contrast shadows"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "vogue_1990s",
+  "photography_id": "still_life_photography",
+  "id": "vogue_1990s__still_life_photography",
+  "generated_at": "2025-11-13T09:52:03.913333",
+  "llm_model": "claude-sonnet-4-20250514"
+}

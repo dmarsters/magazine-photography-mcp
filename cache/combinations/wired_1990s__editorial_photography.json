@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 9,
+    "creative_tension": 8,
+    "overall_harmony": 9,
+    "reasoning": "Perfect temporal match with 1990s Wired's revolutionary editorial approach amplified by high creative tension from extreme digital aesthetics. Editorial photography's storytelling foundation provides ideal structure for Wired's radical visual experimentation."
+  },
+  "description": {
+    "name": "Cyber Editorial",
+    "tagline": "Revolutionary digital-age storytelling that turned tech pioneers into electric prophets of the future.",
+    "full_description": "This explosive combination captures the moment when traditional editorial photography collided with the digital revolution, creating a visual language that was part journalism, part manifesto. 1990s Wired didn't just photograph tech leaders—it transformed them into cyberpunk evangelists through radical color treatments, extreme crops, and aggressive digital manipulation that pushed printing technology to its absolute limits. Environmental portraits of entrepreneurs became electric tableaux, with subjects emerging from seas of day-glo color and digital artifacts that celebrated rather than concealed the new medium's fingerprints.\n\nThe editorial foundation ensures authentic storytelling and environmental context, while Wired's aesthetic revolution transforms every mundane office space into a digital playground of hot pink shadows, lime green highlights, and electric blue computer screen glows. This wasn't documentary photography—it was propaganda for the digital future, where even the most buttoned-up CEO could be rendered as a neon-soaked prophet of technological transformation.\n\nEvery image pulsed with the era's techno-optimism, using scan lines and pixelation as design elements rather than flaws, creating a visual vocabulary that screamed 'the future is here.' The result was editorial photography that didn't just inform—it indoctrinated viewers into believing that digital technology would fundamentally rewire human consciousness.",
+    "visual_expectations": "Subjects photographed in authentic environments but bathed in electric day-glo colors with harsh digital shadows, extreme close-up crops cutting through faces and bodies in unconventional ways, computer screen glows and neon accent lighting creating otherworldly atmospheres, heavy digital manipulation with visible scan lines and pixelation as aesthetic choices, stark white backgrounds exploding with oversaturated CMYK colors that seem to vibrate off the page.",
+    "use_cases": [
+      "Tech industry profiles and founder features",
+      "Digital culture and cyberpunk-themed editorials",
+      "Retro-futuristic corporate campaigns"
+    ]
+  },
+  "suggested_subjects": [
+    "Tech entrepreneurs in their offices with vintage computers",
+    "Digital artists working with early computer graphics",
+    "Internet pioneers surrounded by server equipment"
+  ],
+  "prompt_keywords": [
+    "day-glo colors",
+    "digital artifacts",
+    "neon lighting",
+    "extreme crop",
+    "cyberpunk editorial"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "wired_1990s",
+  "photography_id": "editorial_photography",
+  "id": "wired_1990s__editorial_photography",
+  "generated_at": "2025-11-13T10:01:36.245668",
+  "llm_model": "claude-sonnet-4-20250514"
+}

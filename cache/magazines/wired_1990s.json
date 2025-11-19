@@ -1,0 +1,42 @@
+{
+  "name": "Wired (1990s)",
+  "display_name": "Wired: Digital Pioneer Era",
+  "era": {
+    "start": 1993,
+    "end": 1999,
+    "label": "Digital culture emergence and dot-com boom"
+  },
+  "visual_treatment": {
+    "color_palette": "Electric Day-Glo colors - hot pink, lime green, electric blue, orange - against stark white backgrounds with heavy use of CMYK oversaturation",
+    "lighting": "High-contrast studio lighting with harsh shadows, neon accent lighting, computer screen glow effects",
+    "contrast": "Extreme contrast with blown-out highlights and deep blacks, minimal mid-tones",
+    "texture": "Crisp digital sharpness, pixelated elements, scan lines, digital artifacts as design elements"
+  },
+  "composition": {
+    "framing": "Extreme close-ups mixed with wide environmental shots, unconventional crops cutting through subjects",
+    "spatial_relationships": "Layered digital collages, floating elements, circuit board-inspired grids",
+    "perspectives": "Dutch angles, overhead shots, macro lens distortion, fish-eye effects",
+    "layout_philosophy": "Deconstructed magazine design breaking traditional grid systems, text wrapping around irregular shapes"
+  },
+  "technical": {
+    "film_or_technology": "Early digital cameras, drum scanners, Photoshop 2.0-3.0, QuarkXPress layouts",
+    "lens_character": "Wide-angle distortion, macro lenses for extreme close-ups, telephoto compression",
+    "post_processing": "Heavy digital manipulation, color channel separation effects, posterization, early CGI integration"
+  },
+  "cultural_context": {
+    "values": "Technology optimism, digital revolution evangelism, counterculture meets corporate",
+    "subject_matter": "Tech entrepreneurs, cyberpunk aesthetics, computer hardware, digital artists, internet pioneers",
+    "target_audience": "Early adopters, tech professionals, digital creatives, venture capitalists",
+    "era_signature": "Belief that digital technology would fundamentally transform human experience"
+  },
+  "temporal_markers": [
+    "CRT monitor scan lines and pixel grids as design elements",
+    "Y2K-era digital anxiety mixed with techno-optimism",
+    "Pre-web 2.0 clunky digital interfaces romanticized",
+    "Rave culture and electronic music aesthetic influence"
+  ],
+  "distinguishing_features": "Aggressive use of fluorescent colors that pushed printing technology limits, treating digital artifacts as aesthetic choices rather than flaws, revolutionary magazine design that abandoned traditional publishing conventions",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:25:05.080261",
+  "llm_model": "claude-sonnet-4-20250514"
+}

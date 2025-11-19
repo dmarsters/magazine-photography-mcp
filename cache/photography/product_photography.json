@@ -1,0 +1,45 @@
+{
+  "name": "Product Photography",
+  "technical": {
+    "focal_length": "85-135mm for minimal distortion, 50mm standard, macro lenses for detail shots",
+    "depth_of_field": "Variable - deep DOF for overall product clarity, shallow for hero shots and luxury items",
+    "shutter_speed": "1/60s to 1/250s, often tripod-mounted for consistency",
+    "lighting": "Controlled studio lighting with softboxes, diffusers, reflectors; key, fill, and rim lighting setup",
+    "camera_format": "Full-frame DSLR/mirrorless, medium format for high-end commercial work"
+  },
+  "aesthetic": {
+    "composition": "Clean, centered compositions; rule of thirds for lifestyle context; negative space emphasis",
+    "subject_background": "Seamless white/gray backgrounds, or contextual environments that don't compete with product",
+    "tonal_range": "High contrast with retained detail in highlights and shadows; even tonal distribution",
+    "color_approach": "Accurate color reproduction; neutral backgrounds; brand-consistent color schemes",
+    "texture_detail": "Sharp, detailed rendering of product textures; emphasis on material quality and craftsmanship"
+  },
+  "shooting_approach": {
+    "subject_distance": "Close enough to show product details clearly while maintaining context",
+    "angle_perspective": "Straight-on, 45-degree angles, overhead flat lays; multiple angles for comprehensive coverage",
+    "subject_relationship": "Formal, pristine presentation; products often isolated or in carefully staged contexts",
+    "environment": "Primarily controlled studio environments; occasional lifestyle settings for context"
+  },
+  "context": {
+    "typical_uses": [
+      "E-commerce catalogs",
+      "Advertising campaigns",
+      "Marketing materials",
+      "Social media content"
+    ],
+    "historical_context": "Evolved from catalog photography in early 1900s; revolutionized by digital photography and e-commerce",
+    "key_characteristics": "Clean presentation, accurate representation, consistent lighting, brand alignment",
+    "related_styles": [
+      "Still life photography",
+      "Commercial photography",
+      "Advertising photography"
+    ]
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "Evolution from formal catalog style to lifestyle integration; social media influence creating more casual, contextual approaches"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:25:43.479752",
+  "llm_model": "claude-sonnet-4-20250514"
+}

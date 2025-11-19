@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Portrait photography was central to LIFE's mission during the 1940s, perfectly aligned with their humanistic storytelling approach. The technical demands of both styles complement each other seamlessly."
+  },
+  "description": {
+    "name": "Wartime Portraits",
+    "tagline": "Intimate human stories captured with the documentary gravitas and emotional depth that defined America's greatest photojournalism era.",
+    "full_description": "This style merges LIFE magazine's pioneering photojournalistic approach with the intimate power of portrait photography during World War II and its aftermath. These portraits carry the weight of history while revealing the individual humanity behind the headlines - servicemen before deployment, factory workers on the home front, families separated by war, and leaders bearing the burden of momentous decisions. The aesthetic embraces LIFE's signature high contrast black and white treatment with dramatic chiaroscuro lighting, creating portraits that feel both journalistically authentic and emotionally profound.\n\nTechnically, this approach uses the era's preferred tools - 35mm Leica cameras and Speed Graphics - to create sharp but not clinical portraits with natural perspective. The lighting philosophy favors available light sources enhanced by careful positioning, creating the kind of dramatic shadows and bright highlights that made LIFE's photography so compelling. Compositions follow the magazine's dynamic, off-center framing while maintaining portrait photography's essential focus on the subject's eyes and expression.\n\nThe resulting images possess a timeless quality that speaks to universal human experiences while being unmistakably rooted in one of history's most defining decades. Every portrait becomes a window into both an individual story and the broader American experience of the 1940s.",
+    "visual_expectations": "Rich black and white tones with deep shadows and bright highlights, natural lighting creating dramatic facial modeling, sharp focus on eyes with moderate background separation, period-appropriate clothing and hairstyles, film grain texture adding authenticity",
+    "use_cases": [
+      "Historical documentary projects capturing personal stories",
+      "Editorial portraits requiring gravitas and emotional depth",
+      "Family legacy photography with timeless classical appeal"
+    ]
+  },
+  "suggested_subjects": [
+    "Elderly veteran in uniform with weathered hands",
+    "Young woman in 1940s work attire by factory window",
+    "Father in suit holding vintage family photograph"
+  ],
+  "prompt_keywords": [
+    "chiaroscuro lighting",
+    "silver halide grain",
+    "dramatic shadows",
+    "natural window light",
+    "1940s portrait"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "life_1940s",
+  "photography_id": "portrait_photography",
+  "id": "life_1940s__portrait_photography",
+  "generated_at": "2025-11-13T09:33:34.236804",
+  "llm_model": "claude-sonnet-4-20250514"
+}

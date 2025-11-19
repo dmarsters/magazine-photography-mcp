@@ -1,0 +1,43 @@
+{
+  "name": "Purple (2000s)",
+  "display_name": "Purple: Underground Cool",
+  "era": {
+    "start": 2000,
+    "end": 2009,
+    "label": "Post-internet underground fashion"
+  },
+  "visual_treatment": {
+    "color_palette": "Desaturated with selective pops of neon, heavy use of blacks and grays, occasional stark whites, muted pastels, and signature purple accents",
+    "lighting": "Natural, unpolished lighting with harsh shadows, fluorescent office lighting, flash photography creating stark contrasts, often underexposed",
+    "contrast": "High contrast black and white mixed with low-contrast color work, deliberately muddy mid-tones",
+    "texture": "Heavy grain, digital artifacts, photocopied aesthetics, deliberately lo-fi with visible compression and pixelation"
+  },
+  "composition": {
+    "framing": "Unconventional crops, off-center subjects, documentary-style candids, awkward poses that feel unstaged",
+    "spatial_relationships": "Cramped urban environments, cluttered backgrounds, subjects often dwarfed by architecture or technology",
+    "perspectives": "Street-level viewpoints, voyeuristic angles, handheld camera instability, anti-glamorous positioning",
+    "layout_philosophy": "Anti-design approach with clashing typefaces, asymmetrical layouts, intentional visual discord"
+  },
+  "technical": {
+    "film_or_technology": "Early digital cameras mixed with cheap film stocks, disposable cameras, camera phones, deliberately amateur equipment",
+    "lens_character": "Wide-angle distortion, plastic lens aberrations, built-in flash creating flat lighting, no lens corrections",
+    "post_processing": "Minimal retouching, preserved digital noise, oversaturated color channels, deliberate technical 'mistakes'"
+  },
+  "cultural_context": {
+    "values": "Anti-establishment, underground authenticity, rejection of mainstream beauty standards, celebration of outsider culture",
+    "subject_matter": "Street fashion, underground music scenes, youth subcultures, urban decay, technology integration into daily life",
+    "target_audience": "Art students, underground fashion enthusiasts, early adopters of digital culture, anti-commercial creatives",
+    "era_signature": "Bridging analog punk aesthetics with early digital culture, pre-social media authenticity"
+  },
+  "temporal_markers": [
+    "Early digital camera artifacts and compression",
+    "Flip phone and early internet cafe environments",
+    "Y2K-influenced fashion and technology anxiety",
+    "Pre-Instagram raw photography aesthetics",
+    "Dot-com era urban gentrification backdrop"
+  ],
+  "distinguishing_features": "Deliberately amateur aesthetic that influenced later 'authentic' social media photography, pioneering the anti-glossy movement in fashion photography, mixing high fashion with lo-fi presentation",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:25:14.781296",
+  "llm_model": "claude-sonnet-4-20250514"
+}

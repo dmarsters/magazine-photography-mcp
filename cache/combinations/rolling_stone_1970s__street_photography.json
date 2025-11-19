@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Both Rolling Stone 1970s and street photography emphasize authentic, candid moments using available light and 35mm film. The magazine's documentary authenticity philosophy perfectly aligns with street photography's unposed, spontaneous approach to capturing real life."
+  },
+  "description": {
+    "name": "Counterculture Streets",
+    "tagline": "Capturing the raw authenticity of 1970s urban life through the lens of music journalism's golden age.",
+    "full_description": "This combination merges the intimate, insider access aesthetic of 1970s Rolling Stone with the spontaneous energy of street photography, creating images that feel like discovered moments from rock and roll's most mythologized decade. The warm, saturated film colors and rich grain structure of the era enhance the organic authenticity that street photography demands, while the magazine's emphasis on meaningful backgrounds and environmental context perfectly supports street photography's narrative depth.\n\nThe technical approach favors 35mm color negative film with natural lighting scenarios, capturing subjects in their urban environments with the same insider perspective that made Rolling Stone's music photography legendary. Medium contrast with creamy highlights and rich blacks creates punchy but intimate imagery that feels both documentary and artistic.\n\nThis style excels at finding the extraordinary in ordinary street scenes, treating everyday urban life with the same reverence Rolling Stone gave to backstage moments and cultural figures. The result is street photography that carries the romantic mythology and cultural weight of the counterculture era, where every candid moment feels significant and every urban scene tells a story of social change and artistic rebellion.",
+    "visual_expectations": "Warm, golden film tones with visible grain structure enhancing texture and authenticity. Natural available light creating soft shadows and organic contrast. Intimate framing that brings viewers close to street subjects while maintaining environmental context. Rich color saturation emphasizing earth tones, deep reds, and golden yellows typical of 1970s film stock. Layered compositions showing meaningful interaction between subjects and their urban backgrounds.",
+    "use_cases": [
+      "Urban cultural documentation with artistic depth",
+      "Street portraits that capture authentic human moments",
+      "Architectural photography emphasizing lived-in urban environments"
+    ]
+  },
+  "suggested_subjects": [
+    "Musicians or artists in urban settings",
+    "Street performers and their audiences",
+    "Vintage storefronts and neighborhood scenes"
+  ],
+  "prompt_keywords": [
+    "1970s film grain",
+    "warm saturated colors",
+    "available light",
+    "candid street moment",
+    "urban authenticity"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "rolling_stone_1970s",
+  "photography_id": "street_photography",
+  "id": "rolling_stone_1970s__street_photography",
+  "generated_at": "2025-11-13T09:33:30.773297",
+  "llm_model": "claude-sonnet-4-20250514"
+}

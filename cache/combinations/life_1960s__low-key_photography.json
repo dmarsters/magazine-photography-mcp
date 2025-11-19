@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 7,
+    "creative_tension": 4,
+    "overall_harmony": 8,
+    "reasoning": "Life magazine's sophisticated lighting techniques and dramatic photojournalism align well with low-key photography's controlled contrast approach. The combination creates tension between documentary authenticity and artistic dramatic effect."
+  },
+  "description": {
+    "name": "Dramatic Photojournalism",
+    "tagline": "Classic Life magazine storytelling meets theatrical shadow work for powerful human narratives.",
+    "full_description": "This style merges Life magazine's legendary photojournalistic approach with the dramatic lighting control of low-key photography, creating images that feel both authentic and cinematically powerful. The combination draws from the magazine's 1960s golden age, when photographers like Gordon Parks and W. Eugene Smith used dramatic lighting to elevate human stories beyond mere documentation into visual poetry. The aesthetic maintains Life's commitment to truth-telling while embracing the emotional amplification that strategic shadow work provides.\n\nTechnically, this approach uses the controlled lighting principles of low-key photography within Life's documentary framework, often working with available light sources pushed to dramatic extremes. The resulting images feature Life's characteristic sharp detail and rich tonal range, but with more pronounced contrast ratios and selective illumination that guides the viewer's attention to crucial narrative elements.\n\nThe visual language speaks to pivotal moments in human experience - the kind of decisive moments Life specialized in, but rendered with the psychological depth that dramatic lighting affords. This creates photographs that function both as historical documents and as emotionally resonant visual statements, embodying the magazine's belief that photography could shape public consciousness while achieving genuine artistic merit.",
+    "visual_expectations": "Rich Kodachrome colors in highlights fading to deep shadows, subjects emerging dramatically from darker backgrounds, characteristic Life magazine grain structure visible in shadow areas, strong directional lighting that sculpts facial features and environmental details, high contrast between illuminated story elements and surrounding darkness.",
+    "use_cases": [
+      "Documentary portraits of cultural figures and social leaders",
+      "Coverage of significant historical events with dramatic environmental lighting",
+      "Intimate storytelling photography for editorial features"
+    ]
+  },
+  "suggested_subjects": [
+    "Civil rights leaders in moments of contemplation",
+    "Artists and writers in their creative spaces",
+    "Ordinary Americans facing extraordinary circumstances"
+  ],
+  "prompt_keywords": [
+    "dramatic photojournalism",
+    "life magazine style",
+    "low-key lighting",
+    "kodachrome shadows",
+    "documentary chiaroscuro"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "life_1960s",
+  "photography_id": "low-key_photography",
+  "id": "life_1960s__low-key_photography",
+  "generated_at": "2025-11-13T10:04:05.687829",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "GQ (contemporary)",
+  "display_name": "GQ: Digital Sophistication Era",
+  "era": {
+    "start": 2010,
+    "end": null,
+    "label": "Digital-first luxury masculinity"
+  },
+  "visual_treatment": {
+    "color_palette": "Rich saturated colors with strategic desaturation; deep navy, charcoal, burgundy, forest green; clean whites and warm metallics; selective color pops",
+    "lighting": "Controlled studio lighting with soft shadows; golden hour naturalism; dramatic directional lighting for portraits; LED-perfect skin tones",
+    "contrast": "Medium-high contrast with preserved shadow detail; punchy but refined tonal separation; maintains luxury magazine polish",
+    "texture": "Tack-sharp digital clarity; fabric textures emphasized; skin retouched but maintaining masculine character; tactile material focus"
+  },
+  "composition": {
+    "framing": "Clean geometric frames; full-body fashion shots; intimate portrait crops; architectural integration; negative space utilization",
+    "spatial_relationships": "Layered depth with foreground/background separation; urban environments as backdrops; product integration within lifestyle contexts",
+    "perspectives": "Eye-level engagement; slight upward angles for aspiration; environmental scale showing subject in context",
+    "layout_philosophy": "Swiss-influenced typography; generous whitespace; content hierarchy through scale; mobile-first responsive thinking"
+  },
+  "technical": {
+    "film_or_technology": "High-resolution digital cameras (Canon 5D series, Phase One medium format); iPhone photography for authentic moments",
+    "lens_character": "85mm portrait character; wide apertures for separation; architectural precision lenses; subtle vignetting",
+    "post_processing": "Sophisticated Photoshop retouching; color grading for mood consistency; skin work maintaining texture; HDR-influenced dynamic range"
+  },
+  "cultural_context": {
+    "values": "Inclusive masculinity; sustainability consciousness; mental health awareness; diverse representation; authentic luxury",
+    "subject_matter": "Diverse male celebrities; fashion as self-expression; grooming and wellness; social issues; tech culture intersection",
+    "target_audience": "Progressive millennial and Gen-Z men; urban professionals; culturally engaged consumers; style-conscious diversity",
+    "era_signature": "Instagram-informed but elevated; inclusivity without sacrificing aspiration; digital-native sophistication"
+  },
+  "temporal_markers": [
+    "Social media influenced vertical compositions",
+    "Diverse casting reflecting contemporary values",
+    "Streetwear elevated to luxury status",
+    "Smartphone photography integration",
+    "Sustainability messaging in fashion context"
+  ],
+  "distinguishing_features": "Balances traditional menswear authority with contemporary inclusivity; digital-native layout thinking applied to print sensibilities; aspirational accessibility replacing exclusive luxury",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:23:39.267722",
+  "llm_model": "claude-sonnet-4-20250514"
+}

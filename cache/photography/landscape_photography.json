@@ -1,0 +1,48 @@
+{
+  "name": "Landscape Photography",
+  "technical": {
+    "focal_length": "Wide-angle (14-35mm) for expansive vistas, telephoto (70-200mm) for compression and isolation of distant subjects, ultra-wide (10-24mm) for dramatic foregrounds",
+    "depth_of_field": "Deep DOF (f/8-f/16) to maintain sharpness from foreground to background, hyperfocal distance focusing techniques",
+    "shutter_speed": "Variable: fast (1/125s+) for sharp details, long exposure (30s-several minutes) for motion blur in water/clouds, tripod essential for stability",
+    "lighting": "Golden hour and blue hour preferred, diffused overcast light for even exposure, polarizing filters to manage reflections and enhance sky contrast",
+    "camera_format": "Full-frame and medium format for maximum dynamic range and detail, high-resolution sensors, weather-sealed bodies"
+  },
+  "aesthetic": {
+    "composition": "Rule of thirds, leading lines, foreground-midground-background layering, symmetry and reflections, S-curves and diagonal elements",
+    "subject_background": "Seamless integration where landscape elements work together as unified composition, no separation between subject and environment",
+    "tonal_range": "Full tonal range from deep shadows to bright highlights, HDR techniques common, emphasis on detail retention in both shadows and highlights",
+    "color_approach": "Natural color palette emphasizing earth tones, dramatic skies with enhanced contrast, seasonal color variations, desaturated or enhanced depending on mood",
+    "texture_detail": "Maximum sharpness and detail throughout frame, emphasis on natural textures like rock formations, water movement, cloud patterns"
+  },
+  "shooting_approach": {
+    "subject_distance": "Varies from intimate foreground details (1-3 feet) to infinity, emphasis on spatial relationships across vast distances",
+    "angle_perspective": "Low angles to emphasize foreground drama, elevated positions for overview perspectives, eye-level for human connection to landscape",
+    "subject_relationship": "Pure documentary approach to natural scenes, minimal human intervention, patient waiting for optimal conditions",
+    "environment": "Exclusively natural outdoor locations, often remote wilderness areas, coastal regions, mountains, deserts, forests"
+  },
+  "context": {
+    "typical_uses": [
+      "Fine art gallery exhibitions",
+      "Tourism and travel promotion",
+      "Environmental conservation advocacy",
+      "Calendar and wall art",
+      "National park documentation"
+    ],
+    "historical_context": "Emerged in mid-19th century with Ansel Adams and f/64 group, evolved from romantic painting traditions, gained prominence with large format photography",
+    "key_characteristics": "Sharp focus throughout, dramatic natural lighting, emphasis on natural beauty and wilderness preservation, technical precision in exposure and printing",
+    "related_styles": [
+      "Nature photography",
+      "Wilderness photography",
+      "Seascape photography",
+      "Mountain photography",
+      "Architectural landscape"
+    ]
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "Classic era (1930s-1970s) emphasized black and white with maximum detail. Modern digital era features HDR processing, focus stacking, and enhanced color saturation. Contemporary trends include minimalist compositions and abstract landscape interpretations."
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:25:53.310841",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Harper's Bazaar (1950s)",
+  "display_name": "Harper's Bazaar: Golden Age Glamour",
+  "era": {
+    "start": 1950,
+    "end": 1959,
+    "label": "Post-war haute couture renaissance"
+  },
+  "visual_treatment": {
+    "color_palette": "Rich saturated colors with emphasis on jewel tones, classic black and white high-contrast work, sophisticated burgundy, emerald, and navy accents",
+    "lighting": "Dramatic studio lighting with strong directional sources, creating pronounced shadows and sculptural dimensionality on fashion and faces",
+    "contrast": "High contrast black and white work with deep blacks and bright whites, color work features rich saturation with careful tonal gradation",
+    "texture": "Sharp, crisp detail with minimal grain, luxurious fabric textures emphasized, smooth skin tones with subtle gradation"
+  },
+  "composition": {
+    "framing": "Full-length fashion shots, dramatic close-ups, asymmetrical compositions with strong diagonal elements",
+    "spatial_relationships": "Models positioned with architectural precision, negative space used to emphasize luxury and exclusivity",
+    "perspectives": "Low angles to create statuesque quality, three-quarter poses, dynamic movement within structured frames",
+    "layout_philosophy": "Sophisticated asymmetry, generous white space, typography integrated as design element rather than mere text"
+  },
+  "technical": {
+    "film_or_technology": "Large format cameras with fine-grain black and white film stocks, early color transparency films like Kodachrome for selective color work",
+    "lens_character": "Sharp, clinical precision with medium telephoto compression, minimal distortion, excellent corner-to-corner sharpness",
+    "post_processing": "Meticulous darkroom work with dodging and burning, hand-retouching for flawless skin, careful color separation for printing"
+  },
+  "cultural_context": {
+    "values": "European sophistication, artistic avant-garde sensibility, intellectual approach to fashion as high art",
+    "subject_matter": "Haute couture fashion, cultural luminaries, artistic collaboration between photographers and designers",
+    "target_audience": "Cultured, affluent women with appreciation for art and European fashion",
+    "era_signature": "Post-war optimism channeled into luxurious escapism and artistic experimentation"
+  },
+  "temporal_markers": [
+    "Christian Dior's New Look silhouettes with cinched waists and full skirts",
+    "Collaboration with surrealist and avant-garde artists",
+    "Integration of European art photography aesthetics",
+    "Distinctive Brodovitch-influenced layout and typography"
+  ],
+  "distinguishing_features": "Artistic sophistication beyond pure fashion documentation, treating fashion photography as fine art with surrealist influences, innovative layout design that influenced magazine aesthetics for decades",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:24:50.204267",
+  "llm_model": "claude-sonnet-4-20250514"
+}

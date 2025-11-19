@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Both styles emerged from 1990s counter-culture and share anti-establishment values. Ray Gun's chaotic aesthetic perfectly complements photojournalism's raw authenticity, creating powerful documentary narratives."
+  },
+  "description": {
+    "name": "Chaos Documentation",
+    "tagline": "Raw photojournalism torn apart and reconstructed through Ray Gun's deconstructed visual anarchy.",
+    "full_description": "This explosive combination transforms traditional documentary photography into a fragmented visual assault that mirrors the chaos of the stories being told. Clean photojournalistic images are fed through Ray Gun's analog meat grinder of photocopier distortion, crushed blacks, and illegible typography that bleeds across the frame like urgent breaking news ticker tape. The result maintains journalism's commitment to truth while acknowledging that reality itself has become fractured and overwhelming. Sharp documentary moments are layered with heavy grain, blown-out highlights, and text elements that crash into the image like breaking news alerts. The aesthetic suggests information overload and media saturation while preserving the emotional impact of real human stories. Where traditional photojournalism seeks clarity, this approach embraces the visual noise of modern information consumption, creating layouts where readability battles with raw expression and often loses intentionally.",
+    "visual_expectations": "Documentary photos with extreme contrast and blown highlights, illegible text overlays that fragment across images, heavy photocopier grain and analog distortion artifacts, tilted compositions with chaotic typography, harsh flash lighting with crushed shadow details.",
+    "use_cases": [
+      "Alternative music magazine features documenting underground scenes",
+      "Social justice campaigns that reject polished corporate messaging",
+      "Experimental journalism exploring media fragmentation themes"
+    ]
+  },
+  "suggested_subjects": [
+    "Underground music venues during live performances",
+    "Street protests and grassroots political movements",
+    "Urban decay and gentrification documentation"
+  ],
+  "prompt_keywords": [
+    "photocopier distortion",
+    "blown highlights",
+    "crushed blacks",
+    "overlapping text",
+    "harsh flash"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "ray_gun_1990s",
+  "photography_id": "photojournalism",
+  "id": "ray_gun_1990s__photojournalism",
+  "generated_at": "2025-11-13T09:27:50.764212",
+  "llm_model": "claude-sonnet-4-20250514"
+}

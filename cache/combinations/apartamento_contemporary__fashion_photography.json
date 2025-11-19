@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 7,
+    "aesthetic_score": 6,
+    "creative_tension": 7,
+    "overall_harmony": 7,
+    "reasoning": "Both styles share contemporary origins and high production values, but fashion photography's polished perfection contrasts with Apartamento's authentic imperfection philosophy. The tension creates opportunities for more humanized, lived-in fashion imagery."
+  },
+  "description": {
+    "name": "Intimate Fashion",
+    "tagline": "Fashion photography reimagined through the lens of authentic domestic living and personal style.",
+    "full_description": "This hybrid approach transforms traditional fashion photography by infusing it with Apartamento's signature intimacy and authenticity. Instead of sterile studio perfection, garments are photographed in naturally lit domestic spaces with the same careful attention to texture and material that defines both disciplines. The result maintains fashion photography's technical excellence and compositional sophistication while embracing lived-in imperfection and genuine human moments.\n\nThe aesthetic balances fashion's need to showcase clothing details with Apartamento's muted, naturally saturated palette and abundant natural light. Models appear more like real inhabitants of beautiful spaces rather than mannequins, wearing clothes that feel personally chosen rather than styled. The careful attention to fabric texture and drape remains paramount, but presented within layered, authentic environments that tell personal stories.\n\nThis approach appeals to a design-conscious audience that values substance over luxury, creating fashion imagery that feels aspirational yet attainable. The photography captures not just what to wear, but how to live stylishly and authentically, making fashion feel integrated into real life rather than separate from it.",
+    "visual_expectations": "Natural window light flooding over carefully draped fabrics, models positioned casually within layered domestic interiors, muted color palettes highlighting garment textures against lived-in backgrounds, intimate framings that feel discovered rather than staged, and gentle shadows creating depth without harsh contrast.",
+    "use_cases": [
+      "Independent fashion brand lookbooks emphasizing lifestyle integration",
+      "Editorial spreads showcasing personal style within authentic home environments",
+      "E-commerce imagery for sustainable or artisanal fashion brands targeting conscious consumers"
+    ]
+  },
+  "suggested_subjects": [
+    "Model wearing flowing linen dress in sunlit artist's studio with ceramic objects",
+    "Layered knitwear styled casually in reading nook with vintage books and handmade pottery",
+    "Sustainable fashion pieces worn naturally in plant-filled creative workspace"
+  ],
+  "prompt_keywords": [
+    "natural window light",
+    "lived-in domestic space",
+    "muted earth tones",
+    "fabric texture detail",
+    "casual intimate styling"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "apartamento_contemporary",
+  "photography_id": "fashion_photography",
+  "id": "apartamento_contemporary__fashion_photography",
+  "generated_at": "2025-11-13T09:29:19.474035",
+  "llm_model": "claude-sonnet-4-20250514"
+}

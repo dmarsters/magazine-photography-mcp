@@ -1,0 +1,43 @@
+{
+  "name": "Time (1960s)",
+  "display_name": "Time: Cold War Chronicle",
+  "era": {
+    "start": 1960,
+    "end": 1969,
+    "label": "Cold War newsmagazine documentation"
+  },
+  "visual_treatment": {
+    "color_palette": "Muted earth tones with occasional saturated reds; heavy reliance on black and white photography with selective color usage",
+    "lighting": "High-contrast dramatic lighting; stark shadows for political gravitas; available light documentary style",
+    "contrast": "Deep blacks and bright whites; high contrast ratio emphasizing drama and urgency",
+    "texture": "Fine silver halide grain; sharp focus with occasional motion blur for action; matte printing finish"
+  },
+  "composition": {
+    "framing": "Tight portraits of world leaders; wide establishing shots of conflict zones; formal posed group photos",
+    "spatial_relationships": "Subjects often isolated against stark backgrounds; geometric arrangements for political summits",
+    "perspectives": "Eye-level authoritative angles; occasional low angles for monumentality; bird's eye for crowd scenes",
+    "layout_philosophy": "Clean modernist grid system; bold typography hierarchy; generous white space around key images"
+  },
+  "technical": {
+    "film_or_technology": "35mm black and white film stock; Kodak Tri-X for low light; medium format for portraits",
+    "lens_character": "Sharp, clinical rendering; minimal distortion; standard focal lengths for naturalistic perspective",
+    "post_processing": "Darkroom dodging and burning for dramatic effect; high contrast printing; minimal retouching"
+  },
+  "cultural_context": {
+    "values": "Objective journalism; American perspective on global events; institutional authority",
+    "subject_matter": "Political leaders, war coverage, social movements, space race, cultural figures",
+    "target_audience": "Educated middle-class Americans seeking comprehensive news analysis",
+    "era_signature": "Serious photojournalism capturing the tension and transformation of the turbulent 1960s"
+  },
+  "temporal_markers": [
+    "Vietnam War imagery with stark contrast",
+    "Civil rights movement documentation",
+    "Space program photography",
+    "Cold War political portraiture",
+    "Modernist typography and clean layouts"
+  ],
+  "distinguishing_features": "Combines serious photojournalistic documentary style with sophisticated modernist design; emphasizes gravitas and authority through high contrast imagery and clean typography; balances intimate political portraits with sweeping historical documentation",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:24:28.895839",
+  "llm_model": "claude-sonnet-4-20250514"
+}

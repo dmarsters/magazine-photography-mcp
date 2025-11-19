@@ -1,0 +1,40 @@
+{
+  "name": "Macro Photography",
+  "technical": {
+    "focal_length": "60mm, 90mm, 100mm, 105mm dedicated macro lenses; 180mm-200mm for distant subjects; extension tubes and close-up filters for standard lenses",
+    "depth_of_field": "Extremely shallow DOF (f/2.8-f/5.6) for artistic isolation; moderate DOF (f/8-f/11) for balanced sharpness; deep DOF (f/16-f/22) for maximum detail despite diffraction",
+    "shutter_speed": "1/60s-1/250s handheld with stabilization; 1/500s+ for moving insects; long exposures 1/30s or slower on tripod for static subjects",
+    "lighting": "Ring flash for even illumination; twin flash systems for directional control; LED panels for continuous lighting; natural light with reflectors; focus stacking lighting setups",
+    "camera_format": "Full-frame for shallow DOF control; APS-C for effective focal length extension; mirrorless for silent shooting and EVF magnification"
+  },
+  "aesthetic": {
+    "composition": "Rule of thirds for subject placement; leading lines from natural structures; radial compositions following flower petals or insect anatomy; negative space for subject isolation",
+    "subject_background": "Completely isolated subjects with blown-out or dark backgrounds; complementary natural backgrounds; bokeh patterns from vegetation or water droplets",
+    "tonal_range": "High contrast for dramatic impact; soft, even tones for scientific documentation; selective contrast enhancement on subject details",
+    "color_approach": "Saturated natural colors; complementary color relationships; monochromatic studies; emphasis on subtle color gradations invisible to naked eye",
+    "texture_detail": "Maximum sharpness on focal plane; intricate surface textures emphasized; water droplets and crystalline structures; fine hair, scales, and microscopic details revealed"
+  },
+  "shooting_approach": {
+    "subject_distance": "1:1 magnification (life-size) as standard; 2:1 to 5:1 for extreme close-ups; minimum focusing distances of 0.3-1 meter depending on lens",
+    "angle_perspective": "Eye-level with small subjects; low angles looking up at flowers and insects; perpendicular to flat subjects like leaves; oblique angles for dimensional rendering",
+    "subject_relationship": "Patient observation of natural behavior; minimal disturbance techniques; controlled studio setups for precise positioning; focus on undisturbed natural states",
+    "environment": "Outdoor natural habitats in early morning; controlled studio environments with live subjects; greenhouse settings; underwater macro setups"
+  },
+  "context": {
+    "typical_uses": [
+      "Scientific documentation and research",
+      "Nature and wildlife photography",
+      "Fine art and abstract studies"
+    ],
+    "historical_context": "Emerged in 1960s with dedicated macro lens development; popularized by National Geographic nature photography; digital era enabled focus stacking techniques",
+    "key_characteristics": "Magnification ratios of 1:1 or greater; revelation of normally invisible details; transformation of small subjects into monumental compositions",
+    "related_styles": "Close-up photography, scientific photography, nature photography, abstract photography"
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "Film era limited by single exposure constraints; digital era introduced focus stacking for extended DOF; modern mirrorless systems enable real-time magnification and silent operation for wildlife"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:25:35.249218",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 7,
+    "overall_harmony": 8,
+    "reasoning": "Both emphasize geometric precision and digital perfection, creating natural synergy. The clinical architectural approach aligns with 032c's stark, minimalist aesthetic and anti-traditional beauty standards."
+  },
+  "description": {
+    "name": "Architectural Avant-Garde",
+    "tagline": "Fashion meets building as body becomes structure in stark geometric compositions.",
+    "full_description": "This fusion transforms architectural photography's clinical precision into a radical fashion statement, where models inhabit spaces as living geometric elements rather than traditional subjects. The combination leverages 032c's post-internet aesthetic with architecture's emphasis on form, function, and spatial relationships, creating images that feel both monumentally structural and intimately human. Sharp digital capture renders both fabric textures and concrete surfaces with equal clinical precision, while harsh LED lighting creates dramatic shadows that emphasize the geometric interplay between human form and built environment. The result challenges conventional fashion photography by treating the body as architectural element and clothing as spatial intervention, producing images that feel more like contemporary art installations than traditional fashion editorials.",
+    "visual_expectations": "Models positioned as geometric elements within stark architectural spaces with corrected verticals and perfect perspective. High-contrast lighting creating sharp shadows that emphasize both building lines and body silhouettes. Ultra-sharp digital capture showing texture details in both synthetic fabrics and raw building materials. Extreme tonal separation with blown highlights on concrete and crushed blacks in shadow areas. Compositions treating negative space and architectural elements as equally important to the human subject.",
+    "use_cases": [
+      "Avant-garde fashion editorials emphasizing architectural fashion designers",
+      "Art gallery exhibitions exploring fashion as spatial intervention",
+      "Contemporary architecture firm campaigns featuring wearable design"
+    ]
+  },
+  "suggested_subjects": [
+    "Models in structured avant-garde clothing positioned within brutalist concrete spaces",
+    "Geometric fashion pieces photographed against glass and steel modernist facades",
+    "Street-cast subjects wearing architectural jewelry in minimalist white gallery spaces"
+  ],
+  "prompt_keywords": [
+    "brutalist",
+    "geometric",
+    "architectural",
+    "clinical",
+    "structural"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "032c_contemporary",
+  "photography_id": "architectural_photography",
+  "id": "032c_contemporary__architectural_photography",
+  "generated_at": "2025-11-13T09:51:35.808267",
+  "llm_model": "claude-sonnet-4-20250514"
+}

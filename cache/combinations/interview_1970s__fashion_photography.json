@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 7,
+    "aesthetic_score": 9,
+    "creative_tension": 8,
+    "overall_harmony": 8,
+    "reasoning": "The Factory-era Interview aesthetic transforms traditional fashion photography into underground art statements. High creative tension emerges from applying Warhol's anti-establishment rawness to the inherently commercial fashion world."
+  },
+  "description": {
+    "name": "Factory Fashion",
+    "tagline": "High fashion meets underground authenticity in Warhol's revolutionary aesthetic laboratory.",
+    "full_description": "This combination transforms fashion photography from polished commercial imagery into raw artistic statements that defined 1970s counter-culture. Models become collaborators in experimental visual narratives, where designer garments are captured with the same unflinching directness as Factory superstars. The aesthetic deliberately subverts fashion photography's perfectionism, using harsh direct flash, high-contrast black and white film, and confrontational framing to create images that feel more like art pieces than advertisements.\n\nThe approach strips away fashion photography's typical glamour filters, replacing soft studio lighting with the stark immediacy of Polaroids and 35mm snapshots. Garments are styled with deliberate imperfection - wrinkled, asymmetrical, or paired with unexpected elements that challenge conventional beauty standards. The result captures fashion as rebellion rather than aspiration, where clothing becomes a medium for artistic expression rather than commercial desire.\n\nThis style pioneered the concept of fashion as cultural commentary, influencing generations of photographers who would blend high fashion with street authenticity. The images possess an intimate urgency that makes viewers feel like insiders witnessing private moments in creative spaces, where the boundary between art, fashion, and life dissolves into pure visual experimentation.",
+    "visual_expectations": "Harsh direct flash creating dramatic shadows across designer garments, high-contrast black and white photography with occasional shocking color pops, tight close-up crops emphasizing both fashion details and raw human expression, deliberate grain and experimental darkroom effects, asymmetrical compositions that feel spontaneous yet purposeful",
+    "use_cases": [
+      "Alternative fashion magazine editorials challenging industry norms",
+      "Art gallery exhibitions bridging fashion and fine art photography",
+      "Underground brand campaigns targeting culturally sophisticated audiences"
+    ]
+  },
+  "suggested_subjects": [
+    "Avant-garde fashion designer in their studio workspace",
+    "Underground club performer in haute couture styling",
+    "Emerging artist wearing experimental fashion pieces"
+  ],
+  "prompt_keywords": [
+    "factory-aesthetic",
+    "harsh-flash",
+    "high-contrast",
+    "polaroid-immediacy",
+    "underground-fashion"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "interview_1970s",
+  "photography_id": "fashion_photography",
+  "id": "interview_1970s__fashion_photography",
+  "generated_at": "2025-11-13T09:35:17.415362",
+  "llm_model": "claude-sonnet-4-20250514"
+}

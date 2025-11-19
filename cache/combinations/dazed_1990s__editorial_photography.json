@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 7,
+    "aesthetic_score": 9,
+    "creative_tension": 8,
+    "overall_harmony": 8,
+    "reasoning": "The raw, anti-establishment aesthetic of 1990s Dazed perfectly complements editorial photography's storytelling approach. Both prioritize authentic narrative over technical perfection, creating compelling tension between documentary truth and underground rebellion."
+  },
+  "description": {
+    "name": "Underground Editorial",
+    "tagline": "Raw editorial storytelling that captures the authentic chaos of youth rebellion and alternative culture.",
+    "full_description": "This combination transforms traditional editorial photography through the lens of 1990s underground culture, creating images that feel like stolen moments from a secret world. The harsh fluorescent lighting and deliberate technical imperfections of Dazed's aesthetic strip away the polish typically associated with editorial work, revealing the raw authenticity beneath. Subjects are captured in their natural environments with unflattering angles and high-contrast lighting that feels invasive yet intimate.\n\nThe result is editorial photography that rejects mainstream beauty standards in favor of genuine human moments. Grain structure becomes a storytelling element, while awkward compositions and blown-out highlights create visual tension that mirrors the social rebellion of the subjects. Each frame feels like documentary evidence of underground movements, preserving the energy of club culture and alternative fashion with journalistic integrity.\n\nThis aesthetic captures the spirit of cultural outsiders and emerging movements before they become sanitized by mainstream attention. The lo-fi technical approach ensures that the message remains more important than the medium, creating images that feel urgent and uncompromising. The harsh lighting and degraded textures become symbols of authenticity, proving that truth doesn't always photograph beautifully.",
+    "visual_expectations": "Blown-out highlights with crushed blacks creating extreme contrast, heavy film grain and photocopier-like texture degradation, harsh fluorescent or unflattering flash lighting, off-center compositions with chopped limbs or awkward framing, vivid neon accents against predominantly black and white imagery",
+    "use_cases": [
+      "Alternative music magazine features",
+      "Underground fashion brand campaigns",
+      "Documentary essays on youth subcultures"
+    ]
+  },
+  "suggested_subjects": [
+    "Emerging musicians in their rehearsal spaces",
+    "Club kids in their natural nightlife environments",
+    "Alternative fashion designers in DIY studios"
+  ],
+  "prompt_keywords": [
+    "harsh-fluorescent-lighting",
+    "high-contrast-grain",
+    "unflattering-flash",
+    "awkward-composition",
+    "underground-authentic"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "dazed_1990s",
+  "photography_id": "editorial_photography",
+  "id": "dazed_1990s__editorial_photography",
+  "generated_at": "2025-11-13T10:07:13.674543",
+  "llm_model": "claude-sonnet-4-20250514"
+}

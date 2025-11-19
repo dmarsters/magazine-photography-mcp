@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 10,
+    "aesthetic_score": 10,
+    "creative_tension": 1,
+    "overall_harmony": 10,
+    "reasoning": "Perfect synergy between 1990s Vogue's supermodel era and fashion photography at its peak. Both share medium format film heritage, studio perfection, and emphasis on high-fashion glamour without digital manipulation."
+  },
+  "description": {
+    "name": "Supermodel Glamour",
+    "tagline": "Pure 90s high fashion captured with the technical mastery and aspirational luxury that defined the supermodel era.",
+    "full_description": "This combination recreates the golden age of fashion photography when supermodels ruled magazine covers and film cameras captured every detail with pristine clarity. Using medium format film techniques like Hasselblad cameras with 80-150mm lenses, images showcase the dramatic studio lighting that made Naomi Campbell, Linda Evangelista, and Christy Turlington into icons. Rich saturated colors pop against deep blacks, while jewel tones and metallics create the luxurious palette that defined 90s Vogue.\n\nThe aesthetic emphasizes powerful poses and confident expressions, with subjects photographed straight-on or from slightly low angles to convey authority and glamour. Studio strobes with beauty dishes and softboxes create the signature dramatic lighting - hard shadows balanced with soft fill light that sculpts faces and emphasizes the flow of haute couture garments. Sharp medium format film grain adds organic texture while maintaining the ultra-crisp detail that made every fabric, accessory, and makeup detail visible.\n\nCompositions follow the era's philosophy of maximum visual impact, with tight cropping on faces to emphasize bold makeup and jewelry, or full-length shots that present fashion as sculpture. The pre-digital approach means perfect lighting and styling over post-production manipulation, creating images with natural warmth despite studio perfection. This captures fashion photography at its most influential period, when print magazines set global style trends and supermodels were household names.",
+    "visual_expectations": "Medium format film grain with ultra-sharp detail and rich color saturation. Dramatic studio lighting creating strong directional shadows balanced with soft fill. Bold color contrasts featuring jewel tones, metallics, and deep blacks against crisp whites. Confident power poses with subjects dominating the frame. Pristine technical quality with minimal retouching showing natural skin texture.",
+    "use_cases": [
+      "High-end fashion editorial spreads",
+      "Luxury brand campaign imagery",
+      "Portrait photography with 90s nostalgia aesthetic"
+    ]
+  },
+  "suggested_subjects": [
+    "Models in haute couture gowns with bold jewelry",
+    "Power suits with structured shoulders and metallic accessories",
+    "Beauty shots emphasizing dramatic makeup and confident expressions"
+  ],
+  "prompt_keywords": [
+    "medium format film",
+    "dramatic studio lighting",
+    "rich saturated colors",
+    "supermodel pose",
+    "90s Vogue aesthetic"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "vogue_1990s",
+  "photography_id": "fashion_photography",
+  "id": "vogue_1990s__fashion_photography",
+  "generated_at": "2025-11-13T09:55:53.889448",
+  "llm_model": "claude-sonnet-4-20250514"
+}

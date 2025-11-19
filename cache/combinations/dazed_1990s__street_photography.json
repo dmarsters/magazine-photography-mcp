@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Both styles share DNA from 1990s underground culture and embrace raw authenticity over technical perfection. Street photography's candid approach perfectly complements Dazed's anti-establishment documentary aesthetic."
+  },
+  "description": {
+    "name": "Underground Witness",
+    "tagline": "Raw street documentation through the lens of 90s underground rebellion.",
+    "full_description": "This combination captures the authentic pulse of street life with Dazed's signature anti-glamour aesthetic and deliberately imperfect visual language. Images emerge with the stark honesty of street photography amplified by harsh fluorescent lighting, blown-out highlights, and the grain-heavy texture of pushed 35mm film shot through cheap cameras. The result feels like found footage from an underground revolution - candid moments of urban life rendered with the same uncompromising rawness that made Dazed a voice for the margins.\n\nEvery frame carries the weight of authentic rebellion, where traditional street photography's decisive moments are filtered through photocopier-degraded aesthetics and deliberately amateurish compositions. Colors, when they appear, punch through with acid intensity against predominantly high-contrast black and white foundations. The images feel invasive yet honest, capturing subjects in their natural urban habitat with the same unflinching gaze that documented 90s club culture.\n\nThis isn't polished street photography - it's guerrilla documentation that celebrates imperfection as a badge of authenticity. Each image pulses with the energy of someone bearing witness to the underground, creating a visual diary of street life that feels both immediate and historically significant.",
+    "visual_expectations": "Extreme grain structure with blown-out highlights and crushed blacks, harsh street lighting creating dramatic shadows, deliberately off-center compositions cutting through urban crowds, vivid neon colors bleeding into high-contrast monochrome scenes, and photocopier-quality texture overlaying sharp street details.",
+    "use_cases": [
+      "Underground music scene documentation",
+      "Alternative fashion street style captures",
+      "Urban subculture editorial projects"
+    ]
+  },
+  "suggested_subjects": [
+    "Club kids emerging from underground venues at dawn",
+    "Street vendors in harsh fluorescent market lighting",
+    "Graffiti artists caught mid-creation in urban alleyways"
+  ],
+  "prompt_keywords": [
+    "harsh fluorescent lighting",
+    "blown-out highlights",
+    "extreme grain",
+    "photocopier aesthetic",
+    "underground rebellion"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "dazed_1990s",
+  "photography_id": "street_photography",
+  "id": "dazed_1990s__street_photography",
+  "generated_at": "2025-11-13T10:05:15.704519",
+  "llm_model": "claude-sonnet-4-20250514"
+}

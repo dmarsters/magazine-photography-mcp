@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Perfect synergy between 1990s Vogue's supermodel portrait tradition and classic portrait photography techniques. Both emphasize dramatic lighting, medium format quality, and powerful subject presence with minimal post-processing."
+  },
+  "description": {
+    "name": "Supermodel Portraits",
+    "tagline": "Capture the iconic power and glamour of 1990s fashion portraiture with studio-perfect lighting and film-quality richness.",
+    "full_description": "This combination recreates the legendary portrait style that defined 1990s Vogue, when supermodels weren't just clothes hangers but cultural icons with distinct personalities. Shot with the technical precision of medium format film, these portraits feature dramatic studio lighting that sculpts faces with hard shadows and soft fills, creating the signature high-contrast look that made Linda Evangelista and Naomi Campbell household names.\n\nThe aesthetic balances clinical sharpness with human warmth, using rich saturated colors and jewel tones that pop against deep blacks and crisp whites. Subjects dominate the frame through tight cropping and powerful eye-level compositions, with shallow depth of field isolating them against creamy backgrounds. The lighting approach combines directional studio strobes with golden warmth, creating that unmistakable glossy magazine finish.\n\nEvery element serves to elevate the subject to supermodel status - from the ultra-sharp focus on eyes to the careful balance of skin texture that's detailed yet flattering. The result captures not just a person, but a persona, embodying the aspirational luxury and power femininity that defined peak fashion photography before digital manipulation became standard.",
+    "visual_expectations": "Dramatic directional lighting with strong shadows and bright highlights, rich saturated colors with jewel tones and metallics, ultra-sharp medium format film quality with glossy polished surfaces, tight cropping emphasizing facial features and powerful eye contact, high contrast tonal separation with deep blacks and clean whites.",
+    "use_cases": [
+      "High-end fashion portraits with supermodel-level production values",
+      "Professional headshots requiring dramatic studio glamour",
+      "Editorial portraits for luxury lifestyle publications"
+    ]
+  },
+  "suggested_subjects": [
+    "Fashion models in power poses with dramatic makeup",
+    "Celebrities styled with 1990s haute couture aesthetic",
+    "Professional portraits with bold jewelry and luxury accessories"
+  ],
+  "prompt_keywords": [
+    "supermodel",
+    "studio lighting",
+    "haute couture",
+    "medium format",
+    "power pose"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "vogue_1990s",
+  "photography_id": "portrait_photography",
+  "id": "vogue_1990s__portrait_photography",
+  "generated_at": "2025-11-13T09:59:02.556789",
+  "llm_model": "claude-sonnet-4-20250514"
+}

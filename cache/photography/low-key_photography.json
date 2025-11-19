@@ -1,0 +1,42 @@
+{
+  "name": "Low-Key Photography",
+  "technical": {
+    "focal_length": "Variable, often 85-135mm for portraits to compress features and isolate subjects, 50mm for natural perspective, wide angles less common",
+    "depth_of_field": "Variable, shallow DOF for subject isolation in portraits, deeper DOF when environmental context matters",
+    "shutter_speed": "1/60s to 1/250s typical, fast enough to avoid camera shake, may use slower speeds with tripod for still life",
+    "lighting": "Single key light heavily flagged/controlled, minimal fill light, strategic use of negative fill, hard or soft light depending on mood",
+    "camera_format": "All formats suitable, full-frame preferred for better high ISO performance and shadow detail retention"
+  },
+  "aesthetic": {
+    "composition": "Subject emerges from darkness, rule of thirds often applied to lit areas, negative space crucial, leading lines from shadows",
+    "subject_background": "Subject dramatically separated from dark or black background, background falls into shadow zones",
+    "tonal_range": "Predominantly dark tones, limited highlights, high contrast between lit and unlit areas, compressed shadow detail",
+    "color_approach": "Often monochrome or desaturated colors, warm amber/golden highlights against cool shadows, limited color palette",
+    "texture_detail": "High detail in highlighted areas, texture revealed through directional lighting, smooth gradation into shadows"
+  },
+  "shooting_approach": {
+    "subject_distance": "Varies by intent, close for intimate portraits, medium distance for dramatic full-body shots",
+    "angle_perspective": "Often eye-level or slightly below to emphasize drama, side lighting common for dimensional modeling",
+    "subject_relationship": "Typically posed and controlled, formal and dramatic rather than candid, emphasizes mood over documentation",
+    "environment": "Studio preferred for light control, controlled indoor locations, rarely outdoor unless specific dramatic lighting available"
+  },
+  "context": {
+    "typical_uses": [
+      "Portrait photography for dramatic effect",
+      "Fine art photography",
+      "Product photography for luxury items",
+      "Film noir inspired imagery",
+      "Artistic nude photography"
+    ],
+    "historical_context": "Emerged from early 20th century pictorialism, heavily influenced by film noir cinematography of 1940s-50s, refined through studio portrait traditions",
+    "key_characteristics": "Predominant use of shadows and darkness, dramatic contrast ratios, selective illumination, moody atmosphere, emphasis on form and shape over detail",
+    "related_styles": "Chiaroscuro painting techniques, Film noir cinematography, Rembrandt lighting portraits, High contrast black and white photography"
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "Classic film era emphasized grain and silver gelatin prints, digital era allows more precise shadow control and HDR techniques while maintaining the dark aesthetic"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:26:29.671571",
+  "llm_model": "claude-sonnet-4-20250514"
+}

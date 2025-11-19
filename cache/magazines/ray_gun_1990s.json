@@ -1,0 +1,42 @@
+{
+  "name": "Ray Gun (1990s)",
+  "display_name": "Ray Gun: Chaos Era",
+  "era": {
+    "start": 1992,
+    "end": 1997,
+    "label": "David Carson's revolutionary design period"
+  },
+  "visual_treatment": {
+    "color_palette": "High contrast primaries, aggressive neons, stark black and white, distressed photocopier aesthetics",
+    "lighting": "Harsh, unfiltered flash, blown-out highlights, deep shadows with little fill",
+    "contrast": "Extreme contrast ratios, crushed blacks, blown highlights, intentional clipping",
+    "texture": "Heavy grain, photocopier distortion, layered transparencies, analog noise and artifacts"
+  },
+  "composition": {
+    "framing": "Intentionally chaotic, cropped mid-word, overlapping elements, broken grid systems",
+    "spatial_relationships": "Layered chaos, text as image, illegible typography as design element",
+    "perspectives": "Tilted horizons, disorienting angles, fragmented viewpoints, collaged realities",
+    "layout_philosophy": "Anti-design principles, readability sacrificed for expression, deconstructed layouts"
+  },
+  "technical": {
+    "film_or_technology": "35mm film, photocopier manipulation, analog collage techniques, early digital distortion",
+    "lens_character": "Wide-angle distortion, fisheye effects, macro close-ups creating abstraction",
+    "post_processing": "Heavy analog manipulation, multiple generation photocopying, chemical processing experiments"
+  },
+  "cultural_context": {
+    "values": "Rebellion against corporate design, expression over communication, punk aesthetic philosophy",
+    "subject_matter": "Alternative music culture, underground bands, anti-establishment figures",
+    "target_audience": "Gen X music fans, design rebels, alternative culture enthusiasts",
+    "era_signature": "Deconstructed typography as the primary visual language, illegibility as statement"
+  },
+  "temporal_markers": [
+    "Warped Emigre fonts, especially template gothic distortions",
+    "Photocopier streaks and analog reproduction artifacts",
+    "Grunge music scene visual vocabulary",
+    "Pre-digital design tool limitations creating happy accidents"
+  ],
+  "distinguishing_features": "Typography so distorted it becomes abstract imagery, intentional illegibility as design philosophy, analog chaos elevated to high art, complete rejection of traditional magazine design hierarchy",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:24:42.448714",
+  "llm_model": "claude-sonnet-4-20250514"
+}

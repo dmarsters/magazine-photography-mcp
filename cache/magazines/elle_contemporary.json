@@ -1,0 +1,43 @@
+{
+  "name": "Elle (contemporary)",
+  "display_name": "Elle: Digital Era",
+  "era": {
+    "start": 2010,
+    "end": null,
+    "label": "Social media and digital-first fashion era"
+  },
+  "visual_treatment": {
+    "color_palette": "Saturated, Instagram-optimized colors with bold pops; millennial pink, electric blues, and high-contrast combinations; heavy use of neon accents",
+    "lighting": "Clean, bright lighting with minimal shadows; ring light effects; golden hour warmth mixed with studio perfection",
+    "contrast": "Medium-high contrast with blown-out highlights; punchy but not harsh; optimized for phone screens",
+    "texture": "Ultra-smooth skin retouching; crisp digital sharpness; glossy, plastic-like finish on surfaces"
+  },
+  "composition": {
+    "framing": "Tight crops focusing on faces and details; vertical compositions for mobile; dynamic off-center positioning",
+    "spatial_relationships": "Layered graphics over photography; text integration within images; collage-like assemblages",
+    "perspectives": "Slightly elevated angles; Dutch tilts for energy; close-up beauty shots mixed with full environmental context",
+    "layout_philosophy": "Organized chaos; maximalist but structured; designed for quick consumption and shareability"
+  },
+  "technical": {
+    "film_or_technology": "High-resolution digital cameras (Canon 5D, Phase One); iPhone photography integration; drone aerials",
+    "lens_character": "Sharp, clinical lenses; 85mm portraits; wide-angle environmental shots; minimal lens character",
+    "post_processing": "Heavy digital retouching; color grading for social media; selective saturation boosts; skin smoothing"
+  },
+  "cultural_context": {
+    "values": "Accessibility, diversity, body positivity, sustainability consciousness, digital-native lifestyle",
+    "subject_matter": "Inclusive casting, street style, affordable fashion mixed with luxury, wellness culture, tech integration",
+    "target_audience": "Millennial and Gen-Z women; digitally savvy; values-conscious consumers; global perspective",
+    "era_signature": "Social media integration, influencer culture, fast fashion awareness, political engagement"
+  },
+  "temporal_markers": [
+    "Smartphone photography aesthetic integration",
+    "Stories-format vertical layouts",
+    "Augmented reality and digital filter influences",
+    "COVID-era mask fashion and home photography",
+    "Sustainability messaging in visual choices"
+  ],
+  "distinguishing_features": "Hybrid approach mixing professional photography with user-generated content aesthetics; heavy social media optimization; diverse representation as default rather than exception; technology-forward presentation methods",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:24:33.646947",
+  "llm_model": "claude-sonnet-4-20250514"
+}

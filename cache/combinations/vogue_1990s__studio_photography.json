@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 10,
+    "aesthetic_score": 9,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Studio photography was the dominant technique for 1990s Vogue fashion shoots, creating perfect technical synergy. The controlled lighting and medium format precision align seamlessly with the era's pursuit of supermodel glamour and haute couture perfection."
+  },
+  "description": {
+    "name": "Supermodel Studio",
+    "tagline": "The iconic studio perfection that defined 1990s supermodel glamour at its absolute peak.",
+    "full_description": "This combination recreates the legendary studio photography that made Naomi, Linda, and Christy household names during fashion's most glamorous decade. Shot on medium format film with dramatic studio lighting, these images epitomize the technical precision and aspirational luxury that defined 1990s Vogue. The controlled environment allows for the rich saturated colors, deep blacks, and crisp whites that became synonymous with supermodel-era fashion photography.\n\nEvery element serves maximum visual impact - from the sharp medium format film grain to the carefully sculpted lighting that treats fashion as high art. The studio setting provides the perfect canvas for bold primaries, luxurious metallics, and jewel tones to pop against seamless backgrounds. Models become powerful protagonists rather than mere clothes hangers, captured with the kind of technical perfection that required getting everything right in-camera.\n\nThis aesthetic represents the golden age of fashion photography, when film's organic quality met unprecedented production values. The result is images that combine studio perfection with human warmth, creating the aspirational yet accessible luxury that made 1990s Vogue the ultimate fashion authority.",
+    "visual_expectations": "Rich saturated colors with punchy contrast between deep blacks and bright whites, dramatic studio lighting creating strong shadows and highlights, ultra-sharp medium format film grain with glossy polished surfaces, tight cropping emphasizing faces and full-length power poses, luxurious fabric textures and pristine skin detail captured with clinical precision",
+    "use_cases": [
+      "High-fashion editorial spreads with dramatic lighting",
+      "Luxury brand campaigns requiring aspirational glamour",
+      "Portrait photography with supermodel-level production values"
+    ]
+  },
+  "suggested_subjects": [
+    "Fashion models in haute couture gowns",
+    "Luxury accessories and jewelry",
+    "Beauty portraits with dramatic makeup"
+  ],
+  "prompt_keywords": [
+    "medium format film",
+    "studio lighting",
+    "supermodel glamour",
+    "saturated colors",
+    "1990s Vogue"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "vogue_1990s",
+  "photography_id": "studio_photography",
+  "id": "vogue_1990s__studio_photography",
+  "generated_at": "2025-11-13T09:55:17.673831",
+  "llm_model": "claude-sonnet-4-20250514"
+}

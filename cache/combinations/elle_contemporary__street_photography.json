@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 7,
+    "creative_tension": 6,
+    "overall_harmony": 7,
+    "reasoning": "Both styles are contemporary and digitally native, creating strong technical synergy. The creative tension between Elle's polished Instagram aesthetic and street photography's raw authenticity offers compelling juxtaposition while maintaining modern relevance."
+  },
+  "description": {
+    "name": "Digital Streets",
+    "tagline": "Instagram-ready street photography that captures authentic urban moments with contemporary fashion magazine polish.",
+    "full_description": "This hybrid approach transforms traditional candid street photography through Elle's contemporary digital lens, creating images that feel both spontaneous and perfectly curated for social media. The combination preserves street photography's authentic human moments while applying the saturated colors, clean lighting, and mobile-optimized framing that defines modern digital fashion media. Each shot captures genuine urban life but with the visual punch of millennial pink accents against concrete walls, ring-light-quality illumination on faces caught in motion, and the kind of high-contrast digital sharpness that stops thumbs mid-scroll.\n\nThe aesthetic bridges the gap between professional editorial content and user-generated street style, reflecting how contemporary culture consumes and creates visual media. Subjects are photographed candidly but the scenes are elevated through Elle's signature color treatment and composition techniques designed for vertical phone screens. This creates images that feel both journalistically honest and fashion-forward, documenting real street culture through the visual language of digital-native audiences.\n\nThe result is street photography that speaks fluent Instagram while maintaining documentary authenticity - perfect for capturing the way fashion, technology, and urban life actually intersect in the social media age.",
+    "visual_expectations": "Saturated street scenes with millennial pink and electric blue color pops against urban backgrounds, candid subjects with smooth skin retouching but natural expressions, vertical compositions optimized for phone viewing, high-contrast digital sharpness that makes street textures pop, ring-light-quality facial lighting even in outdoor settings",
+    "use_cases": [
+      "Street style documentation for fashion brands targeting Gen-Z",
+      "Urban lifestyle content for social media campaigns",
+      "Contemporary fashion editorials shot in authentic city environments"
+    ]
+  },
+  "suggested_subjects": [
+    "Young professionals in trendy neighborhoods checking their phones",
+    "Street style influencers candidly navigating urban crosswalks",
+    "Diverse groups sharing food from trendy street vendors"
+  ],
+  "prompt_keywords": [
+    "instagram-optimized",
+    "millennial-pink-accents",
+    "ring-light-effect",
+    "vertical-composition",
+    "digital-sharpness"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "elle_contemporary",
+  "photography_id": "street_photography",
+  "id": "elle_contemporary__street_photography",
+  "generated_at": "2025-11-13T10:01:33.495744",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 7,
+    "creative_tension": 8,
+    "overall_harmony": 8,
+    "reasoning": "Both styles emerged from 2000s counter-culture movements rejecting polished aesthetics. Documentary's authenticity principles align perfectly with Vice's anti-establishment values, though their technical approaches create compelling creative tension."
+  },
+  "description": {
+    "name": "Underground Documentation",
+    "tagline": "Raw documentary truth meets deliberate anti-polish rebellion in authentic subcultural storytelling.",
+    "full_description": "This combination merges documentary photography's commitment to authentic truth-telling with Vice magazine's signature rejection of mainstream polish. The result is visceral, uncompromising documentation that captures subjects in their genuine environments while embracing technical imperfection as a mark of credibility. Unlike traditional documentary work that maintains professional technical standards, this approach deliberately pushes cheap equipment to its limits, creating harsh flash falloff, blown highlights, and digital noise that becomes part of the narrative.\n\nThe aesthetic celebrates the raw immediacy of disposable cameras and early digital sensors, where technical limitations become storytelling tools. Subjects are captured with documentary intimacy but processed through Vice's oversaturated, high-contrast filter that makes even quiet moments feel urgent and confrontational. Natural lighting gets pushed to extremes, while careful documentary composition gets filtered through snapshot casualness.\n\nThis style excels at documenting emerging subcultures, underground scenes, and marginalized communities with both respect and edge. It maintains documentary's ethical foundation while adding Vice's provocative visual language, creating images that feel simultaneously journalistic and rebellious. The intentional technical crudeness signals authenticity to viewers suspicious of mainstream media polish.",
+    "visual_expectations": "Harsh direct flash creating dramatic shadows and blown highlights, oversaturated colors with crushed blacks, subjects captured candidly in cramped urban environments, heavy digital grain and compression artifacts, tight crops focusing on authentic human moments",
+    "use_cases": [
+      "Underground music scene documentation",
+      "Subcultural anthropological studies",
+      "Anti-establishment editorial features"
+    ]
+  },
+  "suggested_subjects": [
+    "Late-night dive bar musicians between sets",
+    "Skateboard culture in urban underpasses",
+    "Underground fashion designers in cramped studios"
+  ],
+  "prompt_keywords": [
+    "harsh flash",
+    "oversaturated",
+    "heavy grain",
+    "cramped spaces",
+    "authentic candid"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "vice_2000s",
+  "photography_id": "documentary_photography",
+  "id": "vice_2000s__documentary_photography",
+  "generated_at": "2025-11-13T09:49:03.686790",
+  "llm_model": "claude-sonnet-4-20250514"
+}

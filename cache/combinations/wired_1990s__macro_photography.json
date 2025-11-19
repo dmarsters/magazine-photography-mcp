@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 7,
+    "overall_harmony": 8,
+    "reasoning": "1990s Wired's digital-first aesthetic perfectly complements macro photography's revelation of hidden details. The extreme close-up focus aligns with the magazine's obsession with examining technology's microscopic impact on culture."
+  },
+  "description": {
+    "name": "Digital Microscopy",
+    "tagline": "Transforming invisible technological details into electric, oversaturated visual manifestations of the digital revolution.",
+    "full_description": "This approach applies 1990s Wired's aggressive Day-Glo aesthetic to macro photography's intimate detail work, creating images that feel like diving into the molecular structure of digital culture itself. Circuit board traces become neon highways, water droplets on screens transform into electric blue galaxies, and the microscopic textures of computer components are bathed in hot pink and lime green oversaturation that pushes both the subject and printing technology to their limits.\n\nThe combination leverages macro photography's natural ability to make small subjects monumental, while Wired's deconstructed design philosophy breaks these intimate moments into layered digital collages. Extreme close-ups of keyboard keys, fiber optic cables, or CD surfaces are treated with the same reverence as traditional nature macro work, but filtered through the magazine's belief that technology was fundamentally rewiring human perception.\n\nThe result is photography that doesn't just document the digital revolution's hardware, but makes viewers feel like they're experiencing data flow and electronic processes at a cellular level. Every image becomes a manifesto about technology's hidden beauty, rendered in colors so electric they seem to pulse with actual current.",
+    "visual_expectations": "Extreme macro details of technological objects bathed in electric pink, lime green, and blue lighting, circuit board patterns used as compositional grids, oversaturated colors that appear to glow against stark white or deep black backgrounds, scan lines and digital artifacts intentionally layered over organic macro textures, and harsh studio lighting creating dramatic shadows on microscopic subjects.",
+    "use_cases": [
+      "Technology company annual reports showcasing innovation at the component level",
+      "Digital art exhibitions exploring the intersection of nature and artificial systems",
+      "Editorial features about emerging tech requiring dramatic visual impact"
+    ]
+  },
+  "suggested_subjects": [
+    "Water droplets on smartphone screens reflecting neon colors",
+    "Extreme close-ups of circuit board pathways and microprocessors",
+    "Macro details of fiber optic cable ends with colored light transmission"
+  ],
+  "prompt_keywords": [
+    "electric-oversaturated-macro",
+    "day-glo-circuit-closeup",
+    "digital-artifact-texture",
+    "neon-technology-detail",
+    "cyberpunk-microscopy"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "wired_1990s",
+  "photography_id": "macro_photography",
+  "id": "wired_1990s__macro_photography",
+  "generated_at": "2025-11-13T09:57:21.100600",
+  "llm_model": "claude-sonnet-4-20250514"
+}

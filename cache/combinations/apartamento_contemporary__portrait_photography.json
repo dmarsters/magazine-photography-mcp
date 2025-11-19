@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 2,
+    "overall_harmony": 8,
+    "reasoning": "Both styles emphasize natural light, authentic moments, and intimate human connection over technical perfection. Apartamento's documentary approach to domestic spaces aligns beautifully with portrait photography's focus on capturing genuine personality and character."
+  },
+  "description": {
+    "name": "Intimate Portraiture",
+    "tagline": "Personal portraits captured with the warm authenticity of contemporary lifestyle photography.",
+    "full_description": "This style merges Apartamento magazine's signature approach to intimate documentation with the focused craft of portrait photography. The result is portraiture that feels discovered rather than constructed, where subjects are captured in their natural environments with the same gentle attention to light and texture that defines contemporary lifestyle photography. Natural light floods through windows, creating soft shadows that sculpt faces with the same warmth that illuminates carefully curated domestic spaces.\n\nThe aesthetic embraces imperfection and authenticity, rejecting the high-gloss polish of traditional studio portraiture in favor of genuine moments and real textures. Muted, naturally saturated tones replace harsh studio lighting, while the background often includes glimpses of the subject's personal environment - a corner of their workspace, favorite objects, or architectural details that tell their story. The shallow depth of field characteristic of portrait photography is maintained, but with a softer, more organic quality.\n\nTechnically, this approach favors medium format digital quality with film-like warmth, maintaining sharp focus on the eyes while allowing gentle imperfections in skin texture and natural expressions. The composition feels casual yet considered, with subjects positioned as if caught in a quiet moment of their daily lives rather than formally posed for the camera.",
+    "visual_expectations": "Soft, abundant natural window light creating gentle facial shadows, muted color palettes with warm whites and dusty pastels, backgrounds showing glimpses of personal living spaces, crisp but not clinical focus on eyes with natural skin texture, casual yet thoughtful composition placing subjects within their authentic environment",
+    "use_cases": [
+      "Creative professional headshots in home studios",
+      "Editorial portraits for lifestyle publications",
+      "Personal branding photography for artists and designers"
+    ]
+  },
+  "suggested_subjects": [
+    "Artist in their sun-lit studio workspace",
+    "Designer surrounded by their collected objects",
+    "Writer in their book-filled corner reading nook"
+  ],
+  "prompt_keywords": [
+    "natural window light",
+    "muted tones",
+    "authentic moment",
+    "soft shadows",
+    "lived-in space"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "apartamento_contemporary",
+  "photography_id": "portrait_photography",
+  "id": "apartamento_contemporary__portrait_photography",
+  "generated_at": "2025-11-13T09:31:34.840920",
+  "llm_model": "claude-sonnet-4-20250514"
+}

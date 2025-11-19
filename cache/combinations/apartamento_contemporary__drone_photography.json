@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 7,
+    "aesthetic_score": 6,
+    "creative_tension": 7,
+    "overall_harmony": 6,
+    "reasoning": "Both emerged in the 2010s digital era, but drone photography's geometric precision contrasts with Apartamento's intimate imperfection. The aerial perspective challenges the magazine's human-scale domesticity while offering new ways to contextualize architecture."
+  },
+  "description": {
+    "name": "Elevated Domesticity",
+    "tagline": "Contemporary home photography reimagined from above, revealing the intimate geometry of living spaces.",
+    "full_description": "This hybrid approach transforms Apartamento's signature intimate home documentation by ascending to drone altitude, revealing how personal domestic spaces relate to their broader architectural and urban contexts. The aerial perspective maintains the magazine's commitment to authentic living while uncovering hidden geometric patterns in courtyards, rooftops, and garden spaces that ground-level photography cannot capture.\n\nThe aesthetic preserves Apartamento's muted color palette and natural lighting philosophy, but adapts it to the expansive views possible from above. Morning and evening light creates long shadows across residential terraces and balconies, while the drone's wide-angle lens captures entire building complexes where creative professionals have carved out their personal sanctuaries. The technical precision of drone photography is softened through careful timing and post-processing that echoes film-like warmth.\n\nThis style works particularly well for documenting artist compounds, creative co-housing projects, and architectural homes where the relationship between interior intimacy and exterior context tells a complete story. It challenges viewers to consider how personal domestic choices aggregate into neighborhood character and urban texture, maintaining the human element while expanding the narrative scope beyond traditional interior photography.",
+    "visual_expectations": "Wide aerial views of residential buildings with visible courtyards and terraces, warm natural light casting geometric shadows across architectural surfaces, muted earth tones and sage greens visible in gardens and exterior spaces, intimate balcony furniture and personal objects visible from above providing human scale, clean geometric compositions balanced with organic lived-in details.",
+    "use_cases": [
+      "Architectural home features showcasing site context",
+      "Artist community documentation revealing shared spaces",
+      "Urban living stories connecting private and public realms"
+    ]
+  },
+  "suggested_subjects": [
+    "Artist studio complex with shared courtyard and individual terraces",
+    "Converted warehouse with rooftop gardens and creative workspace",
+    "Mediterranean villa showing relationship between interior and landscape"
+  ],
+  "prompt_keywords": [
+    "aerial_intimacy",
+    "domestic_geometry",
+    "elevated_perspective",
+    "architectural_context",
+    "creative_living"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "apartamento_contemporary",
+  "photography_id": "drone_photography",
+  "id": "apartamento_contemporary__drone_photography",
+  "generated_at": "2025-11-13T09:29:35.602508",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 9,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Perfect contemporary match between Elle's digital-first approach and modern fashion photography's social media optimization. Both emphasize high technical quality, diverse representation, and Instagram-ready aesthetics with clean, punchy visuals."
+  },
+  "description": {
+    "name": "Digital Fashion",
+    "tagline": "Contemporary fashion photography optimized for social media with inclusive casting and high-gloss digital perfection.",
+    "full_description": "This combination merges Elle's contemporary digital-first aesthetic with professional fashion photography techniques, creating images that seamlessly bridge editorial quality with social media shareability. The approach emphasizes ultra-sharp detail, saturated colors, and flawless digital retouching while maintaining the sophisticated composition and lighting that defines high-end fashion imagery. Clean, bright studio lighting combines with ring light effects to create that coveted Instagram glow, while careful attention to fabric texture and garment drape preserves the commercial integrity essential for fashion brands.\n\nThe visual treatment favors bold color combinations - millennial pink, electric blues, and neon accents - applied through heavy post-processing that boosts selective saturation for maximum phone screen impact. Compositions lean heavily toward vertical formats and tight crops that work perfectly for Stories and mobile consumption, while maintaining the dynamic poses and negative space emphasis that makes garments shine.\n\nThis style represents fashion photography's evolution for the digital native audience, where diversity and body positivity aren't just trends but fundamental values reflected in casting choices and authentic representation. The result is polished, aspirational imagery that feels both professionally crafted and authentically contemporary.",
+    "visual_expectations": "Ultra-smooth skin retouching with glossy, plastic-like surface finish; saturated colors with blown-out highlights optimized for phone screens; tight vertical crops focusing on faces and garment details; clean studio lighting with minimal shadows and ring light catchlights; sharp digital clarity with heavy color grading.",
+    "use_cases": [
+      "Instagram fashion campaigns for millennial and Gen-Z brands",
+      "E-commerce imagery for digitally-native fashion retailers",
+      "Editorial content for contemporary lifestyle and fashion publications"
+    ]
+  },
+  "suggested_subjects": [
+    "Diverse models in sustainable fashion pieces with tech accessories",
+    "Street style looks mixing affordable and luxury pieces",
+    "Beauty shots featuring wellness culture and body-positive representation"
+  ],
+  "prompt_keywords": [
+    "digital-fashion",
+    "instagram-optimized",
+    "high-gloss-retouching",
+    "vertical-mobile",
+    "inclusive-contemporary"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "elle_contemporary",
+  "photography_id": "fashion_photography",
+  "id": "elle_contemporary__fashion_photography",
+  "generated_at": "2025-11-13T10:01:33.227653",
+  "llm_model": "claude-sonnet-4-20250514"
+}

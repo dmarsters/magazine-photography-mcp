@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 7,
+    "creative_tension": 6,
+    "overall_harmony": 8,
+    "reasoning": "Both styles emerged from 1970s counterculture movements and share technical approaches like 35mm film and natural lighting. The tension between Interview's provocative artifice and documentary's truth-seeking creates compelling visual narratives."
+  },
+  "description": {
+    "name": "Underground Documentation",
+    "tagline": "Raw documentary truth meets Factory-era celebrity culture in high-contrast black and white intimacy.",
+    "full_description": "This hybrid approach captures subjects with the unflinching honesty of documentary photography while embracing Interview magazine's revolutionary aesthetic of the early 1970s. The combination produces images that feel both journalistically authentic and artistically provocative, using harsh direct flash and dramatic shadows to reveal character rather than flatter. Subjects are photographed in their natural environments but with the graphic intensity and confrontational intimacy that made Warhol's Interview legendary.\n\nThe technical execution favors 35mm film with high-contrast processing, creating images with blown-out highlights and deep blacks that eliminate comfortable middle tones. Natural lighting combines with strategic flash to produce the stark, poster-like quality that defined the Factory era. Multiple frame sequences and off-center compositions suggest both documentary thoroughness and avant-garde sensibility.\n\nThis style works particularly well for capturing cultural figures, artists, and social movements where the subject matter demands both respect for truth and recognition of inherent drama. The result is documentation that doesn't pretend to be objective—instead acknowledging the photographer's presence while maintaining documentary ethics about authentic representation.",
+    "visual_expectations": "High-contrast black and white images with dramatic shadows and blown highlights; subjects looking directly at camera with confrontational intimacy; harsh flash creating graphic poster-like quality; tight crops emphasizing personality over environment; heavy grain and experimental printing effects.",
+    "use_cases": [
+      "Underground music scene documentation",
+      "Artist studio portraits with cultural context",
+      "Social movement photography with avant-garde sensibility"
+    ]
+  },
+  "suggested_subjects": [
+    "Emerging musicians in recording studios",
+    "Performance artists in their creative spaces",
+    "Community organizers and cultural activists"
+  ],
+  "prompt_keywords": [
+    "high-contrast",
+    "harsh-flash",
+    "confrontational-gaze",
+    "documentary-intimacy",
+    "factory-aesthetic"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "interview_1970s",
+  "photography_id": "documentary_photography",
+  "id": "interview_1970s__documentary_photography",
+  "generated_at": "2025-11-13T09:37:16.655198",
+  "llm_model": "claude-sonnet-4-20250514"
+}

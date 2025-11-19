@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Life Magazine pioneered editorial photography as we know it, creating perfect temporal and technical alignment. The dramatic documentary approach matches editorial photography's storytelling mission with exceptional aesthetic harmony."
+  },
+  "description": {
+    "name": "Wartime Editorial",
+    "tagline": "Classic photojournalism meets the golden age of magazine storytelling with dramatic documentary power.",
+    "full_description": "This combination captures the revolutionary moment when Life Magazine transformed photography from mere illustration into compelling visual narrative. The approach marries editorial photography's story-driven methodology with the dramatic, high-contrast aesthetic that defined 1940s photojournalism. Every image serves the larger narrative while maintaining the technical excellence and emotional impact that made Life Magazine legendary.\n\nThe visual treatment emphasizes natural light sculpted through dramatic shadows and bright highlights, creating images that feel both authentic and cinematically powerful. Compositions favor dynamic, off-center framing that draws viewers into the story, while the rich black-and-white palette with deep blacks and bright whites creates emotional resonance that color often cannot match.\n\nThis style pioneered the photo-essay format, treating each image as part of a larger visual story rather than standalone documentation. The result is photography that informs, moves, and inspires—capturing not just what happened, but what it felt like to live through one of history's most transformative decades.",
+    "visual_expectations": "Rich black and white images with dramatic contrast and deep shadows, dynamic off-center compositions mixing intimate close-ups with sweeping wide shots, natural lighting with cinematic chiaroscuro effects, sharp detail throughout with occasional strategic motion blur, subjects positioned to create visual tension and narrative flow",
+    "use_cases": [
+      "Historical documentary features and anniversary coverage",
+      "Profile pieces on subjects with compelling life stories",
+      "Social issue documentation requiring both authenticity and visual impact"
+    ]
+  },
+  "suggested_subjects": [
+    "Portrait of a community leader or activist in their working environment",
+    "Behind-the-scenes documentation of craftspeople or traditional trades",
+    "Multi-generational family story showing resilience and continuity"
+  ],
+  "prompt_keywords": [
+    "dramatic shadows",
+    "high contrast black and white",
+    "photojournalistic",
+    "natural lighting",
+    "documentary storytelling"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "life_1940s",
+  "photography_id": "editorial_photography",
+  "id": "life_1940s__editorial_photography",
+  "generated_at": "2025-11-13T09:33:15.189537",
+  "llm_model": "claude-sonnet-4-20250514"
+}

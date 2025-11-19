@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Perfect historical alignment as Life magazine pioneered candid photojournalism in the 1940s. The magazine's documentary approach and candid photography's spontaneous capture methods create seamless synergy."
+  },
+  "description": {
+    "name": "Wartime Candids",
+    "tagline": "Unguarded moments from the greatest generation, captured with the documentary power that defined American photojournalism.",
+    "full_description": "This combination recreates the golden age of American photojournalism when Life magazine photographers like Robert Capa and W. Eugene Smith brought the raw truth of wartime and post-war America into living rooms across the nation. These images blend the spontaneous authenticity of candid photography with Life's signature dramatic black and white treatment, creating powerful human stories that feel both intimate and historically significant.\n\nThe aesthetic merges natural available light with Life's characteristic high contrast processing, producing images with deep blacks, bright whites, and rich mid-tones that give weight to everyday moments. Compositions favor off-center framing and layered depth, capturing subjects in their natural environments while maintaining the magazine's cinematic storytelling approach.\n\nEvery frame carries the gravitas of the 1940s documentary tradition while preserving the spontaneous energy of unposed moments. The result is photography that feels both journalistically important and deeply human, reflecting Life's mission to show 'life as it is' during one of America's most defining decades.",
+    "visual_expectations": "Rich black and white images with dramatic contrast and fine grain texture, subjects captured in natural poses with authentic 1940s clothing and settings, environmental context showing period architecture and everyday objects, dynamic off-center compositions with strong foreground-background relationships, natural lighting creating emotional chiaroscuro effects.",
+    "use_cases": [
+      "Historical documentary projects capturing authentic period atmosphere",
+      "Portrait series emphasizing genuine human emotion over posed perfection",
+      "Street photography with classic photojournalistic gravitas and social commentary"
+    ]
+  },
+  "suggested_subjects": [
+    "Factory workers during lunch break in industrial setting",
+    "Families gathered around kitchen tables in 1940s homes",
+    "Veterans returning home in train stations or on street corners"
+  ],
+  "prompt_keywords": [
+    "candid photojournalism",
+    "1940s documentary style",
+    "dramatic black and white",
+    "natural available light",
+    "unposed authentic moments"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "life_1940s",
+  "photography_id": "candid_photography",
+  "id": "life_1940s__candid_photography",
+  "generated_at": "2025-11-13T09:28:12.623773",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Environmental Portraiture",
+  "technical": {
+    "focal_length": "35-85mm preferred; wide-angle (24-35mm) for context inclusion, 50-85mm for natural perspective with environment",
+    "depth_of_field": "Variable - moderate depth (f/5.6-f/8) to keep subject sharp while showing environment context; sometimes deep DOF for full scene clarity",
+    "shutter_speed": "1/60s-1/250s typically; fast enough for sharp subjects, accounting for ambient light conditions",
+    "lighting": "Natural ambient light preferred; minimal flash or continuous lighting to maintain authentic environment feel; window light, outdoor shade common",
+    "camera_format": "35mm and medium format most common; full-frame digital for optimal lens selection and low-light performance"
+  },
+  "aesthetic": {
+    "composition": "Subject integrated within environment rather than isolated; rule of thirds with subject placement allowing environment to tell story; balanced composition between person and place",
+    "subject_background": "Background is contextually meaningful - workplace, home, hobby space; subject and environment work together narratively; background supports rather than competes",
+    "tonal_range": "Natural, unforced contrast; preserves ambient lighting character; avoids artificial drama in favor of authentic mood",
+    "color_approach": "Natural color palette reflecting actual environment; colors harmonious between subject and setting; minimal color grading to maintain authenticity",
+    "texture_detail": "Rich environmental detail preserved; textures of place (wood, metal, fabric) important for context; balanced sharpness between subject and meaningful background elements"
+  },
+  "shooting_approach": {
+    "subject_distance": "Medium distance (3-8 feet) allowing full or 3/4 body shots with environment; close enough for connection, far enough for context",
+    "angle_perspective": "Eye level or slightly below; natural human perspective; avoids dramatic high or low angles that might diminish environmental context",
+    "subject_relationship": "Mix of posed and candid; subject comfortable and natural in their environment; often engaged in characteristic activity or positioned meaningfully within space",
+    "environment": "Always on location in subject's natural or meaningful environment - workplace, home, studio, outdoor setting relevant to subject's identity or story"
+  },
+  "context": {
+    "typical_uses": [
+      "Editorial portraits for magazines",
+      "Corporate executive portraits",
+      "Artist and craftsperson documentation",
+      "Professional headshots with context",
+      "Documentary portrait work"
+    ],
+    "historical_context": "Emerged in 1960s editorial photography; Arnold Newman pioneered approach; reaction against sterile studio portraits; emphasized showing 'whole person' in context",
+    "key_characteristics": "Subject's environment tells part of their story; balance between portraiture and documentary; authentic rather than constructed feeling; reveals personality through place",
+    "related_styles": [
+      "Documentary Photography",
+      "Lifestyle Photography",
+      "Corporate Portraiture",
+      "Editorial Photography",
+      "Street Portraiture"
+    ]
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "1960s-70s: formal, carefully composed with available light; 1980s-90s: more dynamic, sometimes mixed lighting; 2000s+: digital flexibility allows more environmental detail, HDR techniques sometimes used"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:27:09.293716",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "The New Yorker (contemporary)",
+  "display_name": "The New Yorker: Digital Era",
+  "era": {
+    "start": 2000,
+    "end": null,
+    "label": "Digital publishing and multimedia expansion"
+  },
+  "visual_treatment": {
+    "color_palette": "Muted, sophisticated palette with signature spot colors; rich burgundies, deep blues, forest greens; strategic use of bright accent colors against neutral backgrounds",
+    "lighting": "Clean, even illumination for photography; dramatic directional lighting for portraits; soft, diffused light for lifestyle content",
+    "contrast": "Moderate to high contrast with careful attention to readability; strong tonal separation between text and background elements",
+    "texture": "Crisp digital clarity with occasional deliberate grain for artistic effect; smooth gradients and clean typography rendering"
+  },
+  "composition": {
+    "framing": "Generous white space usage; asymmetrical layouts balanced with classical typography; single-column text with strategic image placement",
+    "spatial_relationships": "Hierarchical information architecture; careful attention to reading flow and visual breathing room",
+    "perspectives": "Intimate, conversational viewpoints for portraits; architectural and environmental shots favor human scale and context",
+    "layout_philosophy": "Elegant restraint with sophisticated typography as primary design element; images serve editorial narrative rather than dominating"
+  },
+  "technical": {
+    "film_or_technology": "High-resolution digital capture and printing; web-optimized imagery for digital platforms; maintained print quality standards",
+    "lens_character": "Sharp, clinical precision for documentation; subtle bokeh and depth-of-field for editorial portraits",
+    "post_processing": "Minimal retouching emphasizing natural appearance; color correction favoring realistic skin tones and environmental accuracy"
+  },
+  "cultural_context": {
+    "values": "Intellectual sophistication, literary excellence, cultural commentary, urban cosmopolitan perspective",
+    "subject_matter": "Politics, arts, literature, New York City life, cultural criticism, investigative journalism, humor and satire",
+    "target_audience": "Educated, affluent, culturally engaged readers; urban professionals and cultural tastemakers",
+    "era_signature": "Seamless integration of digital and print sensibilities while maintaining editorial gravitas"
+  },
+  "temporal_markers": [
+    "Digital-native layouts optimized for both print and screen consumption",
+    "Integration of multimedia elements and interactive features in digital editions",
+    "Maintained commitment to iconic illustrated covers despite digital transition",
+    "Social media-aware visual language while preserving editorial integrity"
+  ],
+  "distinguishing_features": "Timeless typographic elegance combined with contemporary digital sophistication; signature illustrated covers that blend artistic tradition with current events commentary; restrained visual hierarchy that prioritizes content over flashy design",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:23:22.473940",
+  "llm_model": "claude-sonnet-4-20250514"
+}

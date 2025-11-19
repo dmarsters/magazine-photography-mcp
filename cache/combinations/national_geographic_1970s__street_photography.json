@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 7,
+    "creative_tension": 4,
+    "overall_harmony": 8,
+    "reasoning": "Both approaches emerged from the golden age of documentary photography, sharing technical foundations and humanistic values. The Kodachrome aesthetic elevates street photography's raw authenticity with rich color saturation and masterful light handling."
+  },
+  "description": {
+    "name": "Kodachrome Streets",
+    "tagline": "Documentary street photography elevated by the warm, saturated palette and meticulous craft of National Geographic's golden era.",
+    "full_description": "This distinctive style combines the candid authenticity of street photography with the technical mastery and rich visual treatment that defined National Geographic's documentary golden age. Shot on legendary Kodachrome film, urban scenes take on an almost mythical quality - ordinary street corners become stages for human drama, bathed in deep cobalt shadows and warm amber light. The patient, observational approach means waiting for those perfect moments when natural light, human gesture, and urban geometry align.\n\nThe aesthetic transforms everyday city life into something both immediate and timeless. Kodachrome's signature color science - those impossibly saturated blues and warm skin tones - elevates mundane street scenes into rich visual narratives. Every frame maintains the documentary tradition of respectful observation while showcasing the film stock's unmatched ability to render color and preserve fine detail.\n\nTechnically, this approach demands the discipline of film photography combined with street photography's need for quick reaction. The result is images that feel both spontaneous and carefully crafted, with Kodachrome's distinctive warmth and saturation creating an emotional resonance that digital sensors struggle to match. These aren't just street photographs - they're cultural documents with the visual richness of National Geographic's most memorable images.",
+    "visual_expectations": "Deep cobalt blue skies contrasting with warm amber street light, Kodachrome's distinctive slight magenta cast in shadow areas, ultra-sharp details with subtle film grain, rich saturated colors in urban signage and clothing, carefully preserved shadow detail that maintains mood while showing environmental context",
+    "use_cases": [
+      "Cultural documentation of urban neighborhoods with artistic gravitas",
+      "Travel photography that captures cities with National Geographic-level visual impact",
+      "Fine art street photography with rich archival color quality"
+    ]
+  },
+  "suggested_subjects": [
+    "Urban markets with colorful produce and textiles under natural light",
+    "City street corners during golden hour with layered human activity",
+    "Cultural neighborhoods showing authentic daily life and architectural details"
+  ],
+  "prompt_keywords": [
+    "kodachrome",
+    "saturated",
+    "documentary",
+    "golden-hour",
+    "film-grain"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "national_geographic_1970s",
+  "photography_id": "street_photography",
+  "id": "national_geographic_1970s__street_photography",
+  "generated_at": "2025-11-13T09:39:52.590076",
+  "llm_model": "claude-sonnet-4-20250514"
+}

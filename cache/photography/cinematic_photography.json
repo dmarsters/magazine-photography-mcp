@@ -1,0 +1,41 @@
+{
+  "name": "Cinematic Photography",
+  "technical": {
+    "focal_length": "35mm-85mm for narrative scenes, 24-35mm for environmental shots, 85mm+ for character portraits and close-ups",
+    "depth_of_field": "Shallow to medium DOF (f/1.4-f/4) for subject isolation, deeper DOF (f/5.6-f/8) for establishing shots",
+    "shutter_speed": "1/60s-1/250s to maintain natural motion blur, avoiding overly frozen or blurred movement",
+    "lighting": "Dramatic directional lighting, three-point setup, strong contrast with controlled shadows, often moody and atmospheric",
+    "camera_format": "Full-frame sensors preferred, often shot in 16:9 or 2.35:1 aspect ratios to mimic film formats"
+  },
+  "aesthetic": {
+    "composition": "Rule of thirds, leading lines, symmetry, deep focus layers, careful framing that tells a story",
+    "subject_background": "Background serves narrative purpose, creates depth and context, often blurred but meaningful",
+    "tonal_range": "High contrast with deep blacks and bright highlights, dramatic tonal separation",
+    "color_approach": "Stylized color grading with orange/teal, desaturated or monochromatic palettes, mood-driven color temperature",
+    "texture_detail": "Rich textures in foreground, atmospheric haze or grain, film-like quality with controlled sharpness"
+  },
+  "shooting_approach": {
+    "subject_distance": "Varies by shot type: wide establishing shots, medium shots for interaction, close-ups for emotion",
+    "angle_perspective": "Low angles for power, high angles for vulnerability, Dutch tilts for tension, eye-level for intimacy",
+    "subject_relationship": "Posed but natural, directed moments that feel authentic, emphasis on emotion and narrative",
+    "environment": "Location-based shooting preferred, natural or constructed sets that support story, atmospheric conditions"
+  },
+  "context": {
+    "typical_uses": [
+      "Film stills and behind-the-scenes",
+      "Portrait photography with narrative elements",
+      "Commercial and advertising campaigns",
+      "Music videos and promotional content"
+    ],
+    "historical_context": "Emerged from film noir and Hollywood golden age cinematography, popularized by digital photography and accessible film emulation",
+    "key_characteristics": "Film-like aesthetic, narrative composition, dramatic lighting, stylized color grading, emotional depth",
+    "related_styles": "Film noir photography, portrait photography, editorial photography, lifestyle photography"
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "Early variants mimicked classic Hollywood cinematography, modern versions incorporate digital color grading techniques and contemporary aspect ratios"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:26:41.339114",
+  "llm_model": "claude-sonnet-4-20250514"
+}

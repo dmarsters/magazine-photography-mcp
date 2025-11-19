@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 7,
+    "aesthetic_score": 8,
+    "creative_tension": 4,
+    "overall_harmony": 7,
+    "reasoning": "The warm film aesthetic and natural lighting of 1970s Rolling Stone creates an unexpectedly intimate approach to fashion photography. This pairing transforms typical fashion shoots into more authentic, documentary-style portraits with rock culture edge."
+  },
+  "description": {
+    "name": "Backstage Couture",
+    "tagline": "Fashion photography infused with the intimate, film-grain warmth and authentic access of 1970s rock journalism.",
+    "full_description": "This distinctive style merges the glamorous world of fashion with the raw authenticity of 1970s Rolling Stone photography, creating fashion imagery that feels like privileged backstage access to a rock star's wardrobe. The approach abandons sterile studio perfection in favor of warm film grain, natural lighting scenarios, and candid moments that make clothing feel lived-in and desirable. Shot on 35mm color film with rich earth tones and golden highlights, garments are captured in environmental contexts that tell stories rather than simply display products.\n\nThe aesthetic emphasizes medium shots and intimate framing over full-body catalog poses, creating fashion imagery with documentary authenticity. Natural window light and available light scenarios replace harsh studio strobes, while the signature film grain and warm color palette of the counterculture era adds romantic mythology to contemporary fashion. Models appear as genuine style icons rather than mannequins, captured in moments that suggest artistic authenticity over commercial perfection.\n\nThis hybrid approach works particularly well for editorial fashion, luxury lifestyle brands, and designers seeking to communicate artistic credibility. The style suggests insider access to exclusive fashion moments, much like Rolling Stone provided insider access to music culture, creating aspirational imagery that feels authentic rather than constructed.",
+    "visual_expectations": "Rich film grain texture throughout the image, warm golden and earth-tone color grading with creamy highlights, natural lighting scenarios with soft shadows, intimate framing that shows garments in lived-in contexts, and candid poses that suggest documentary authenticity rather than traditional fashion posing.",
+    "use_cases": [
+      "Editorial fashion spreads for music and culture magazines",
+      "Luxury brand campaigns emphasizing artistic authenticity",
+      "Designer lookbooks with rock-and-roll aesthetic edge"
+    ]
+  },
+  "suggested_subjects": [
+    "Model in vintage band t-shirt and designer jacket in recording studio",
+    "Fashion editorial in backstage area with vintage concert posters",
+    "Designer clothing styled with rock-era accessories in natural light"
+  ],
+  "prompt_keywords": [
+    "film grain texture",
+    "warm golden tones",
+    "natural window light",
+    "candid fashion moment",
+    "rock culture aesthetic"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "rolling_stone_1970s",
+  "photography_id": "fashion_photography",
+  "id": "rolling_stone_1970s__fashion_photography",
+  "generated_at": "2025-11-13T09:33:36.849879",
+  "llm_model": "claude-sonnet-4-20250514"
+}

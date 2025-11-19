@@ -1,0 +1,43 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "1990s Dazed's deliberately amateur aesthetic perfectly aligns with candid photography's unposed, authentic approach. Both styles prioritize raw authenticity over technical perfection, creating natural synergy."
+  },
+  "description": {
+    "name": "Underground Authenticity",
+    "tagline": "Raw, unfiltered documentation of youth culture's rebellious underground moments.",
+    "full_description": "This combination captures the essence of 1990s alternative culture through genuinely candid moments, embracing the lo-fi aesthetic that defined Dazed magazine's early years. The approach deliberately rejects polished studio work in favor of spontaneous street documentation, using harsh fluorescent lighting and high-contrast black and white processing to create images that feel like discovered artifacts from underground club culture. Every frame celebrates imperfection—grain, blur, awkward cropping, and unflattering angles become tools of authenticity rather than technical failures.\n\nThe visual language speaks directly to the anti-establishment values of the era, documenting subjects in their natural environments with the same raw energy found in punk zines and rave flyers. Chemical processing artifacts and photocopier-style degradation add layers of texture that feel both accidental and intentional, creating images that resist mainstream beauty standards while elevating everyday rebellion into art.\n\nThis style works best when subjects are completely unaware of the camera or naturally engaged in their subcultural activities, allowing genuine expressions and unguarded moments to emerge. The resulting images feel like intimate glimpses into a hidden world, preserving the spontaneous energy that made 90s youth culture so compelling.",
+    "visual_expectations": "Blown-out highlights from harsh flash mixed with deep shadows, heavy grain structure creating tactile texture, off-center subjects caught mid-motion with authentic expressions, backgrounds filled with club environments or urban decay, high-contrast processing that sacrifices detail for emotional impact",
+    "use_cases": [
+      "Underground music scene documentation",
+      "Alternative fashion street style capture",
+      "Youth subculture ethnography",
+      "Anti-commercial lifestyle branding",
+      "Nostalgic 90s revival projects"
+    ]
+  },
+  "suggested_subjects": [
+    "Club kids in warehouse rave environments",
+    "Street-cast models in everyday urban settings",
+    "Musicians in backstage or rehearsal spaces",
+    "Alternative fashion worn in natural contexts",
+    "Youth gathering in underground venues"
+  ],
+  "prompt_keywords": [
+    "harsh flash lighting",
+    "high contrast grain",
+    "candid club culture",
+    "90s underground aesthetic",
+    "photocopier degradation"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "dazed_1990s",
+  "photography_id": "candid_photography",
+  "id": "dazed_1990s__candid_photography",
+  "generated_at": "2025-11-13T10:03:20.403437",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 2,
+    "overall_harmony": 8,
+    "reasoning": "Both styles emphasize high-contrast, geometric composition and documentary precision that defined serious visual communication in the 1960s. The technical approaches align perfectly with architectural photography's need for sharp detail matching Time's clinical rendering standards."
+  },
+  "description": {
+    "name": "Institutional Architecture",
+    "tagline": "Cold War-era architectural documentation with the gravitas and precision of serious photojournalism.",
+    "full_description": "This style captures the monumental architecture of the 1960s through Time magazine's lens of authoritative documentation. Buildings become political statements, photographed with the same high-contrast drama and clinical precision used to document world leaders and historic events. The approach treats architecture as newsworthy subject matter, emphasizing the institutional power and modernist confidence of the era.\n\nEvery frame carries the weight of historical documentation, with deep blacks and bright whites creating stark geometric patterns that mirror the period's bold architectural statements. The photography eschews romantic interpretation for objective recording, yet achieves dramatic impact through careful use of available light and shadow play across concrete, steel, and glass surfaces.\n\nThe result is architectural photography that feels like visual journalism - each building documented as a significant cultural artifact worthy of the same serious treatment given to Cold War summits or space program achievements. Clean modernist composition meets documentary rigor, creating images that are both architecturally informative and historically resonant.",
+    "visual_expectations": "High-contrast black and white images with dramatic shadows defining geometric building forms, clinical sharpness revealing material textures, formal compositions emphasizing institutional monumentality, occasional selective color highlighting key architectural elements, stark backgrounds isolating structures against empty skies.",
+    "use_cases": [
+      "Government and institutional building documentation",
+      "Modernist architecture portfolio presentation",
+      "Historical architectural preservation records"
+    ]
+  },
+  "suggested_subjects": [
+    "Brutalist government buildings and civic centers",
+    "Corporate headquarters and office complexes",
+    "University campuses and institutional facilities"
+  ],
+  "prompt_keywords": [
+    "high-contrast",
+    "geometric",
+    "institutional",
+    "documentary-precision",
+    "modernist-authority"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "time_1960s",
+  "photography_id": "architectural_photography",
+  "id": "time_1960s__architectural_photography",
+  "generated_at": "2025-11-13T09:51:48.680598",
+  "llm_model": "claude-sonnet-4-20250514"
+}

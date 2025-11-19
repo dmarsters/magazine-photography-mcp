@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 9,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Editorial photography's authentic documentation approach perfectly aligns with i-D's 1990s street culture ethos. The anti-polish aesthetic and environmental storytelling create natural synergy for capturing genuine youth rebellion."
+  },
+  "description": {
+    "name": "Street Editorial",
+    "tagline": "Raw documentary storytelling meets underground culture with uncompromising authenticity.",
+    "full_description": "This combination transforms traditional editorial photography through i-D's revolutionary 1990s lens, creating a gritty documentary approach that captures youth culture with unprecedented honesty. The harsh direct flash and high contrast printing techniques strip away magazine polish, revealing the authentic energy of club kids, emerging artists, and street fashion pioneers in their natural environments. Environmental storytelling becomes visceral rather than glossy, with pushed film grain and blown-out highlights creating an immediacy that feels like stolen moments from the underground.\n\nThe anti-design aesthetic reshapes editorial conventions, with tight crops on expressive faces and unconventional angles that challenge traditional subject-photographer relationships. Subjects exist authentically within their subcultural contexts – backstage at illegal raves, in converted warehouse spaces, on grimy urban streets that serve as runways for self-expression. The deliberate technical imperfection becomes a statement about rejecting mainstream beauty standards and commercial photography's sanitized vision.\n\nThis approach pioneered what would become street style documentation, but with editorial depth that goes beyond surface fashion. Each image functions as both cultural artifact and narrative element, building stories about youth rebellion, creative communities, and the authentic moments that define generational identity. The combination creates a time capsule aesthetic that feels both historically specific and timelessly rebellious.",
+    "visual_expectations": "Harsh direct flash creating dramatic shadows and blown highlights on subjects' faces, heavy film grain from pushed 35mm creating texture throughout the frame, high saturation neon colors contrasting with stark blacks and whites, tight environmental framing showing authentic subcultural spaces, xerox-like printing quality with deliberate color shifts and rough reproduction",
+    "use_cases": [
+      "Underground music magazine profiles of emerging artists",
+      "Subcultural documentation projects exploring youth movements",
+      "Anti-fashion editorial spreads celebrating authentic street style"
+    ]
+  },
+  "suggested_subjects": [
+    "Club kids in authentic rave environments",
+    "Emerging musicians in DIY venues",
+    "Street fashion innovators in urban settings"
+  ],
+  "prompt_keywords": [
+    "harsh flash",
+    "pushed film grain",
+    "street documentation",
+    "underground culture",
+    "authentic youth"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "i-d_1990s",
+  "photography_id": "editorial_photography",
+  "id": "i-d_1990s__editorial_photography",
+  "generated_at": "2025-11-13T09:53:52.450008",
+  "llm_model": "claude-sonnet-4-20250514"
+}

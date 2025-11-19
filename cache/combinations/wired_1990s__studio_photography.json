@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Studio photography's controlled environment perfectly suited Wired's need for precise color reproduction of their extreme Day-Glo palettes. The technical precision of studio lighting enabled the magazine's signature blown-out highlights and deep blacks that defined their radical aesthetic."
+  },
+  "description": {
+    "name": "Digital Maximalism",
+    "tagline": "Studio precision meets cyberpunk rebellion in explosive fluorescent rebellion.",
+    "full_description": "This combination captures the raw energy of the digital revolution through meticulously controlled studio environments pushed to their technical limits. Photographers wielded professional lighting setups not for traditional beauty, but to create harsh shadows, neon accent glows, and the extreme contrast ratios that made Wired's pages practically luminescent on newsstands. The controlled studio environment became a laboratory for digital experimentation, where subjects were lit with the artificial intensity of computer screens and circuit boards.\n\nEvery element was deliberately over-engineered: CMYK color separations were pushed until printing presses groaned, highlights were blown out until they became pure electric energy, and shadows were crushed into digital voids. Studio strobes were gelled with day-glo filters, creating portraits that looked like they were beamed in from cyberspace. The technical precision of studio photography provided the foundation for radical aesthetic choices that celebrated rather than corrected digital artifacts.\n\nThis wasn't photography documenting the digital age—it was photography transformed by digital thinking, where every pixel was weaponized for maximum visual impact. The result feels like mainlining caffeine while staring directly into a CRT monitor, an aesthetic that perfectly captured the manic optimism of the dot-com boom.",
+    "visual_expectations": "Subjects bathed in electric lime green, hot pink, and electric blue lighting with computer screen glow effects. Extreme contrast with blown-out fluorescent highlights against deep black shadows. Sharp digital artifacts and pixelated elements integrated as design features. Circuit board-inspired geometric lighting patterns. Harsh studio shadows creating dramatic angular compositions.",
+    "use_cases": [
+      "Tech entrepreneur portraits with cyberpunk edge",
+      "Product photography for digital devices and gadgets",
+      "Creative portraits of digital artists and pioneers"
+    ]
+  },
+  "suggested_subjects": [
+    "Tech startup founders posed with early computers",
+    "Digital artists surrounded by CRT monitors",
+    "Cyberpunk-styled fashion shoots with electronic accessories"
+  ],
+  "prompt_keywords": [
+    "fluorescent_lighting",
+    "digital_artifacts",
+    "electric_blue_highlights",
+    "harsh_shadows",
+    "cyberpunk_aesthetic"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "wired_1990s",
+  "photography_id": "studio_photography",
+  "id": "wired_1990s__studio_photography",
+  "generated_at": "2025-11-13T09:59:19.249313",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Perfect synergy between i-D's celebration of authentic street culture and candid photography's unposed approach. Both prioritize genuine moments over technical perfection, creating powerful cultural documentation."
+  },
+  "description": {
+    "name": "Street Authenticity",
+    "tagline": "Raw documentation of underground culture with unflinching honesty and deliberate imperfection.",
+    "full_description": "This combination captures the essence of 1990s youth rebellion through completely unguarded moments. Subjects are photographed in their natural habitat - club bathrooms, street corners, underground venues - using harsh direct flash and pushed film that creates the signature grain and blown-out highlights of the era. The candid approach means catching club kids mid-conversation, street style pioneers between poses, and emerging artists in their authentic element, all while maintaining i-D's anti-establishment aesthetic.\n\nThe technical imperfections become the artistic statement - overexposed flash photography, extreme contrast, and rough grain transform documentary realism into a bold visual manifesto. Subjects appear as they truly are, not as they wish to be seen, with genuine expressions and natural body language captured against crowded, chaotic backgrounds that reflect the underground scenes they inhabit.\n\nThis style pioneered authentic street style documentation, rejecting polished fashion photography in favor of real people in real moments. The deliberately amateur technique celebrates the DIY ethos of the era, where authenticity trumped technical excellence and cultural relevance mattered more than perfect composition.",
+    "visual_expectations": "Harsh direct flash creating stark shadows and blown highlights, heavy film grain from pushed 35mm stock, tight crops on expressive faces with genuine emotions, cluttered urban backgrounds with neon signage and street elements, high contrast black and white mixed with oversaturated color photography",
+    "use_cases": [
+      "Underground music scene documentation",
+      "Authentic street style portfolios",
+      "Youth subculture editorial features"
+    ]
+  },
+  "suggested_subjects": [
+    "Club scene regulars in their natural environment",
+    "Emerging musicians and artists in urban settings",
+    "Street style pioneers between fashion moments"
+  ],
+  "prompt_keywords": [
+    "harsh flash",
+    "pushed film grain",
+    "underground authenticity",
+    "blown highlights",
+    "street documentation"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "i-d_1990s",
+  "photography_id": "candid_photography",
+  "id": "i-d_1990s__candid_photography",
+  "generated_at": "2025-11-13T09:48:30.489834",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 7,
+    "overall_harmony": 8,
+    "reasoning": "Both styles emerged from 2000s counter-culture movements emphasizing authenticity over polish. The combination creates compelling tension between photojournalism's ethical standards and Vice's deliberately provocative aesthetic."
+  },
+  "description": {
+    "name": "Underground Documentation",
+    "tagline": "Raw photojournalism meets deliberate aesthetic rebellion in authentic counter-culture storytelling.",
+    "full_description": "This style fuses traditional photojournalistic integrity with Vice magazine's signature anti-establishment visual language from the 2000s. The approach maintains journalism's commitment to truthful representation while embracing the era's harsh flash photography, oversaturated colors, and intentionally crude technical execution. Images capture authentic moments with unflinching honesty, but present them through the lens of underground credibility rather than mainstream polish.\n\nThe aesthetic deliberately rejects conventional beauty standards in favor of raw authenticity. Harsh direct flash creates dramatic shadows and blown highlights, while oversaturated primaries and crushed blacks add visual aggression. Composition remains grounded in photojournalistic principles but executed with amateur snapshot aesthetics that feel more intimate and immediate than traditional editorial work.\n\nThis combination excels at documenting subcultures, nightlife, and social movements with both journalistic credibility and underground appeal. The style speaks to audiences who value authenticity over perfection, creating images that feel simultaneously professional in their storytelling and rebelliously amateur in their execution. Every frame carries the weight of documentary truth filtered through the uncompromising visual language of early 2000s counter-culture.",
+    "visual_expectations": "Harsh direct flash creating dramatic contrast and blown highlights, oversaturated colors with emphasis on neon primaries, intentionally degraded image quality with heavy grain and digital noise, tight cropping with subjects pressed against backgrounds, amateur snapshot composition elevated to editorial standard",
+    "use_cases": [
+      "Underground music scene documentation",
+      "Alternative fashion editorial spreads",
+      "Counter-culture movement photography"
+    ]
+  },
+  "suggested_subjects": [
+    "Underground club performers under harsh stage lighting",
+    "Street artists creating illegal murals in cramped alleyways",
+    "Protest organizers in crowded community meeting spaces"
+  ],
+  "prompt_keywords": [
+    "harsh_direct_flash",
+    "oversaturated_colors",
+    "amateur_snapshot_aesthetic",
+    "underground_authenticity",
+    "degraded_image_quality"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "vice_2000s",
+  "photography_id": "photojournalism",
+  "id": "vice_2000s__photojournalism",
+  "generated_at": "2025-11-13T09:47:04.615810",
+  "llm_model": "claude-sonnet-4-20250514"
+}

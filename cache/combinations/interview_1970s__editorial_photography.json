@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 9,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Editorial photography's documentary authenticity perfectly aligns with Interview's 1970s mission to capture underground culture through honest, unpolished imagery. Both prioritize storytelling over technical perfection, creating natural synergy."
+  },
+  "description": {
+    "name": "Factory Editorial",
+    "tagline": "Raw celebrity documentation where underground authenticity meets professional editorial storytelling.",
+    "full_description": "This fusion captures the revolutionary spirit of Warhol's Interview magazine through serious editorial photography, transforming celebrity portraiture into authentic cultural documentation. The combination maintains editorial photography's environmental storytelling while embracing Interview's anti-establishment aesthetic of harsh flash, high contrast, and deliberate imperfection. Subjects are photographed in their natural habitats with the directness and intimacy that made Interview legendary, but with editorial photography's deeper narrative context.\n\nThe technical approach emphasizes available light and minimal intervention, allowing the Factory's signature grain and contrast to emerge naturally. Wide-angle environmental shots establish context within art studios, underground clubs, or creative spaces, while intimate portraits capture the confrontational honesty Interview was known for. The aesthetic rejects glossy perfection in favor of authentic moments that reveal character.\n\nThis style bridges the gap between art and journalism, treating cultural figures as complex subjects worthy of serious documentation rather than simple celebrity objects. The result is imagery that feels both immediate and timeless, capturing the democratic spirit of 1970s underground culture while maintaining editorial photography's commitment to authentic storytelling.",
+    "visual_expectations": "High-contrast black and white imagery with dramatic shadows and blown highlights, environmental shots in creative spaces like studios or clubs, tight intimate portraits with direct eye contact, heavy grain texture creating poster-like graphic quality, and harsh direct lighting creating authentic documentary atmosphere.",
+    "use_cases": [
+      "Underground music magazine profiles",
+      "Contemporary artist documentation",
+      "Cultural scene retrospectives"
+    ]
+  },
+  "suggested_subjects": [
+    "Emerging musicians in recording studios",
+    "Visual artists in their workshops",
+    "Writers in bohemian cafes"
+  ],
+  "prompt_keywords": [
+    "harsh_flash",
+    "high_contrast_documentary",
+    "underground_editorial",
+    "factory_aesthetic",
+    "authentic_grain"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "interview_1970s",
+  "photography_id": "editorial_photography",
+  "id": "interview_1970s__editorial_photography",
+  "generated_at": "2025-11-13T09:37:14.641227",
+  "llm_model": "claude-sonnet-4-20250514"
+}

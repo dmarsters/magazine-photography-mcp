@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 7,
+    "aesthetic_score": 6,
+    "creative_tension": 7,
+    "overall_harmony": 7,
+    "reasoning": "Both emerged in the 1990s digital revolution, but photojournalism's pursuit of authentic truth directly conflicts with Wired's heavy digital manipulation and Day-Glo artificiality. The tension creates compelling documentary work about tech culture itself."
+  },
+  "description": {
+    "name": "Digital Truth",
+    "tagline": "Raw photojournalistic documentation meets electric cyberpunk aesthetics in the dawn of the internet age.",
+    "full_description": "This fusion captures the authentic human stories within the digital revolution through a photojournalistic lens, but processes them through Wired's signature electric color palette and aggressive digital manipulation. The result documents real moments - tech entrepreneurs coding through the night, early internet cafes, underground hacker meetups - with the visual intensity that matches the cultural significance of these pioneering times.\n\nThe approach maintains photojournalism's commitment to truth-telling and decisive moments, but acknowledges that the digital revolution itself was reshaping reality. Authentic candid shots are enhanced with Day-Glo color treatments, scan line overlays, and high-contrast processing that reflects the CRT monitor glow illuminating these subjects' faces as they built our digital future.\n\nEnvironmental context remains crucial, but backgrounds pulse with electric blues and lime greens, transforming mundane office spaces and garage startups into the cyberpunk landscapes they actually were becoming. The documentary integrity preserves the historical importance while the visual treatment conveys the electric excitement and optimism of the era.",
+    "visual_expectations": "Candid documentary shots with subjects naturally lit by computer screens, processed with extreme Day-Glo color saturation and high contrast. Scan line overlays and digital artifacts integrated as design elements. Sharp photojournalistic focus on human subjects against backgrounds treated with electric blues, hot pinks, and lime greens. Natural moments captured but digitally enhanced to reflect the technological transformation of the era.",
+    "use_cases": [
+      "Tech industry historical documentation",
+      "Startup culture storytelling",
+      "Digital revolution retrospectives"
+    ]
+  },
+  "suggested_subjects": [
+    "Early internet entrepreneurs working late in neon-lit offices",
+    "Underground hacker conferences and LAN parties",
+    "Silicon Valley garage startups during the dot-com boom"
+  ],
+  "prompt_keywords": [
+    "photojournalistic",
+    "day-glo colors",
+    "computer screen glow",
+    "candid documentation",
+    "electric contrast"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "wired_1990s",
+  "photography_id": "photojournalism",
+  "id": "wired_1990s__photojournalism",
+  "generated_at": "2025-11-13T09:59:34.535109",
+  "llm_model": "claude-sonnet-4-20250514"
+}

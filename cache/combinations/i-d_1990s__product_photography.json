@@ -1,0 +1,41 @@
+{
+  "compatibility": {
+    "temporal_alignment": "temporal_clash",
+    "technical_score": 2,
+    "aesthetic_score": 1,
+    "creative_tension": 9,
+    "overall_harmony": 3,
+    "reasoning": "i-D's deliberately raw, anti-polish aesthetic fundamentally opposes product photography's clean perfection. The combination creates extreme creative tension between authenticity and commercial presentation."
+  },
+  "description": {
+    "name": "Anti-Commercial Products",
+    "tagline": "Subversive product presentation that rejects polished commercialism through deliberately raw street aesthetics.",
+    "full_description": "This radical approach strips away the sanitized perfection of traditional product photography, replacing studio-controlled environments with the gritty authenticity of 1990s street culture documentation. Products are photographed with harsh direct flash, creating blown-out highlights and deep shadows that would horrify commercial photographers but capture the rebellious spirit of underground youth culture.\n\nThe aesthetic deliberately embraces technical 'flaws' - heavy grain from pushed film, color shifts from cheap processing, and the unflattering illumination of disposable camera flash. Products might be shot at unconventional angles, cropped tightly, or integrated into chaotic collage-like compositions that prioritize artistic statement over commercial clarity.\n\nThis approach transforms mundane commercial objects into cultural artifacts, presenting them as authentic elements within youth subculture rather than sanitized consumer goods. The result challenges viewers' expectations of how products should be presented, creating a powerful anti-establishment statement that questions commercial photography conventions.",
+    "visual_expectations": "Harsh direct flash creating stark shadows and blown highlights, heavy film grain and deliberate overexposure, products shot at unconventional angles with tight cropping, high contrast black and white or oversaturated neon colors, chaotic compositions with text overlays",
+    "use_cases": [
+      "Anti-fashion brand campaigns",
+      "Underground music merchandise",
+      "Countercultural product launches",
+      "Art gallery commercial critiques",
+      "Subversive advertising statements"
+    ]
+  },
+  "suggested_subjects": [
+    "Vintage band t-shirts and underground music merchandise",
+    "Street fashion accessories and rebellious clothing items",
+    "DIY beauty products and alternative cosmetics"
+  ],
+  "prompt_keywords": [
+    "harsh flash",
+    "heavy grain",
+    "blown highlights",
+    "street documentation",
+    "anti-commercial"
+  ],
+  "temporal_notes": "This pairing creates intentional anachronism by applying 1990s anti-establishment street photography techniques to contemporary product presentation, resulting in a powerful critique of commercial photography conventions and consumer culture sanitization.",
+  "magazine_id": "i-d_1990s",
+  "photography_id": "product_photography",
+  "id": "i-d_1990s__product_photography",
+  "generated_at": "2025-11-13T09:49:33.410864",
+  "llm_model": "claude-sonnet-4-20250514"
+}

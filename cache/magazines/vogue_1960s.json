@@ -1,0 +1,43 @@
+{
+  "name": "Vogue (1960s)",
+  "display_name": "Vogue: Modernist Revolution",
+  "era": {
+    "start": 1960,
+    "end": 1969,
+    "label": "Modernist fashion photography era"
+  },
+  "visual_treatment": {
+    "color_palette": "High contrast black and white dominance with selective bold color pops - electric blues, shocking pinks, geometric primaries when color is used",
+    "lighting": "Stark directional lighting with dramatic shadows, studio strobes creating sharp falloffs, minimal fill light for sculptural modeling",
+    "contrast": "Extremely high contrast with deep blacks and bright whites, minimal mid-tones, graphic punch",
+    "texture": "Ultra-sharp grain structure from Tri-X film, crisp detail rendering, metallic silver gelatin print quality"
+  },
+  "composition": {
+    "framing": "Tight cropping, geometric arrangements, models positioned as architectural elements within frame",
+    "spatial_relationships": "Clean negative space usage, subjects isolated against minimal backgrounds, asymmetrical balance",
+    "perspectives": "Low angles for power, overhead shots for graphic impact, close-ups emphasizing facial geometry",
+    "layout_philosophy": "Bauhaus-influenced minimalism, emphasis on line and form over decoration"
+  },
+  "technical": {
+    "film_or_technology": "Kodak Tri-X black and white film, medium format cameras (Hasselblad, Rolleiflex), some 35mm Leica work",
+    "lens_character": "Sharp German optics, minimal distortion, precise rendering of fine details and textures",
+    "post_processing": "Darkroom mastery with dodging and burning, high contrast printing, minimal retouching preserving natural skin texture"
+  },
+  "cultural_context": {
+    "values": "Youth culture revolution, modernist sophistication, breaking traditional fashion photography rules",
+    "subject_matter": "Young models (Twiggy era), avant-garde fashion, architectural fashion poses, mod culture aesthetics",
+    "target_audience": "Progressive, educated women embracing cultural change and modernist aesthetics",
+    "era_signature": "Geometric mod aesthetic meets high fashion sophistication with rebellious youth energy"
+  },
+  "temporal_markers": [
+    "Mod fashion geometric patterns and mini-skirts",
+    "Space-age influenced styling and makeup",
+    "Pop art graphic sensibilities in layout",
+    "Kennedy-era optimistic modernism",
+    "British invasion cultural influence"
+  ],
+  "distinguishing_features": "Revolutionary departure from 1950s soft glamour toward hard-edged geometric modernism, pioneered by photographers like David Bailey and Terence Donovan, emphasizing graphic impact over romantic beauty",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:24:58.240184",
+  "llm_model": "claude-sonnet-4-20250514"
+}

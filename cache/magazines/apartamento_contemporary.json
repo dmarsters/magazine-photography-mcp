@@ -1,0 +1,42 @@
+{
+  "name": "Apartamento (contemporary)",
+  "display_name": "Apartamento: Contemporary Home",
+  "era": {
+    "start": 2008,
+    "end": null,
+    "label": "Contemporary independent lifestyle publishing"
+  },
+  "visual_treatment": {
+    "color_palette": "Muted, naturally saturated tones with emphasis on warm whites, soft pastels, dusty pinks, sage greens, and earthy ochres",
+    "lighting": "Abundant natural light flooding through windows, creating soft shadows and highlighting architectural details",
+    "contrast": "Medium to low contrast with gentle tonal transitions and avoided harsh blacks or pure whites",
+    "texture": "Crisp digital clarity revealing fabric weaves, wood grain, ceramic glazes, and paper textures with tactile quality"
+  },
+  "composition": {
+    "framing": "Casual, intimate framings that feel like discovered moments rather than staged photography",
+    "spatial_relationships": "Layered depth with objects naturally overlapping, creating lived-in spatial narratives",
+    "perspectives": "Eye-level and slightly elevated angles, often from inhabitant's viewpoint within spaces",
+    "layout_philosophy": "Generous white space, asymmetrical grids, images bleeding to edges with thoughtful typography integration"
+  },
+  "technical": {
+    "film_or_technology": "High-end digital cameras with medium format aesthetic, occasional film photography for texture variation",
+    "lens_character": "Sharp but not clinical, moderate wide-angle lenses capturing intimate spaces without distortion",
+    "post_processing": "Minimal retouching preserving authentic imperfections, slight desaturation, film-like warmth in highlights"
+  },
+  "cultural_context": {
+    "values": "Authenticity over perfection, celebrating personal style and creative living",
+    "subject_matter": "Artist homes, creative professionals' spaces, design objects in natural settings, architectural details",
+    "target_audience": "Design-conscious millennials and Gen X creatives who value substance over luxury",
+    "era_signature": "Anti-aspirational luxury, embracing imperfection and personal narrative in domestic spaces"
+  },
+  "temporal_markers": [
+    "Instagram-influenced square and vertical compositions alongside traditional spreads",
+    "Post-2008 recession aesthetic rejecting ostentatious wealth",
+    "Sustainability consciousness reflected in vintage and handmade object preferences",
+    "Global perspective showing diverse cultural approaches to home"
+  ],
+  "distinguishing_features": "Combines editorial sophistication with intimate documentary approach, elevating everyday domestic moments through careful attention to light, texture, and authentic human presence",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:24:13.159856",
+  "llm_model": "claude-sonnet-4-20250514"
+}

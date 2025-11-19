@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "creative_anachronism",
+    "technical_score": 6,
+    "aesthetic_score": 4,
+    "creative_tension": 8,
+    "overall_harmony": 5,
+    "reasoning": "The warm, grainy intimacy of 1970s Rolling Stone clashes dramatically with architectural photography's precision and geometric clarity. This creates fascinating tension between organic authenticity and structural formality."
+  },
+  "description": {
+    "name": "Counterculture Architecture",
+    "tagline": "Architectural documentation through the warm, rebellious lens of 1970s rock journalism.",
+    "full_description": "This unprecedented fusion captures buildings and structures with the intimate, anti-establishment spirit that defined Rolling Stone's golden era. Imagine architectural photography stripped of its clinical precision, instead embraced by the warm film grain, saturated earth tones, and casual authenticity that made 1970s music photography legendary. Gone are the perfectly corrected verticals and sterile documentation approaches, replaced by slightly skewed perspectives that suggest an insider's access to spaces typically photographed with formal distance.\n\nThe result transforms cold concrete and steel into living, breathing environments that feel inhabited and soulful. Golden hour light spills through modernist windows with the same warmth that once illuminated backstage dressing rooms, while the rich film grain adds texture that makes even the most minimal structures feel tactile and human. This approach treats buildings like rock stars – finding their charisma, their hidden character, and the stories embedded in their forms.\n\nEach frame balances architectural integrity with countercultural sensibility, creating documentation that serves both practical and artistic purposes. The medium-format sharpness preserves crucial detail while the warm color palette and natural lighting approach imbues spaces with an emotional resonance typically reserved for portraits of legendary musicians.",
+    "visual_expectations": "Heavy 35mm film grain over sharp architectural details, warm golden and amber color casts on concrete and steel surfaces, slightly casual angles that maintain building recognition while adding human intimacy, natural window light creating dramatic shadows across geometric forms, and earth-toned color grading that makes modern structures feel organic and lived-in.",
+    "use_cases": [
+      "Alternative architectural portfolios emphasizing emotional connection over clinical documentation",
+      "Real estate marketing for properties targeting creative professionals and artists",
+      "Urban exploration photography that captures the soul of brutalist and modernist structures"
+    ]
+  },
+  "suggested_subjects": [
+    "Brutalist university buildings and cultural centers from the 1960s-70s",
+    "Recording studios and music venues with distinctive architectural features",
+    "Counterculture-era residential communes and experimental housing projects"
+  ],
+  "prompt_keywords": [
+    "warm film grain",
+    "golden hour architecture",
+    "casual documentary style",
+    "earth tone buildings",
+    "intimate structural photography"
+  ],
+  "temporal_notes": "This anachronistic pairing creates compelling tension by applying the organic, rebellious aesthetic of 1970s music culture to the traditionally formal world of architectural documentation, suggesting buildings as cultural artifacts rather than mere structures.",
+  "magazine_id": "rolling_stone_1970s",
+  "photography_id": "architectural_photography",
+  "id": "rolling_stone_1970s__architectural_photography",
+  "generated_at": "2025-11-13T09:31:50.636500",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "032c (contemporary)",
+  "display_name": "032c: Digital Avant-Garde",
+  "era": {
+    "start": 2010,
+    "end": null,
+    "label": "Post-internet fashion editorial era"
+  },
+  "visual_treatment": {
+    "color_palette": "High saturation digital colors, neon accents, stark blacks and whites, occasional desaturated pastels, LED-lit environments",
+    "lighting": "Harsh digital flash, LED strips, mixed color temperatures, stark studio lighting with deep shadows",
+    "contrast": "Extreme digital contrast with blown highlights and crushed blacks, high tonal separation",
+    "texture": "Ultra-sharp digital capture, synthetic materials emphasized, glossy surfaces, pixel-perfect clarity"
+  },
+  "composition": {
+    "framing": "Tight crops on faces and bodies, architectural framing, geometric divisions of space",
+    "spatial_relationships": "Subjects isolated against stark backgrounds, negative space as compositional element",
+    "perspectives": "Straight-on confrontational angles, low angles for power dynamics, clinical overhead shots",
+    "layout_philosophy": "Minimal Swiss-influenced typography, generous white space, text as graphic element"
+  },
+  "technical": {
+    "film_or_technology": "High-end digital cameras (Phase One, Canon 5D series), iPhone photography for certain editorials",
+    "lens_character": "Clinical sharpness, wide-angle distortion for fashion, macro detail shots",
+    "post_processing": "Minimal retouching philosophy, digital color grading, stark contrast adjustments"
+  },
+  "cultural_context": {
+    "values": "Post-internet authenticity, anti-fashion fashion, intellectual discourse through imagery",
+    "subject_matter": "Emerging designers, artists, musicians, Berlin creative scene, youth subcultures",
+    "target_audience": "Creative industry professionals, fashion insiders, art world figures, 25-40 demographic",
+    "era_signature": "Fusion of high fashion with streetwear aesthetics, digital nativity, cultural criticism"
+  },
+  "temporal_markers": [
+    "Instagram-influenced square crops and vertical compositions",
+    "Seamless integration of digital and analog aesthetics",
+    "Post-recession luxury minimalism",
+    "Social media-aware but platform-agnostic approach",
+    "Climate consciousness in fashion presentation"
+  ],
+  "distinguishing_features": "Intellectualized fashion photography that rejects traditional beauty standards, combines academic rigor with street-level authenticity, pioneered the 'ugly-beautiful' aesthetic in contemporary fashion media",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:23:04.873555",
+  "llm_model": "claude-sonnet-4-20250514"
+}

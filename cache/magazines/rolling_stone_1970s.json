@@ -1,0 +1,42 @@
+{
+  "name": "Rolling Stone (1970s)",
+  "display_name": "Rolling Stone: Counterculture Era",
+  "era": {
+    "start": 1970,
+    "end": 1979,
+    "label": "Counterculture and rock journalism golden age"
+  },
+  "visual_treatment": {
+    "color_palette": "Warm, saturated film colors with emphasis on earth tones, deep reds, golden yellows, and rich blues; natural skin tones with slight warmth push",
+    "lighting": "Natural light preferred, often available light scenarios; soft window light for portraits; dramatic stage lighting for performance shots",
+    "contrast": "Medium to high contrast with rich blacks and creamy highlights; punchy but not harsh tonal separation",
+    "texture": "Heavy film grain structure, especially in low light; sharp but organic detail rendering; slight softness that enhances intimacy"
+  },
+  "composition": {
+    "framing": "Intimate close-ups and medium shots; casual, unposed moments; environmental portraits showing context",
+    "spatial_relationships": "Subject-dominant compositions with meaningful backgrounds; layered scenes with foreground/background interaction",
+    "perspectives": "Eye-level and slightly low angles to create connection; candid angles suggesting insider access",
+    "layout_philosophy": "Documentary authenticity over studio perfection; capturing the moment over constructed scenarios"
+  },
+  "technical": {
+    "film_or_technology": "35mm color negative film, likely Kodak Ektachrome or Fujifilm; medium format for key portraits",
+    "lens_character": "Normal to short telephoto lenses creating natural perspective; some wide-angle environmental work",
+    "post_processing": "Minimal retouching; color correction focused on warmth and saturation; grain structure preserved"
+  },
+  "cultural_context": {
+    "values": "Authentic access to music culture; anti-establishment perspective; celebration of artistic authenticity",
+    "subject_matter": "Rock musicians, concerts, backstage life, cultural figures, political activism, lifestyle documentation",
+    "target_audience": "Young adults engaged with music culture, counterculture movement, and social change",
+    "era_signature": "Insider access to music world combined with serious journalism and artistic photography"
+  },
+  "temporal_markers": [
+    "Visible film grain and color characteristics of 1970s emulsion technology",
+    "Fashion and styling reflecting hippie/rock aesthetic evolution",
+    "Concert and venue photography showing 1970s music scene environments",
+    "Color saturation and warmth typical of period color processing"
+  ],
+  "distinguishing_features": "Combination of intimate access with artistic vision; balance of documentary authenticity and visual sophistication; warm, film-based color palette that enhanced the romantic mythology of rock culture",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:24:45.489019",
+  "llm_model": "claude-sonnet-4-20250514"
+}

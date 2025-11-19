@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 2,
+    "overall_harmony": 8,
+    "reasoning": "The controlled lighting and precise composition of still life photography aligns perfectly with Apartamento's meticulous attention to domestic objects and textures. Both approaches prioritize authentic material qualities and thoughtful arrangement over dramatic effects."
+  },
+  "description": {
+    "name": "Domestic Tableaux",
+    "tagline": "Carefully composed arrangements of everyday objects that reveal the poetry hidden in domestic life.",
+    "full_description": "This approach transforms ordinary household items into compelling visual narratives through the marriage of still life photography's classical composition principles with Apartamento's intimate domestic sensibility. Each arrangement feels simultaneously deliberate and discovered, as if the photographer happened upon a perfect moment of domestic harmony where light, texture, and form align in quiet revelation.\n\nThe aesthetic embraces the imperfect beauty of lived-in spaces, where a ceramic bowl might sit alongside vintage books, fresh flowers, and personal artifacts in arrangements that feel both curated and natural. Natural light floods these compositions, creating the soft shadows and warm highlights that Apartamento champions, while the still life tradition ensures every element serves the greater visual story.\n\nUnlike traditional product photography, these images celebrate the patina of use and the accumulation of personal taste. A kitchen counter becomes a stage for exploring the relationship between handmade ceramics and morning light, while a bedside table reveals the intimate landscape of daily rituals through carefully observed details.",
+    "visual_expectations": "Warm natural light revealing rich material textures like ceramic glazes and wood grain, carefully balanced compositions of 3-5 domestic objects, muted color palettes emphasizing sage greens and dusty pinks, intimate framings that feel like glimpsed moments, generous negative space that lets objects breathe",
+    "use_cases": [
+      "Design magazine editorials showcasing artisanal home goods",
+      "Brand photography for ceramic studios and craft makers",
+      "Interior design portfolios emphasizing curated lifestyle moments"
+    ]
+  },
+  "suggested_subjects": [
+    "Handmade ceramics arranged with morning coffee ritual objects",
+    "Vintage books stacked with dried flowers and reading glasses",
+    "Kitchen ingredients and tools arranged for meal preparation"
+  ],
+  "prompt_keywords": [
+    "natural window light",
+    "handmade ceramics",
+    "muted earth tones",
+    "intimate composition",
+    "authentic imperfection"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "apartamento_contemporary",
+  "photography_id": "still_life_photography",
+  "id": "apartamento_contemporary__still_life_photography",
+  "generated_at": "2025-11-13T10:06:57.640036",
+  "llm_model": "claude-sonnet-4-20250514"
+}

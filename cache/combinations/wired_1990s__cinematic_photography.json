@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 7,
+    "aesthetic_score": 6,
+    "creative_tension": 7,
+    "overall_harmony": 7,
+    "reasoning": "The cinematic approach's narrative depth contrasts intriguingly with Wired's aggressive digital aesthetic. While both embrace bold visual statements, cinematic storytelling softens the magazine's harsh technological edge."
+  },
+  "description": {
+    "name": "Digital Narrative",
+    "tagline": "Cyberpunk stories told through cinematic frames with electric Day-Glo intensity.",
+    "full_description": "This fusion creates a unique visual language where the storytelling depth of cinematic photography meets the electric rebellion of 1990s Wired magazine. The result is narrative-driven imagery that pulses with hot pink, lime green, and electric blue, but grounds the aggressive digital aesthetic in emotional human stories. Each frame becomes a movie still from the cyberpunk future, where tech pioneers and digital revolutionaries are captured with the dramatic lighting and compositional sophistication of film noir, but exploded into the oversaturated CMYK world of early digital culture.\n\nThe technical approach balances cinematic focal lengths with Wired's extreme cropping and unconventional framing. Studio lighting creates the high contrast both styles demand, while neon accent lighting and computer screen glow add the essential digital atmosphere. The shallow depth of field isolates subjects against backgrounds filled with circuit board patterns and floating digital elements, creating layers that serve both narrative purpose and the magazine's deconstructed design philosophy.\n\nThis combination captures the optimistic intensity of the dot-com boom through a more sophisticated visual lens. The harsh edges of early digital culture are tempered by cinematic emotion, creating images that feel like stills from a visionary sci-fi film about the birth of the internet age.",
+    "visual_expectations": "Dramatic directional lighting casting strong shadows across subjects bathed in electric Day-Glo colors, shallow depth of field isolating tech entrepreneurs against backgrounds of floating circuit board elements and scan line patterns, wide cinematic aspect ratios filled with oversaturated CMYK color palettes, extreme close-ups of computer hardware shot with film noir lighting techniques, environmental shots of digital workspaces composed like movie sets with strategic neon accent lighting.",
+    "use_cases": [
+      "Tech startup founder portraits with cyberpunk storytelling elements",
+      "Digital art exhibition documentation with cinematic narrative depth",
+      "Corporate technology campaigns that need emotional resonance with retro-futuristic edge"
+    ]
+  },
+  "suggested_subjects": [
+    "Software engineer working late with multiple monitors casting colored light across their face",
+    "Vintage computer hardware arranged like film props with dramatic studio lighting",
+    "Tech conference speaker presenting against backdrop of oversaturated digital graphics"
+  ],
+  "prompt_keywords": [
+    "cinematic_lighting",
+    "day_glo_colors",
+    "digital_scan_lines",
+    "shallow_focus",
+    "cyberpunk_narrative"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "wired_1990s",
+  "photography_id": "cinematic_photography",
+  "id": "wired_1990s__cinematic_photography",
+  "generated_at": "2025-11-13T10:00:30.194757",
+  "llm_model": "claude-sonnet-4-20250514"
+}

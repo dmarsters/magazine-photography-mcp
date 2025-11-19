@@ -1,0 +1,46 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 9,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Perfect temporal alignment with 1990s editorial photography matching Vanity Fair's peak celebrity culture era. Both emphasize high production values, sophisticated lighting, and polished aesthetic that defined luxury magazine photography of the decade."
+  },
+  "description": {
+    "name": "Hollywood Editorial",
+    "tagline": "The pinnacle of 1990s celebrity journalism where editorial sophistication meets Hollywood glamour.",
+    "full_description": "This combination captures the golden age of celebrity magazine culture, when Vanity Fair's editorial photography set the standard for sophisticated Hollywood portraiture. The aesthetic merges Annie Leibovitz's dramatic studio lighting with the journalistic authenticity of editorial photography, creating images that feel both accessible and aspirational. Rich jewel tones and deep blacks provide a luxurious backdrop for subjects, while careful attention to environmental context ensures each photograph tells a compelling story beyond mere celebrity worship.\n\nThe technical approach emphasizes medium format film quality with precise lighting that sculpts subjects dimensionally while maintaining editorial authenticity. Unlike pure fashion photography, these images prioritize narrative depth and cultural commentary, capturing celebrities in moments that reveal character rather than just beauty. The result is sophisticated visual journalism that elevated celebrity photography to fine art while remaining commercially powerful and editorially relevant.\n\nThis style defined how we saw Hollywood elite in the pre-digital era, combining the production values of high-end fashion photography with the storytelling integrity of editorial work. Every image served dual purposes: creating iconic celebrity portraits while advancing broader cultural narratives about fame, power, and American society in the prosperous 1990s.",
+    "visual_expectations": "Deep jewel tones and metallics against sophisticated neutral backgrounds, dramatic studio lighting with sculptural shadows and highlights, sharp detail in luxury fabrics and natural skin textures, medium format film grain structure, carefully composed negative space for editorial text integration",
+    "use_cases": [
+      "Celebrity profile features and cover stories",
+      "Cultural commentary pieces on Hollywood elite",
+      "Behind-the-scenes editorial essays",
+      "Luxury lifestyle and entertainment journalism",
+      "High-end corporate executive portraits"
+    ]
+  },
+  "suggested_subjects": [
+    "A-list actors in designer evening wear",
+    "Film directors in their creative environments",
+    "Musicians during intimate interview moments",
+    "Political figures in sophisticated power poses",
+    "Cultural icons with symbolic props or settings"
+  ],
+  "prompt_keywords": [
+    "vanity fair 1990s",
+    "editorial portrait",
+    "studio lighting",
+    "jewel tones",
+    "medium format film",
+    "celebrity journalism",
+    "hollywood glamour",
+    "sophisticated backdrop"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "vanity_fair_1990s",
+  "photography_id": "editorial_photography",
+  "id": "vanity_fair_1990s__editorial_photography",
+  "generated_at": "2025-11-13T09:43:49.034728",
+  "llm_model": "claude-sonnet-4-20250514"
+}

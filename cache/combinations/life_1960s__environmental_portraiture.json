@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 9,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Environmental portraiture emerged in the 1960s as Life magazine's signature approach, pioneered by photographers like Arnold Newman. The combination represents the golden age of photojournalistic portraiture when context and character merged seamlessly."
+  },
+  "description": {
+    "name": "Life Portraits",
+    "tagline": "Intimate character studies that reveal the whole person through their meaningful environment.",
+    "full_description": "This approach captures the essence of Life magazine's revolutionary 1960s portraiture, where subjects are photographed within spaces that define their identity and purpose. Shot on Kodachrome or Tri-X film with natural lighting, these portraits balance intimate human connection with rich environmental storytelling. The photographer works at medium distance, allowing both facial expression and contextual details to coexist in sharp, purposeful composition.\n\nThe aesthetic emphasizes authenticity over artifice, using available light to preserve the genuine mood of each location. Subjects appear comfortable and natural, often engaged in characteristic activities that reveal their profession, passion, or personality. The resulting images feel like privileged glimpses into real lives rather than constructed photo sessions.\n\nTechnically, moderate depth of field keeps subjects sharp while maintaining environmental context. The characteristic grain of period film stocks adds texture and authenticity, while Life's high editorial standards ensure every element serves the narrative. Colors remain natural and unforced, with the slight warmth of Kodachrome lending humanity to each frame.",
+    "visual_expectations": "Sharp subjects integrated naturally with their meaningful environments, characteristic film grain texture from 35mm Kodachrome or Tri-X, natural lighting that preserves authentic mood, balanced composition showing both person and place at medium distance, rich tonal range with deep blacks and bright highlights typical of Life's printing standards",
+    "use_cases": [
+      "Magazine profiles of artists, craftspeople, and professionals in their workspaces",
+      "Documentary portraits for cultural institutions and historical archives",
+      "Corporate leadership photography emphasizing authentic workplace environments"
+    ]
+  },
+  "suggested_subjects": [
+    "Jazz musician in recording studio with instruments and equipment",
+    "Architect at drafting table surrounded by blueprints and models",
+    "Chef in restaurant kitchen during prep work"
+  ],
+  "prompt_keywords": [
+    "environmental portrait",
+    "natural lighting",
+    "Kodachrome film",
+    "Life magazine style",
+    "contextual background"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "life_1960s",
+  "photography_id": "environmental_portraiture",
+  "id": "life_1960s__environmental_portraiture",
+  "generated_at": "2025-11-13T10:07:17.382272",
+  "llm_model": "claude-sonnet-4-20250514"
+}

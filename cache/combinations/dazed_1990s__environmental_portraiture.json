@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 6,
+    "aesthetic_score": 4,
+    "creative_tension": 8,
+    "overall_harmony": 6,
+    "reasoning": "The deliberate lo-fi chaos of 90s Dazed creates compelling friction with environmental portraiture's careful context-building. While both styles document authentic subjects, their technical and aesthetic approaches are fundamentally opposed."
+  },
+  "description": {
+    "name": "Underground Context",
+    "tagline": "Environmental portraiture stripped of polish and pushed through the gritty lens of 90s underground culture.",
+    "full_description": "This hybrid approach maintains environmental portraiture's core mission of showing subjects within meaningful spaces while filtering everything through Dazed's deliberately degraded aesthetic. Instead of carefully lit corporate executives in pristine offices, imagine club promoters photographed in grimy venue basements with harsh fluorescent lighting and pushed film grain. The environmental context remains crucial, but it's captured with the raw authenticity of underground documentation rather than editorial polish.\n\nTechnical precision gives way to emotional impact as cheap cameras and blown-out highlights transform traditional environmental portraits into visceral documents of alternative culture. Subjects are still positioned meaningfully within their spaces, but those spaces might be record shops, illegal warehouse parties, or cluttered artist squats captured with the unflinching directness of street photography.\n\nThe result challenges environmental portraiture's typical restraint by injecting it with punk energy and anti-establishment attitude. Context becomes not just informative but confrontational, using harsh lighting and extreme contrast to reveal both the subject's world and the photographer's rebellious perspective on traditional portrait conventions.",
+    "visual_expectations": "Harsh fluorescent or flash lighting creating unflattering shadows across meaningful environments, extreme grain and contrast making both subject and setting feel raw and immediate, off-center compositions that include environmental details but reject traditional portrait balance, blown-out highlights and crushed blacks that obscure some environmental details while emphasizing mood, cramped framing that makes spaces feel claustrophobic rather than aspirational",
+    "use_cases": [
+      "Underground music venue documentation",
+      "Alternative artist studio portraits",
+      "Club culture lifestyle features"
+    ]
+  },
+  "suggested_subjects": [
+    "Record shop owner surrounded by vinyl chaos",
+    "Tattoo artist in dimly lit parlor",
+    "Underground DJ in cramped bedroom studio"
+  ],
+  "prompt_keywords": [
+    "harsh fluorescent lighting",
+    "pushed film grain",
+    "underground venue",
+    "blown-out highlights",
+    "cramped environment"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "dazed_1990s",
+  "photography_id": "environmental_portraiture",
+  "id": "dazed_1990s__environmental_portraiture",
+  "generated_at": "2025-11-13T09:27:49.230990",
+  "llm_model": "claude-sonnet-4-20250514"
+}

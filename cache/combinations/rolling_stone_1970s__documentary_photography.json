@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Documentary photography and Rolling Stone's 1970s approach share identical values of authentic storytelling and natural lighting. Both prioritize genuine moments over constructed scenarios, creating seamless aesthetic harmony."
+  },
+  "description": {
+    "name": "Backstage Truth",
+    "tagline": "Raw, intimate documentation capturing the authentic soul of 1970s counterculture through unguarded moments.",
+    "full_description": "This combination channels the golden age of music journalism when Rolling Stone photographers gained unprecedented access to the inner circles of rock culture. Documentary photography's commitment to truth-telling merged perfectly with the magazine's mission to reveal the authentic personalities behind the musical mythology. The result was intimate, unposed portraits that felt like stolen glimpses into private worlds.\n\nThe aesthetic embraces the warm, saturated tones of 1970s color film stock while maintaining documentary photography's respect for natural light and genuine emotion. Every frame carries the weight of historical significance, capturing not just individual subjects but entire cultural movements in transition. The visible grain structure and organic detail rendering create an immediacy that digital perfection cannot replicate.\n\nThis approach transforms ordinary encounters into iconic moments through patient observation rather than aggressive direction. The photographer becomes a trusted insider, documenting the creative process, backstage vulnerability, and quiet moments between performances that reveal character beyond public personas.",
+    "visual_expectations": "Warm, film-grain textures with golden hour lighting and earth-toned color palettes; intimate close-ups showing genuine expressions and unguarded moments; environmental details that place subjects within authentic 1970s cultural contexts; natural shadows and highlights that preserve both detail and mood; candid body language and spontaneous interactions.",
+    "use_cases": [
+      "Behind-the-scenes music industry documentation",
+      "Cultural figure portraiture with historical significance",
+      "Authentic lifestyle brand storytelling with vintage credibility"
+    ]
+  },
+  "suggested_subjects": [
+    "Musicians during sound check or rehearsal",
+    "Artists in their creative studios or workspaces",
+    "Cultural figures in intimate conversation settings"
+  ],
+  "prompt_keywords": [
+    "candid documentary style",
+    "1970s film grain",
+    "natural available light",
+    "intimate backstage moment",
+    "authentic unposed portrait"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "rolling_stone_1970s",
+  "photography_id": "documentary_photography",
+  "id": "rolling_stone_1970s__documentary_photography",
+  "generated_at": "2025-11-13T09:35:32.702978",
+  "llm_model": "claude-sonnet-4-20250514"
+}

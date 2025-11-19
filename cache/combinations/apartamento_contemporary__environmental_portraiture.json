@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Both styles emerged from contemporary movements valuing authenticity over perfection, creating seamless alignment. The intimate, documentary approach of environmental portraiture perfectly matches Apartamento's philosophy of showing people naturally within their creative spaces."
+  },
+  "description": {
+    "name": "Intimate Documentation",
+    "tagline": "Contemporary environmental portraits that reveal authentic creative lives through the gentle lens of independent lifestyle publishing.",
+    "full_description": "This pairing creates deeply personal portraits that feel like quiet discoveries rather than formal photoshoots. Subjects are captured in their most meaningful spaces - the artist's cluttered studio, the designer's sun-drenched kitchen, the writer's book-lined study - with the same careful attention to light and texture that defines contemporary independent publishing. The photography maintains Apartamento's signature warmth, using abundant natural light to create soft shadows that highlight both human character and environmental detail.\n\nThe aesthetic rejects traditional corporate portraiture in favor of something more intimate and honest. Muted, naturally saturated tones create harmony between subject and space, while the moderate depth of field ensures both person and environment contribute to the narrative. These aren't staged lifestyle shots but genuine documentation of how creative people inhabit their worlds.\n\nThe result captures the anti-aspirational luxury movement - celebrating personal style and authentic living over polished perfection. Each portrait becomes a small story about creativity, domesticity, and the beautiful imperfection of real life, rendered with the editorial sophistication that makes everyday moments feel significant.",
+    "visual_expectations": "Warm, naturally lit portraits with subjects integrated into meaningful personal spaces; muted color palettes emphasizing dusty pinks, sage greens, and warm whites; authentic environmental details like fabric textures, wood grain, and lived-in spatial arrangements; gentle shadows and soft contrast that avoid harsh drama; natural poses that suggest comfort and belonging within the space.",
+    "use_cases": [
+      "Creative professional profiles for design publications",
+      "Artist studio documentation for gallery exhibitions",
+      "Lifestyle brand campaigns celebrating authentic living"
+    ]
+  },
+  "suggested_subjects": [
+    "Ceramic artist in their naturally lit studio workspace",
+    "Food stylist in their vintage-furnished kitchen",
+    "Textile designer surrounded by fabric samples and plants"
+  ],
+  "prompt_keywords": [
+    "natural_window_light",
+    "intimate_documentary",
+    "muted_warm_tones",
+    "authentic_workspace",
+    "gentle_shadows"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "apartamento_contemporary",
+  "photography_id": "environmental_portraiture",
+  "id": "apartamento_contemporary__environmental_portraiture",
+  "generated_at": "2025-11-13T09:31:38.214121",
+  "llm_model": "claude-sonnet-4-20250514"
+}

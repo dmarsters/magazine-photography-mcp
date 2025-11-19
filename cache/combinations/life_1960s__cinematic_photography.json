@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "creative_anachronism",
+    "technical_score": 7,
+    "aesthetic_score": 8,
+    "creative_tension": 6,
+    "overall_harmony": 7,
+    "reasoning": "Life magazine's documentary authenticity merges intriguingly with cinematic staging techniques. The combination creates sophisticated narrative photography that elevates photojournalism with Hollywood-inspired visual drama."
+  },
+  "description": {
+    "name": "Documentary Cinema",
+    "tagline": "Photojournalism meets Hollywood's golden age visual storytelling in dramatically lit real-world narratives.",
+    "full_description": "This style transforms Life magazine's decisive moment philosophy through the lens of classic cinematography, creating images that feel both authentic and theatrical. Where Life photographers captured spontaneous human drama with available light and quick reflexes, this approach adds carefully orchestrated lighting and composed framing that turns everyday moments into scene studies. The result maintains photojournalism's commitment to truth-telling while borrowing cinema's emotional amplification techniques.\n\nVisually, expect the rich Kodachrome color palette and fine grain structure of 1960s Life photography enhanced by dramatic three-point lighting setups and shallow depth of field. Environmental context remains crucial, but backgrounds are more carefully controlled to support the narrative rather than simply document it. The human-scale intimacy that defined Life's golden age persists, but with added layers of visual sophistication borrowed from film noir and Hollywood portraiture.\n\nThis fusion works particularly well for stories requiring both documentary credibility and emotional impact. The style elevates ordinary subjects through cinematic treatment while maintaining the accessible, human-centered approach that made Life magazine America's visual conscience during the turbulent 1960s.",
+    "visual_expectations": "Kodachrome-inspired color rendering with dramatic directional lighting creating strong shadows and highlights, 35mm grain structure visible in fine detail, shallow depth of field isolating subjects against meaningful but softened backgrounds, three-point lighting setups even in documentary-style scenes, and careful framing that maintains Life's human-scale intimacy while adding Hollywood's visual sophistication.",
+    "use_cases": [
+      "Editorial portraits of contemporary subjects with historical gravitas",
+      "Documentary projects requiring emotional depth beyond straight photojournalism",
+      "Commercial campaigns needing authentic feel with cinematic polish"
+    ]
+  },
+  "suggested_subjects": [
+    "Community leaders and activists in their working environments",
+    "Behind-the-scenes moments at cultural events with dramatic lighting",
+    "Intergenerational family portraits showing social change over time"
+  ],
+  "prompt_keywords": [
+    "kodachrome-colors",
+    "three-point-lighting",
+    "35mm-grain",
+    "documentary-authenticity",
+    "cinematic-framing"
+  ],
+  "temporal_notes": "The anachronism creates productive tension between 1960s documentary spontaneity and modern cinematic control, resulting in images that feel both historically grounded and cinematically elevated.",
+  "magazine_id": "life_1960s",
+  "photography_id": "cinematic_photography",
+  "id": "life_1960s__cinematic_photography",
+  "generated_at": "2025-11-13T10:05:19.827244",
+  "llm_model": "claude-sonnet-4-20250514"
+}

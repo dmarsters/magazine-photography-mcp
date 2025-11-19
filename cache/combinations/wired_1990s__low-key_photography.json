@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 7,
+    "creative_tension": 6,
+    "overall_harmony": 7,
+    "reasoning": "Both styles emerged in the 1990s digital era, creating perfect technical alignment. The contrast between Wired's day-glo maximalism and low-key's dramatic shadows creates compelling creative tension without aesthetic clash."
+  },
+  "description": {
+    "name": "Digital Noir",
+    "tagline": "Cyberpunk meets chiaroscuro in electric-shadowed portraits that define the digital underground.",
+    "full_description": "This striking combination merges 1990s Wired's revolutionary day-glo aesthetic with the dramatic shadows of low-key photography, creating a uniquely cyberpunk visual language. Subjects emerge from deep blacks into pools of electric lime green, hot pink, and electric blue light, as if illuminated by the glow of multiple computer monitors in a darkened server room. The harsh directional lighting creates sculptural dimensionality while Day-Glo colors push the boundaries between digital and analog worlds.\n\nThe aesthetic captures the era's tension between technological optimism and digital anxiety, using controlled studio lighting to create environments that feel both futuristic and noir-influenced. Electric highlights carve through darkness with the precision of laser light, while maintaining the formal drama of classical portrait lighting. Digital artifacts and scan lines become design elements within the controlled lighting setup.\n\nThis style transforms traditional low-key photography's moody sophistication into something distinctly 1990s - aggressive, optimistic, and unapologetically artificial. The result is portraiture that feels like it belongs in both a high-tech laboratory and an underground hacker den.",
+    "visual_expectations": "Subjects dramatically lit by single sources of electric day-glo color against pure black backgrounds, harsh shadows creating geometric patterns across faces and bodies, fluorescent pink or lime green key lighting with deep shadow fall-off, computer screen glow effects creating rim lighting, high contrast between illuminated and shadow areas.",
+    "use_cases": [
+      "Tech entrepreneur portraits for 1990s-inspired branding",
+      "Cyberpunk character photography for gaming or entertainment",
+      "Artistic portraits exploring digital identity themes"
+    ]
+  },
+  "suggested_subjects": [
+    "Tech startup founders in casual 90s attire",
+    "Digital artists surrounded by vintage computer equipment",
+    "Cybersecurity experts with retro hacking setups"
+  ],
+  "prompt_keywords": [
+    "electric-lime-lighting",
+    "cyberpunk-chiaroscuro",
+    "day-glo-shadows",
+    "digital-noir-portrait",
+    "neon-key-light"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "wired_1990s",
+  "photography_id": "low-key_photography",
+  "id": "wired_1990s__low-key_photography",
+  "generated_at": "2025-11-13T10:01:17.271427",
+  "llm_model": "claude-sonnet-4-20250514"
+}

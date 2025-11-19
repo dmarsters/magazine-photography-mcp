@@ -1,0 +1,49 @@
+{
+  "name": "Editorial Photography",
+  "technical": {
+    "focal_length": "24-85mm most common, wide angles (14-35mm) for environmental context, 50-135mm for portraits, telephoto (70-200mm) for sports/events",
+    "depth_of_field": "Variable based on story needs - shallow f/1.4-f/2.8 for subject isolation, deep f/5.6-f/11 for environmental context and multiple subjects",
+    "shutter_speed": "1/60s-1/250s for portraits and interviews, 1/500s+ for action/events, sometimes slower for intentional motion blur storytelling",
+    "lighting": "Natural light preferred when possible, minimal flash intervention, bounce flash or LED panels for indoor work, maintaining authentic atmosphere over perfect lighting",
+    "camera_format": "Full-frame DSLR/mirrorless dominant, medium format for high-end magazines, occasionally 35mm film for specific aesthetic"
+  },
+  "aesthetic": {
+    "composition": "Rule of thirds, leading lines, strong geometric elements, asymmetrical balance, negative space to accommodate text layout, multiple focal points",
+    "subject_background": "Background provides context and story information, environmental elements support narrative, minimal backgrounds only when subject is the complete story",
+    "tonal_range": "Full tonal range preserved, moderate contrast, shadow detail retention important, highlights controlled to avoid blown areas",
+    "color_approach": "Natural color palette reflecting real environment, muted tones common, color grading subtle and story-appropriate, black and white for timeless or serious subjects",
+    "texture_detail": "High detail retention throughout frame, textures support storytelling, fabric, architectural, and skin textures rendered naturally"
+  },
+  "shooting_approach": {
+    "subject_distance": "Varies widely - close portraits (3-6 feet), environmental shots (10-30 feet), establishing shots (50+ feet), dictated by story requirements",
+    "angle_perspective": "Eye level most common, slight variations for visual interest, low angles for empowerment themes, high angles for vulnerability, Dutch angles rare",
+    "subject_relationship": "Mix of posed and candid moments, subjects aware of camera but natural, authentic expressions prioritized over perfect poses",
+    "environment": "On-location shooting dominant, subjects in their natural or relevant environments, studio only when environmental context unnecessary"
+  },
+  "context": {
+    "typical_uses": [
+      "Magazine feature stories",
+      "Newspaper articles",
+      "Corporate annual reports",
+      "Documentary essays",
+      "Profile pieces",
+      "News coverage"
+    ],
+    "historical_context": "Emerged with photojournalism in 1930s-40s, evolved with magazine culture post-WWII, influenced by Life Magazine and European photo essays",
+    "key_characteristics": "Story-driven imagery, authentic moments, environmental context, technical excellence, ethical representation, layout consideration",
+    "related_styles": [
+      "Photojournalism",
+      "Documentary Photography",
+      "Portrait Photography",
+      "Street Photography",
+      "Corporate Photography"
+    ]
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "1950s-60s emphasized formal poses and studio work, 1970s-80s became more environmental and candid, 1990s-2000s increased color saturation and stylization, 2010s+ embraced authentic moments and diverse representation"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:26:49.306881",
+  "llm_model": "claude-sonnet-4-20250514"
+}

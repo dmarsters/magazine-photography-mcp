@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 4,
+    "overall_harmony": 8,
+    "reasoning": "Both emerged from 1970s counterculture aesthetics, sharing candid authenticity and high-contrast black-and-white treatments. Street photography's available light approach perfectly complements Interview's factory-era preference for harsh, immediate lighting."
+  },
+  "description": {
+    "name": "Factory Streets",
+    "tagline": "Raw urban encounters filtered through Warhol's underground aesthetic lens.",
+    "full_description": "This pairing transforms the traditional street photography approach into something distinctly more confrontational and artistically charged. Drawing from Interview magazine's Factory-era sensibility, candid street moments are captured with the same harsh flash and high-contrast treatment that defined Warhol's circle. The result elevates everyday urban encounters into art statements, where anonymous pedestrians become unwitting subjects in a larger cultural documentation project.\n\nThe aesthetic maintains street photography's core principle of authentic, unposed moments while applying Interview's signature visual treatment of blown-out highlights, deep blacks, and that distinctive grain quality that made 1970s underground photography so compelling. Subjects caught in natural street light or under harsh neon signage echo the same dramatic lighting that Interview used to transform emerging artists and cultural provocateurs into icons.\n\nThis combination creates images that feel simultaneously documentary and editorial, capturing the democratic spirit of street photography while elevating it through the art world lens that Interview pioneered. The result is urban photography that doesn't just document city life but presents it as a gallery-worthy artistic statement.",
+    "visual_expectations": "Stark black-and-white images with harsh shadows and blown-out highlights creating poster-like contrast. Candid street subjects captured with direct flash or dramatic available light. Heavy grain texture giving images an immediate, underground publication quality. Off-center framing and confrontational eye contact when subjects notice the camera. Urban backgrounds rendered in deep blacks with selective bright elements cutting through the darkness.",
+    "use_cases": [
+      "Underground culture documentation",
+      "Art gallery street photography exhibitions",
+      "Alternative lifestyle magazine editorials"
+    ]
+  },
+  "suggested_subjects": [
+    "Street musicians and performers",
+    "Late-night urban wanderers",
+    "Underground club district scenes"
+  ],
+  "prompt_keywords": [
+    "harsh_flash",
+    "high_contrast",
+    "candid_street",
+    "underground_aesthetic",
+    "heavy_grain"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "interview_1970s",
+  "photography_id": "street_photography",
+  "id": "interview_1970s__street_photography",
+  "generated_at": "2025-11-13T09:34:09.568416",
+  "llm_model": "claude-sonnet-4-20250514"
+}

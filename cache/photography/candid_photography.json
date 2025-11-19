@@ -1,0 +1,48 @@
+{
+  "name": "Candid Photography",
+  "technical": {
+    "focal_length": "35mm-85mm for street candids, 70-200mm for distant subjects, wide-angle 24-35mm for environmental context",
+    "depth_of_field": "Variable - shallow f/1.4-2.8 for subject isolation, moderate f/4-5.6 for group context, deep f/8-11 for environmental storytelling",
+    "shutter_speed": "Fast 1/125s-1/500s+ to freeze natural movement, sometimes slower 1/60s-1/30s for intentional motion blur",
+    "lighting": "Available light priority - natural window light, ambient indoor/outdoor lighting, minimal flash use, high ISO capability essential",
+    "camera_format": "35mm film historically, digital full-frame/APS-C, rangefinders and mirrorless for discretion, fast autofocus systems"
+  },
+  "aesthetic": {
+    "composition": "Rule of thirds relaxed, off-center subjects, tilted horizons acceptable, foreground/background interaction, authentic moment over perfect composition",
+    "subject_background": "Background often busy/realistic, environmental context crucial, subjects naturally integrated into surroundings, layered compositions",
+    "tonal_range": "Natural contrast reflecting actual lighting conditions, shadows may be blocked, highlights may blow - authenticity over technical perfection",
+    "color_approach": "Natural color temperature variations, mixed lighting accepted, desaturated earth tones common, realistic skin tones priority",
+    "texture_detail": "Natural texture preservation, grain/noise acceptable, sharp focus on key subjects but soft focus acceptable for motion/emotion"
+  },
+  "shooting_approach": {
+    "subject_distance": "Variable - close 3-10 feet for intimacy, medium 10-25 feet for context, distant 25+ feet for unobtrusive observation",
+    "angle_perspective": "Eye level predominant, occasional low/high angles when naturally occurring, handheld camera shake acceptable",
+    "subject_relationship": "Purely candid - subjects unaware or natural, genuine emotions and expressions, unposed body language",
+    "environment": "Natural locations - streets, homes, events, workplaces, public spaces, real environments over controlled settings"
+  },
+  "context": {
+    "typical_uses": [
+      "Street photography",
+      "Photojournalism and documentary work",
+      "Wedding and event photography",
+      "Family lifestyle photography",
+      "Social documentary projects"
+    ],
+    "historical_context": "Emerged 1920s-1930s with portable cameras (Leica), popularized by Henri Cartier-Bresson's 'decisive moment' concept, evolved through street photography movement",
+    "key_characteristics": "Unposed authentic moments, natural lighting conditions, genuine expressions and emotions, environmental context, spontaneous composition",
+    "related_styles": [
+      "Street Photography",
+      "Documentary Photography",
+      "Photojournalism",
+      "Lifestyle Photography",
+      "Social Realism"
+    ]
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "1930s-50s: formal candids with available light; 1960s-80s: grittier street style, higher grain tolerance; Digital era: higher ISO capabilities, continuous shooting modes, more intimate access"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:25:33.652253",
+  "llm_model": "claude-sonnet-4-20250514"
+}

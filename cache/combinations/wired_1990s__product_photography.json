@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 4,
+    "overall_harmony": 8,
+    "reasoning": "The combination aligns perfectly with 1990s Wired's focus on technology products and digital culture. Product photography's precision complements the magazine's techno-optimistic aesthetic while adding commercial edge."
+  },
+  "description": {
+    "name": "Digital Showcase",
+    "tagline": "Technology products bathed in electric neon light with aggressive digital manipulation.",
+    "full_description": "This combination transforms traditional product photography through Wired's radical 1990s lens, creating images that feel like artifacts from the early digital revolution. Products are shot with clinical precision but then subjected to extreme color treatments - electric pinks, lime greens, and oversaturated blues that push printing technology to its limits. The clean, controlled lighting of product photography becomes harsh and dramatic, with neon accent lighting and computer screen glows that make even mundane objects feel like revolutionary technology.\n\nThe aesthetic treats products as totems of the digital future, with heavy post-processing that includes color channel separation, posterization effects, and digital artifacts deliberately introduced as design elements. Scan lines and pixel grids overlay perfectly sharp product shots, while unconventional crops and Dutch angles break away from traditional catalog presentation. The result is product imagery that doesn't just show what something is, but evangelizes what it represents in the digital transformation of society.\n\nThis style captures the era's belief that every piece of technology, no matter how small, was part of a fundamental shift in human experience. Products float in deconstructed layouts with circuit board-inspired grids and layered digital collages that suggest the interconnected nature of the emerging digital ecosystem.",
+    "visual_expectations": "Products with blown-out highlights and deep shadows in Day-Glo color schemes, harsh studio lighting with neon accents creating dramatic rim lighting, scan lines and digital artifacts overlaying sharp product details, extreme close-ups mixed with unconventional cropping that cuts through subjects, floating elements and layered compositions that break traditional product photography conventions.",
+    "use_cases": [
+      "Tech product launches targeting early adopters",
+      "Cyberpunk-themed commercial campaigns",
+      "Retro-futuristic brand positioning for digital products"
+    ]
+  },
+  "suggested_subjects": [
+    "Computer hardware and peripherals",
+    "Early mobile devices and digital cameras",
+    "Electronic gadgets and consumer technology"
+  ],
+  "prompt_keywords": [
+    "electric-neon-lighting",
+    "oversaturated-CMYK",
+    "scan-lines-overlay",
+    "harsh-studio-contrast",
+    "digital-artifacts"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "wired_1990s",
+  "photography_id": "product_photography",
+  "id": "wired_1990s__product_photography",
+  "generated_at": "2025-11-13T09:57:08.789158",
+  "llm_model": "claude-sonnet-4-20250514"
+}

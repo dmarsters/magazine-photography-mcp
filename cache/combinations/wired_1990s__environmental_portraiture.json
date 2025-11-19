@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 7,
+    "creative_tension": 6,
+    "overall_harmony": 8,
+    "reasoning": "Both styles emerged in the 1990s, creating perfect temporal alignment. The technical approach of environmental portraiture provides grounding context that balances Wired's aggressive digital aesthetics, though the magazine's day-glo excess creates interesting tension with portraiture's naturalistic tendencies."
+  },
+  "description": {
+    "name": "Cyberpunk Portraits",
+    "tagline": "Tech pioneers photographed in their digital domains with electric day-glo intensity and radical 90s magazine design.",
+    "full_description": "This fusion captures the revolutionary spirit of 1990s digital culture by photographing subjects within their technological environments while applying Wired magazine's signature electric aesthetic treatment. Environmental portraiture's contextual storytelling approach perfectly complements the era's focus on tech pioneers, startup founders, and digital artists working in computer labs, server rooms, and cluttered home offices filled with CRT monitors and early hardware.\n\nThe visual treatment transforms traditional environmental portraiture through Wired's aggressive color palette of hot pink, lime green, and electric blue, often oversaturating the natural lighting of tech workspaces. Subjects are photographed at their workstations, surrounded by the tools of the digital revolution, but the final images receive heavy post-processing that emphasizes scan lines, digital artifacts, and posterization effects that were hallmarks of early digital manipulation.\n\nComposition follows environmental portraiture's balanced relationship between subject and setting, but applies Wired's deconstructed design philosophy through extreme crops, Dutch angles, and layered digital collage elements. The harsh studio lighting and neon accent lighting create dramatic shadows that emphasize the technological environment while maintaining the portrait's narrative focus. This approach perfectly captures the techno-optimism and digital evangelism of the dot-com boom era.",
+    "visual_expectations": "Subjects integrated into high-tech environments with CRT monitors and early computers, extreme color saturation turning normal office lighting into electric day-glo spectrums, digital scan lines and pixelation effects overlaid on naturally-lit portraits, harsh shadows and neon accent lighting creating dramatic contrast, unconventional crops and Dutch angles that break traditional portrait framing while maintaining environmental context.",
+    "use_cases": [
+      "Tech industry magazine profiles during the dot-com era",
+      "Corporate portraits for digital startups and software companies",
+      "Documentary photography of early internet culture and computer pioneers"
+    ]
+  },
+  "suggested_subjects": [
+    "Software developer surrounded by multiple CRT monitors in a cluttered home office",
+    "Tech startup founder in a server room filled with blinking equipment and cable management",
+    "Digital artist working at a computer workstation with graphics tablets and reference materials"
+  ],
+  "prompt_keywords": [
+    "day-glo oversaturation",
+    "CRT monitor glow",
+    "scan lines",
+    "dutch angle",
+    "neon accent lighting"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "wired_1990s",
+  "photography_id": "environmental_portraiture",
+  "id": "wired_1990s__environmental_portraiture",
+  "generated_at": "2025-11-13T10:03:18.151507",
+  "llm_model": "claude-sonnet-4-20250514"
+}

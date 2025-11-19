@@ -1,0 +1,42 @@
+{
+  "name": "Vanity Fair (1990s)",
+  "display_name": "Vanity Fair: Hollywood Glamour Era",
+  "era": {
+    "start": 1990,
+    "end": 1999,
+    "label": "Peak celebrity culture and glossy magazine dominance"
+  },
+  "visual_treatment": {
+    "color_palette": "Rich, saturated colors with emphasis on deep jewel tones, classic Hollywood reds, and sophisticated neutral backgrounds; heavy use of black, white, and metallics",
+    "lighting": "High-production studio lighting with dramatic shadows, soft key lights, and careful fill lighting to create dimensional, sculptural quality",
+    "contrast": "High contrast with deep blacks and bright highlights, creating punchy, magazine-ready images with strong tonal separation",
+    "texture": "Smooth, polished surfaces with fine grain structure; emphasis on silk, velvet, and luxury fabrics; sharp detail in skin and clothing"
+  },
+  "composition": {
+    "framing": "Tight to medium shots emphasizing subjects against clean backgrounds; frequent use of negative space for text placement",
+    "spatial_relationships": "Hierarchical arrangements with clear subject dominance; careful positioning for cover lines and typography integration",
+    "perspectives": "Slightly elevated camera angles to flatter subjects; three-quarter poses and direct eye contact common",
+    "layout_philosophy": "Clean, sophisticated compositions designed for maximum cover impact and editorial flow"
+  },
+  "technical": {
+    "film_or_technology": "Medium format film cameras, primarily Mamiya RZ67 and Hasselblad systems; Kodak Portra and Fuji transparency films",
+    "lens_character": "Sharp, high-quality lenses with excellent color rendition; moderate telephoto lengths (85-150mm equivalent) for flattering portraits",
+    "post_processing": "Traditional darkroom techniques with selective color correction; minimal retouching compared to later digital era; airbrush work for major corrections"
+  },
+  "cultural_context": {
+    "values": "Celebrity worship, luxury lifestyle aspiration, literary sophistication, and cultural commentary",
+    "subject_matter": "A-list actors, directors, musicians, politicians, and cultural figures; behind-the-scenes Hollywood access",
+    "target_audience": "Affluent, culturally sophisticated readers interested in celebrity culture and high-end lifestyle",
+    "era_signature": "Peak of celebrity magazine culture before internet disruption; ultimate insider access to Hollywood elite"
+  },
+  "temporal_markers": [
+    "Pre-digital retouching aesthetic with natural skin textures and subtle corrections",
+    "Film grain structure and color characteristics of 1990s emulsion technology",
+    "Fashion and styling reflecting 1990s luxury trends and power dressing",
+    "Studio photography dominance before location shooting became prevalent"
+  ],
+  "distinguishing_features": "Vanity Fair's 1990s aesthetic combined Annie Leibovitz's dramatic portrait style with Helmut Newton's sophisticated glamour, creating highly produced, cinematic images that elevated celebrity photography to fine art while maintaining commercial appeal and editorial sophistication",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:23:40.802568",
+  "llm_model": "claude-sonnet-4-20250514"
+}

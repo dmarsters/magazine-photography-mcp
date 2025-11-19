@@ -1,0 +1,43 @@
+{
+  "name": "Life (1940s)",
+  "display_name": "Life: Wartime Photojournalism",
+  "era": {
+    "start": 1940,
+    "end": 1949,
+    "label": "WWII and post-war documentation era"
+  },
+  "visual_treatment": {
+    "color_palette": "Rich black and white with deep blacks and bright whites; occasional color used sparingly for covers and special features",
+    "lighting": "Natural light preferred with dramatic chiaroscuro effects; harsh shadows and bright highlights creating emotional impact",
+    "contrast": "High contrast with full tonal range; dramatic blacks and whites with detailed mid-tones",
+    "texture": "Fine grain silver halide texture; sharp detail with occasional motion blur for action sequences"
+  },
+  "composition": {
+    "framing": "Dynamic, off-center compositions; close-ups for emotional impact mixed with wide establishing shots",
+    "spatial_relationships": "Layered depth with strong foreground-background relationships; subjects positioned to create visual tension",
+    "perspectives": "Ground-level and eye-level perspectives; dramatic low angles for heroic subjects; bird's eye views for crowd scenes",
+    "layout_philosophy": "Photo-driven storytelling with images bleeding across spreads; minimal text interference with visual narrative"
+  },
+  "technical": {
+    "film_or_technology": "35mm Leica cameras with fast film stocks; Speed Graphic 4x5 cameras for formal portraits and studio work",
+    "lens_character": "Sharp but not clinical; wide-angle for environmental context; moderate telephoto for portraiture with natural perspective",
+    "post_processing": "Darkroom dodging and burning for dramatic effect; minimal retouching preserving documentary authenticity"
+  },
+  "cultural_context": {
+    "values": "Democratic ideals, American optimism, human dignity in adversity, truth through photography",
+    "subject_matter": "War coverage, home front stories, celebrity portraits, American life documentation, international affairs",
+    "target_audience": "Middle-class American families seeking visual understanding of their changing world",
+    "era_signature": "Combination of hard news photojournalism with humanistic storytelling and occasional glamour"
+  },
+  "temporal_markers": [
+    "Military uniforms and equipment defining the visual landscape",
+    "Art deco typography mixed with clean sans-serif headlines",
+    "Cigarette smoking as casual social activity in portraits",
+    "1940s fashion silhouettes and hairstyles",
+    "Industrial wartime architecture and machinery"
+  ],
+  "distinguishing_features": "Pioneered the photo-essay format with cinematic sequencing; balanced hard news documentation with intimate human moments; established photojournalism as both art and information delivery system",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:23:38.637985",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Life magazine's 1960s approach to fashion photography emphasized natural beauty and accessible glamour over avant-garde styling. The combination creates sophisticated yet approachable fashion imagery with documentary authenticity."
+  },
+  "description": {
+    "name": "Documentary Fashion",
+    "tagline": "High fashion meets photojournalistic authenticity in Life magazine's distinctive 1960s style.",
+    "full_description": "This pairing captures the golden age when Life magazine elevated fashion photography beyond mere commercial imagery into cultural documentation. The approach emphasizes natural lighting and candid moments while maintaining the technical precision required for fashion work. Models appear as real people rather than mannequins, shot with the same Kodachrome richness and documentary intimacy that made Life famous for its coverage of American culture.\n\nThe aesthetic balances the fashion photographer's attention to garment detail and flattering angles with Life's signature human-centered storytelling. Rich saturated colors from Kodachrome film stock enhance fabric textures while maintaining skin tone accuracy. Compositions follow the decisive moment philosophy, capturing fashion in motion and context rather than static poses.\n\nThis style emerged during fashion's democratization in the 1960s, when Life documented how American style was becoming more casual and accessible. The result is fashion photography that feels lived-in and authentic while maintaining the visual sophistication expected from professional fashion imagery. Every shot tells a story about not just what people wore, but how they lived.",
+    "visual_expectations": "Kodachrome's distinctive color palette with slight magenta cast and rich saturation, natural lighting with dramatic shadows and bright highlights, models captured in candid moments with genuine expressions, environmental contexts that place fashion within real-world settings, fine grain structure from 35mm film creating texture without sacrificing sharpness",
+    "use_cases": [
+      "Heritage fashion brand campaigns emphasizing authenticity and craftsmanship",
+      "Editorial spreads documenting contemporary style movements",
+      "Lifestyle fashion photography for brands targeting sophisticated consumers"
+    ]
+  },
+  "suggested_subjects": [
+    "Models in everyday settings wearing high-end clothing",
+    "Fashion shoots in iconic 1960s locations like city streets or modernist interiors",
+    "Designer clothing captured with documentary-style authenticity"
+  ],
+  "prompt_keywords": [
+    "Kodachrome",
+    "documentary style",
+    "natural lighting",
+    "authentic moments",
+    "1960s fashion"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "life_1960s",
+  "photography_id": "fashion_photography",
+  "id": "life_1960s__fashion_photography",
+  "generated_at": "2025-11-13T10:03:37.622752",
+  "llm_model": "claude-sonnet-4-20250514"
+}

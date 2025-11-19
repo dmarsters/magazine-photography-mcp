@@ -1,0 +1,43 @@
+{
+  "name": "Vogue (1990s)",
+  "display_name": "Vogue: Supermodel Era",
+  "era": {
+    "start": 1990,
+    "end": 1999,
+    "label": "Peak supermodel and haute couture glamour period"
+  },
+  "visual_treatment": {
+    "color_palette": "Rich saturated colors with deep blacks and crisp whites; jewel tones, bold primaries, and luxurious metallics; high color contrast and purity",
+    "lighting": "Dramatic studio lighting with strong directional sources; hard shadows mixed with soft fill; golden hour warmth for outdoor shoots",
+    "contrast": "High contrast with deep shadows and bright highlights; punchy blacks and clean whites; bold tonal separation",
+    "texture": "Ultra-sharp medium format film grain; glossy, polished surfaces; rich fabric textures and skin detail; pristine technical quality"
+  },
+  "composition": {
+    "framing": "Tight cropping on faces and bodies; full-length fashion poses; dramatic close-ups emphasizing makeup and jewelry",
+    "spatial_relationships": "Subject dominance with minimal negative space; layered compositions with foreground/background separation",
+    "perspectives": "Straight-on power poses; low angles for authority; dynamic diagonal compositions; eye-level intimacy",
+    "layout_philosophy": "Maximum visual impact; fashion as sculpture; models as powerful protagonists"
+  },
+  "technical": {
+    "film_or_technology": "Medium format film (Hasselblad, Mamiya RZ67); Kodak Ektachrome and Fuji Velvia; some 35mm for dynamic shots",
+    "lens_character": "Sharp, clinical medium format lenses; 80-150mm portraits; wide apertures for subject isolation",
+    "post_processing": "Minimal retouching by today's standards; color correction and basic skin smoothing; emphasis on perfect lighting over post-production"
+  },
+  "cultural_context": {
+    "values": "Aspirational luxury; supermodel worship; high fashion accessibility; power femininity",
+    "subject_matter": "Supermodels, haute couture, luxury lifestyle, celebrity culture, beauty ideals",
+    "target_audience": "Fashion-conscious women seeking luxury and sophistication; industry professionals",
+    "era_signature": "Peak of print fashion photography; supermodel celebrity status; pre-digital perfection"
+  },
+  "temporal_markers": [
+    "Naomi Campbell, Linda Evangelista, Christy Turlington era supermodels",
+    "Film photography limitations creating distinctive look",
+    "Bold shoulder pads and power dressing aesthetic",
+    "Studio-heavy production values",
+    "Pre-Photoshop natural beauty standards"
+  ],
+  "distinguishing_features": "Combines studio perfection with human warmth; supermodels as personalities rather than clothes hangers; film's organic quality with high production values; represents the golden age of fashion photography before digital manipulation",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:23:57.289376",
+  "llm_model": "claude-sonnet-4-20250514"
+}

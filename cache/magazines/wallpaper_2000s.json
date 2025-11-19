@@ -1,0 +1,42 @@
+{
+  "name": "Wallpaper* (2000s)",
+  "display_name": "Wallpaper*: Modernist Cool",
+  "era": {
+    "start": 2000,
+    "end": 2009,
+    "label": "Early digital luxury modernism"
+  },
+  "visual_treatment": {
+    "color_palette": "Cool-toned minimalism with pops of saturated accent colors - electric blues, lime greens, hot pinks against white backgrounds and neutral grays",
+    "lighting": "Clean, even studio lighting with minimal shadows; crisp architectural lighting emphasizing form and geometry",
+    "contrast": "Medium contrast with emphasis on clarity; bright whites and deep saturated colors rather than extreme darks",
+    "texture": "Ultra-smooth, glossy surfaces; emphasis on material textures like brushed steel, lacquered wood, and high-gloss plastics"
+  },
+  "composition": {
+    "framing": "Generous white space, objects floating in negative space, architectural details isolated and cropped tightly",
+    "spatial_relationships": "Geometric precision with objects arranged in grid systems or perfect symmetry",
+    "perspectives": "Straight-on architectural views, aerial/plan views, dramatic low angles on furniture and objects",
+    "layout_philosophy": "Swiss-influenced modernist grid systems with mathematical precision and breathing room"
+  },
+  "technical": {
+    "film_or_technology": "Early high-end digital cameras and medium format film for maximum sharpness; Phase One and Hasselblad digital backs",
+    "lens_character": "Tack-sharp optics with minimal distortion; technical camera movements for architectural correction",
+    "post_processing": "Early digital color grading emphasizing saturation and contrast; meticulous retouching for perfect surfaces"
+  },
+  "cultural_context": {
+    "values": "Democratic design accessibility, global modernism, technology optimism, lifestyle curation",
+    "subject_matter": "Contemporary furniture, avant-garde architecture, design hotels, concept cars, tech gadgets as lifestyle objects",
+    "target_audience": "Design-conscious urban professionals, creative industries, luxury consumers seeking cultural capital",
+    "era_signature": "Post-millennium optimism meets dot-com aesthetic sensibility"
+  },
+  "temporal_markers": [
+    "Early digital photography's clinical perfection",
+    "iPod-era product photography influence",
+    "Pre-Instagram oversaturation and clarity",
+    "Millennium modernism revival aesthetics"
+  ],
+  "distinguishing_features": "Hyper-clean modernist aesthetic with pop sensibility; objects treated like precious artifacts in museum-quality photography; fusion of high design accessibility with luxury aspiration",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:23:05.444282",
+  "llm_model": "claude-sonnet-4-20250514"
+}

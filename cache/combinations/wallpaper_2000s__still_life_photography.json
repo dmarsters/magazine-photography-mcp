@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Still life photography aligns perfectly with Wallpaper*'s product-focused modernist aesthetic and controlled studio approach. The magazine's emphasis on design objects as cultural artifacts matches still life's deliberate compositional methodology."
+  },
+  "description": {
+    "name": "Modernist Artifacts",
+    "tagline": "Design objects transformed into museum-quality cultural statements through clinical precision and pop sensibility.",
+    "full_description": "This combination creates the definitive early 2000s design photography aesthetic - where contemporary furniture, tech gadgets, and architectural details are elevated to art object status through meticulous studio craft. Every surface gleams with digital perfection against expanses of white space, while saturated accent colors punctuate the minimalist compositions like exclamation marks of optimism.\n\nThe technical precision of still life photography merges seamlessly with Wallpaper*'s democratic luxury philosophy, treating a Philippe Starck chair or first-generation iPod with the same reverence as classical sculpture. Controlled lighting eliminates imperfections while revealing material textures - brushed aluminum, lacquered surfaces, high-gloss plastics - in obsessive detail.\n\nThis is photography as cultural curation, where objects become ambassadors of sophisticated living. The geometric precision and mathematical spacing reflect post-millennium confidence in technology and design's power to improve daily life. Each image functions as both product showcase and lifestyle aspiration, capturing the era's belief that good design could democratize luxury and beauty.",
+    "visual_expectations": "Pristine objects floating in white negative space with surgical lighting precision, surfaces so perfect they appear computer-generated, saturated pops of electric blue or lime green against neutral backgrounds, mathematical grid alignments, and material textures rendered in obsessive detail.",
+    "use_cases": [
+      "High-end product launches for design furniture and tech gadgets",
+      "Editorial features on contemporary architecture and interiors",
+      "Brand campaigns for luxury lifestyle products and design hotels"
+    ]
+  },
+  "suggested_subjects": [
+    "Contemporary designer furniture pieces against white infinity backgrounds",
+    "Sleek electronic devices and tech gadgets as sculptural objects",
+    "Architectural details and modern building elements in isolation"
+  ],
+  "prompt_keywords": [
+    "clinical_precision",
+    "museum_lighting",
+    "geometric_composition",
+    "material_perfection",
+    "modernist_curation"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "wallpaper_2000s",
+  "photography_id": "still_life_photography",
+  "id": "wallpaper_2000s__still_life_photography",
+  "generated_at": "2025-11-13T09:59:48.313453",
+  "llm_model": "claude-sonnet-4-20250514"
+}

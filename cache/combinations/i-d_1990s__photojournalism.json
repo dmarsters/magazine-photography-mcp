@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 7,
+    "overall_harmony": 8,
+    "reasoning": "Both styles emerged from 1990s street culture and share a commitment to authentic, unposed documentation. The combination creates compelling tension between photojournalism's truth-telling mission and i-D's deliberately raw, anti-establishment aesthetic."
+  },
+  "description": {
+    "name": "Street Truth",
+    "tagline": "Raw photojournalistic documentation meets 1990s underground culture rebellion in deliberately imperfect, authentically powerful imagery.",
+    "full_description": "This fusion transforms traditional photojournalistic storytelling through the lens of 1990s i-D magazine's street culture revolution. Documentary authenticity meets deliberate technical imperfection, creating images that feel both journalistically credible and culturally rebellious. The approach embraces harsh direct flash, high contrast grain, and unflattering angles while maintaining photojournalism's commitment to truthful narrative.\n\nSubjects are captured with the immediacy of breaking news but styled with the underground culture sensibility that defined club kids and street fashion pioneers. Every frame balances documentary responsibility with anti-establishment visual rebellion, using pushed film grain and blown-out highlights as storytelling tools rather than technical failures.\n\nThe aesthetic celebrates the decisive moment while rejecting polished perfection, creating images that feel simultaneously urgent and culturally significant. This is photojournalism for the underground - where truth-telling meets youth rebellion in deliberately raw, powerfully authentic visual stories.",
+    "visual_expectations": "Harsh direct flash creating dramatic shadows and blown highlights, heavy film grain from pushed 35mm stock, extreme high contrast between deep blacks and bright whites, tight crops on expressive faces with unconventional framing, neon accent colors cutting through stark documentary lighting",
+    "use_cases": [
+      "Underground music scene documentation",
+      "Youth subculture editorial features",
+      "Anti-establishment social issue coverage"
+    ]
+  },
+  "suggested_subjects": [
+    "Club kids and rave culture participants in natural environments",
+    "Street fashion pioneers and emerging musicians in urban settings",
+    "Youth activists and underground culture documentaries"
+  ],
+  "prompt_keywords": [
+    "harsh-flash",
+    "street-documentary",
+    "pushed-film-grain",
+    "high-contrast",
+    "underground-authentic"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "i-d_1990s",
+  "photography_id": "photojournalism",
+  "id": "i-d_1990s__photojournalism",
+  "generated_at": "2025-11-13T09:51:49.818127",
+  "llm_model": "claude-sonnet-4-20250514"
+}

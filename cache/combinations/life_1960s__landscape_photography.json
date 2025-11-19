@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 7,
+    "creative_tension": 4,
+    "overall_harmony": 8,
+    "reasoning": "Life's 1960s photojournalism technical excellence aligns perfectly with landscape photography's demands for sharp detail and tonal range. The aesthetic tension between Life's human-centered storytelling and landscape's pure nature focus creates interesting creative possibilities."
+  },
+  "description": {
+    "name": "American Wilderness",
+    "tagline": "Documenting America's natural heritage with the same reverence Life magazine brought to documenting its people.",
+    "full_description": "This style combines Life magazine's 1960s technical mastery and humanistic approach with the grand tradition of American landscape photography. The result captures wilderness areas with the same authoritative clarity and emotional resonance that Life brought to documenting the civil rights movement and space program. Rich Kodachrome colors render autumn foliage and sunset-lit canyons with distinctive warmth, while the magazine's commitment to truth-telling translates into honest, unmanipulated representations of natural beauty.\n\nThe aesthetic merges Life's accessible sophistication with landscape photography's technical precision. Sharp Leica and Nikon lenses capture every detail from foreground rocks to distant mountain peaks, while the magazine's signature high contrast and punchy blacks give dramatic weight to storm clouds and deep shadows. The human-scale perspective that defined Life's approach brings an intimate quality to vast landscapes, making them feel approachable rather than intimidatingly sublime.\n\nThis combination works particularly well for environmental storytelling that connects natural places to human experience. The style suggests landscapes as places where real people live, work, and find meaning, rather than untouched wilderness existing in isolation. It's landscape photography with the narrative clarity and emotional accessibility that made Life the visual voice of mid-century America.",
+    "visual_expectations": "Rich Kodachrome color saturation with slight magenta cast in skies and warm tones. Sharp detail throughout the frame with Life's characteristic high contrast and deep blacks. Fine grain structure from 35mm professional film stocks. Natural lighting pushed to dramatic limits during golden hour. Slightly vignetted corners from fast lenses used in available light.",
+    "use_cases": [
+      "Environmental magazine features connecting wilderness to human stories",
+      "National park documentation with narrative context",
+      "Travel photography that captures both natural beauty and cultural significance"
+    ]
+  },
+  "suggested_subjects": [
+    "National park visitors experiencing iconic American landscapes during golden hour",
+    "Working ranches and farms integrated into dramatic western mountain scenery",
+    "Coastal communities where human settlements meet dramatic seascapes"
+  ],
+  "prompt_keywords": [
+    "kodachrome",
+    "golden-hour",
+    "high-contrast",
+    "35mm-grain",
+    "natural-light"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "life_1960s",
+  "photography_id": "landscape_photography",
+  "id": "life_1960s__landscape_photography",
+  "generated_at": "2025-11-13T10:01:51.362402",
+  "llm_model": "claude-sonnet-4-20250514"
+}

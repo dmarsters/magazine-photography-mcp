@@ -1,0 +1,43 @@
+{
+  "name": "Interview (1970s)",
+  "display_name": "Interview: Warhol Factory Era",
+  "era": {
+    "start": 1969,
+    "end": 1979,
+    "label": "Factory underground meets celebrity culture"
+  },
+  "visual_treatment": {
+    "color_palette": "High-contrast black and white dominance with occasional shocking color pops; saturated primaries when color used; metallic silver accents reflecting Warhol's aesthetic",
+    "lighting": "Harsh direct flash creating dramatic shadows; stark studio lighting with hot spots; deliberate overexposure and underexposure for artistic effect",
+    "contrast": "Extremely high contrast with blown-out highlights and deep blacks; minimal midtones creating graphic poster-like quality",
+    "texture": "Heavy grain and experimental darkroom techniques; Polaroid immediacy; silk-screen printing artifacts; deliberately amateur snapshot quality mixed with professional fashion work"
+  },
+  "composition": {
+    "framing": "Tight close-ups emphasizing personality; off-center subjects; crops that feel accidental but are purposeful; multiple frame sequences",
+    "spatial_relationships": "Layered collage-like layouts; text overlapping images; asymmetrical arrangements challenging traditional magazine hierarchy",
+    "perspectives": "Candid angles; subjects looking directly at camera with confrontational intimacy; overhead shots; experimental viewpoints",
+    "layout_philosophy": "Anti-establishment design breaking traditional magazine rules; raw immediacy over polish; art direction as artistic statement"
+  },
+  "technical": {
+    "film_or_technology": "35mm black and white film stock; Polaroid instant photography; experimental double exposures; silk-screen printing processes",
+    "lens_character": "Wide-angle distortion; normal focal lengths for intimacy; minimal depth of field considerations",
+    "post_processing": "High-contrast printing; deliberate grain enhancement; minimal retouching preserving authentic flaws; experimental darkroom manipulation"
+  },
+  "cultural_context": {
+    "values": "Authenticity over perfection; underground culture legitimacy; celebrity as art subject; breaking social taboos",
+    "subject_matter": "Emerging artists, musicians, actors, writers; drag performers; underground club scene; cultural provocateurs and misfits",
+    "target_audience": "Cultural insiders; art world cognoscenti; young creative professionals seeking alternative to mainstream celebrity culture",
+    "era_signature": "Democratization of celebrity through accessible photography; art world aesthetic applied to magazine format"
+  },
+  "temporal_markers": [
+    "Polaroid aesthetic before it became nostalgic",
+    "Pre-digital grain and printing artifacts",
+    "Factory-era Warhol silk-screen influence",
+    "70s underground club lighting and flash photography",
+    "Experimental typography mixing fonts and sizes"
+  ],
+  "distinguishing_features": "Unique fusion of high art sensibility with underground journalism; deliberate amateurism as aesthetic choice; celebrity subjects treated as artistic collaborators rather than objects; breaking fourth wall between photographer and subject",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:24:14.415428",
+  "llm_model": "claude-sonnet-4-20250514"
+}

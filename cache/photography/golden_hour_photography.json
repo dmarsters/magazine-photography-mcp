@@ -1,0 +1,43 @@
+{
+  "name": "Golden Hour Photography",
+  "technical": {
+    "focal_length": "35-85mm for landscapes, 85-135mm for portraits, wide angles (14-35mm) for dramatic scenes",
+    "depth_of_field": "Variable - shallow for portraits (f/1.4-2.8), moderate to deep for landscapes (f/5.6-11)",
+    "shutter_speed": "1/60-1/500s typically, faster for moving subjects, slower with tripods for landscapes",
+    "lighting": "Natural sunlight 30-60 minutes after sunrise or before sunset, backlighting and rim lighting emphasized",
+    "camera_format": "Full frame preferred for dynamic range, APS-C and mirrorless common, film creates distinctive warmth"
+  },
+  "aesthetic": {
+    "composition": "Rule of thirds, leading lines toward sun, silhouettes, sun positioning at intersections or edges",
+    "subject_background": "Subjects often backlit or rim-lit against warm sky, silhouettes common, bokeh emphasized",
+    "tonal_range": "High contrast between shadows and highlights, lifted shadows in post, gradual tonal transitions",
+    "color_approach": "Warm color palette dominated by oranges, yellows, deep blues, enhanced saturation and vibrance",
+    "texture_detail": "Soft, diffused textures, rim lighting reveals edge detail, atmospheric haze reduces contrast"
+  },
+  "shooting_approach": {
+    "subject_distance": "Varies widely - close portraits to distant landscapes, often determined by desired sun size",
+    "angle_perspective": "Low angles common to include foreground, shooting toward or across light source",
+    "subject_relationship": "Both posed and candid, romantic and intimate mood, relaxed positioning",
+    "environment": "Outdoor locations exclusively, open fields, beaches, urban rooftops, anywhere with horizon access"
+  },
+  "context": {
+    "typical_uses": [
+      "Portrait photography",
+      "Wedding photography",
+      "Landscape photography",
+      "Fashion shoots",
+      "Travel photography",
+      "Social media content"
+    ],
+    "historical_context": "Popularized in film era, massively expanded with digital photography and social media (2010s onward)",
+    "key_characteristics": "Warm color temperature, dramatic lighting ratios, ethereal quality, consistent timing requirements",
+    "related_styles": "Blue hour photography, backlit photography, sunset photography, romantic portraiture"
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "Film era emphasized natural warmth, digital era allows extreme color grading, Instagram era popularized heavy orange/teal processing"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:27:17.381218",
+  "llm_model": "claude-sonnet-4-20250514"
+}

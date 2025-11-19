@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 7,
+    "creative_tension": 6,
+    "overall_harmony": 7,
+    "reasoning": "Still life's controlled precision pairs well with Wired's technical focus, though the magazine's aggressive Day-Glo palette creates striking contrast with traditional still life aesthetics. The combination transforms mundane objects into cyber-futuristic artifacts."
+  },
+  "description": {
+    "name": "Digital Artifacts",
+    "tagline": "Transforming everyday objects into cyber-age relics through extreme color and precise composition.",
+    "full_description": "This pairing reimagines still life photography through the lens of 1990s digital revolution fever dreams. Classic still life subjects—consumer electronics, computer components, diskettes, cables—are bathed in electric lime greens and hot pinks that push printing technology to its limits. The controlled studio lighting creates harsh shadows and blown-out highlights that make circuit boards look like alien landscapes and old monitors glow like portals to cyberspace.\n\nThe aesthetic treats technology objects as archaeological artifacts from the future, using traditional still life's careful composition to elevate humble tech gear into icons of the digital age. Scan lines and pixelated elements become design features rather than flaws, while the precise framing captures every surface texture of plastic, metal, and glass with forensic detail.\n\nThese images exist in the sweet spot between product photography and fine art, where a computer mouse becomes a sculptural object and tangled ethernet cables create geometric poetry. The Day-Glo color treatment transforms familiar tech objects into alien specimens, perfectly capturing the era's belief that digital technology was fundamentally reshaping reality itself.",
+    "visual_expectations": "Electric pink and lime green color casts on metallic surfaces, computer screens glowing with cyan light, sharp geometric shadows creating grid patterns, macro details revealing circuit board textures, pixelated scan lines integrated as compositional elements.",
+    "use_cases": [
+      "Tech company editorial features showcasing product evolution",
+      "Gallery exhibitions exploring digital culture artifacts",
+      "Magazine covers transforming gadgets into art objects"
+    ]
+  },
+  "suggested_subjects": [
+    "Vintage computer mice and keyboards arranged in geometric patterns",
+    "Circuit boards and computer chips with extreme macro detail",
+    "CRT monitors displaying code or digital artifacts"
+  ],
+  "prompt_keywords": [
+    "electric-lime-green",
+    "harsh-studio-lighting",
+    "scan-lines",
+    "macro-detail",
+    "Day-Glo-oversaturation"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "wired_1990s",
+  "photography_id": "still_life_photography",
+  "id": "wired_1990s__still_life_photography",
+  "generated_at": "2025-11-13T09:55:46.871621",
+  "llm_model": "claude-sonnet-4-20250514"
+}

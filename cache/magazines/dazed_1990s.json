@@ -1,0 +1,43 @@
+{
+  "name": "Dazed (1990s)",
+  "display_name": "Dazed: Underground Genesis",
+  "era": {
+    "start": 1991,
+    "end": 1999,
+    "label": "Foundational underground youth culture period"
+  },
+  "visual_treatment": {
+    "color_palette": "High-contrast black and white dominant, punctuated by vivid neons, acid yellows, electric blues, and deliberately garish color combinations when color is used",
+    "lighting": "Harsh fluorescent lighting, unflattering flash photography, deliberately amateur-looking natural light, stark studio lighting creating dramatic shadows",
+    "contrast": "Extremely high contrast with blown-out highlights and crushed blacks, intentionally pushing film to breaking point",
+    "texture": "Heavy grain structure, deliberately degraded photocopier aesthetics, rough newsprint quality, lo-fi intentional imperfection"
+  },
+  "composition": {
+    "framing": "Awkward, off-center compositions, extreme close-ups, chopped-off limbs, deliberately amateurish snapshot aesthetic",
+    "spatial_relationships": "Cramped, claustrophobic layouts, overlapping elements, DIY zine-style cut-and-paste arrangements",
+    "perspectives": "Unflattering low angles, invasive close-ups, documentary-style candids, anti-glamour positioning",
+    "layout_philosophy": "Chaos over order, rejection of traditional magazine hierarchy, punk fanzine sensibility"
+  },
+  "technical": {
+    "film_or_technology": "35mm film pushed to high ISO, cheap point-and-shoot cameras, photocopiers as artistic tools, basic darkroom techniques",
+    "lens_character": "Wide-angle distortion, cheap plastic lens flare, unflattering focal lengths, snapshot camera limitations embraced",
+    "post_processing": "Minimal retouching, darkroom experimentation, multiple exposures, chemical accidents preserved as aesthetic choices"
+  },
+  "cultural_context": {
+    "values": "Anti-establishment, youth rebellion, underground club culture, rejection of mainstream beauty standards",
+    "subject_matter": "Club kids, emerging musicians, alternative fashion, street style, rave culture, gender-fluid subjects",
+    "target_audience": "Underground youth, creative outsiders, early adopters of alternative culture",
+    "era_signature": "Raw authenticity over polish, celebrating the margins of society"
+  },
+  "temporal_markers": [
+    "Pre-digital grain and chemical processing artifacts",
+    "Early rave and club culture documentation",
+    "DIY punk aesthetic merged with high fashion",
+    "Photocopier degradation as intentional design element",
+    "Anti-supermodel, street-casting approach"
+  ],
+  "distinguishing_features": "Pioneering fusion of high fashion editorial ambition with underground zine aesthetic, celebrating imperfection and authenticity over technical perfection, creating new visual language for youth culture documentation",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:23:24.141455",
+  "llm_model": "claude-sonnet-4-20250514"
+}

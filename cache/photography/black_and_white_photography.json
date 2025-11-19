@@ -1,0 +1,44 @@
+{
+  "name": "Black and White Photography",
+  "technical": {
+    "focal_length": "Variable - 35mm-85mm for street/documentary, 50mm classic standard, 85mm-135mm for portraits, wide angle 24-35mm for landscapes",
+    "depth_of_field": "Variable - shallow f/1.4-f/2.8 for portraits/isolation, deep f/8-f/16 for landscapes/street scenes, driven by creative intent",
+    "shutter_speed": "1/60s-1/250s for handheld work, 1/500s+ for action, long exposures 1s+ for creative effects, varies by subject",
+    "lighting": "Emphasis on contrast and form - dramatic side lighting, Rembrandt lighting for portraits, golden hour, harsh shadows acceptable, window light preferred",
+    "camera_format": "35mm film historically dominant, medium format 6x6/6x7 for studio work, modern digital full-frame sensors"
+  },
+  "aesthetic": {
+    "composition": "Strong geometric elements, rule of thirds, leading lines emphasized, negative space crucial, symmetry and patterns highlighted",
+    "subject_background": "High contrast separation, background often simplified or darkened, subject isolation through tonal contrast rather than color",
+    "tonal_range": "Full range from pure black to pure white preferred, rich midtones, dramatic contrast often favored over flat lighting",
+    "color_approach": "Monochromatic grayscale only - red filter effects for dramatic skies, yellow for natural tones, blue for increased contrast",
+    "texture_detail": "Texture heavily emphasized - skin detail, fabric weave, architectural surfaces, grain structure often celebrated rather than minimized"
+  },
+  "shooting_approach": {
+    "subject_distance": "Variable by genre - intimate close-ups for portraits, medium distance for environmental context, wide establishing shots for landscapes",
+    "angle_perspective": "Eye-level classic, low angles for drama/power, high angles for context, Dutch angles rarely used except for creative effect",
+    "subject_relationship": "Both posed and candid traditions strong - formal studio portraits, street photography candids, documentary approach",
+    "environment": "All environments - controlled studio lighting, natural outdoor light, urban street contexts, available light interiors"
+  },
+  "context": {
+    "typical_uses": [
+      "Fine art photography",
+      "Portrait photography",
+      "Street and documentary photography",
+      "Landscape photography",
+      "Architectural photography",
+      "Fashion photography",
+      "Photojournalism"
+    ],
+    "historical_context": "Originated with photography's invention 1820s-1840s, dominated until 1960s color revolution, experienced revival in 1970s-80s fine art movement",
+    "key_characteristics": "Focus on form, texture, contrast, and composition without color distraction; emphasis on tonal relationships and light quality",
+    "related_styles": "Film noir cinematography, pictorialism, straight photography, documentary photography, street photography"
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "1920s-40s pictorialism soft focus, 1950s-60s high contrast modernism, 1970s+ fine art revival with varied approaches, digital era grain simulation"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:26:48.061686",
+  "llm_model": "claude-sonnet-4-20250514"
+}

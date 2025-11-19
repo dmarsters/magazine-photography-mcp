@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Both styles prioritize technical perfection and controlled studio environments with medium format quality. The 1990s Vogue aesthetic of pristine presentation and luxurious polish aligns perfectly with product photography's emphasis on flawless representation and accurate color reproduction."
+  },
+  "description": {
+    "name": "Supermodel Products",
+    "tagline": "Fashion products photographed with the glamorous perfection of 1990s Vogue supermodel shoots.",
+    "full_description": "This style transforms ordinary product photography into high-fashion editorial statements, treating each item with the same reverence that 1990s Vogue photographers brought to supermodel portraits. Products are lit with dramatic studio lighting featuring strong directional sources and rich saturated colors, creating the jewel-toned luxury aesthetic that defined the supermodel era. The technical precision of medium format film photography translates into ultra-sharp detail and pristine quality, while maintaining the organic warmth that distinguished pre-digital fashion photography.\n\nCompositions emphasize product dominance through tight framing and bold tonal separation, using the high contrast approach that made 1990s Vogue covers so striking. Deep blacks and crisp whites create punchy visual impact, while controlled studio environments ensure every surface gleams with the polished perfection associated with haute couture presentations. The aesthetic bridges commercial necessity with editorial glamour, presenting products not merely as items to purchase but as objects worthy of worship.\n\nThe result is product photography that channels the confidence and luxury of the supermodel era, where technical mastery meets aspirational beauty. Each shot carries the weight of 1990s fashion authority, transforming commercial photography into something approaching art through the lens of peak print fashion photography standards.",
+    "visual_expectations": "Dramatically lit products with rich jewel tones and luxurious metallics, ultra-sharp medium format film quality with visible but refined grain, high contrast lighting creating deep shadows and bright highlights, pristine polished surfaces that gleam under controlled studio lighting, bold centered compositions that treat products like fashion sculptures",
+    "use_cases": [
+      "Luxury fashion and beauty product campaigns",
+      "High-end jewelry and accessories marketing",
+      "Premium lifestyle brand e-commerce with editorial feel"
+    ]
+  },
+  "suggested_subjects": [
+    "Designer handbags and luxury accessories",
+    "High-end cosmetics and fragrance bottles",
+    "Fine jewelry and watches"
+  ],
+  "prompt_keywords": [
+    "dramatic studio lighting",
+    "rich saturated colors",
+    "medium format film quality",
+    "high contrast shadows",
+    "luxurious metallic finish"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "vogue_1990s",
+  "photography_id": "product_photography",
+  "id": "vogue_1990s__product_photography",
+  "generated_at": "2025-11-13T09:53:50.232984",
+  "llm_model": "claude-sonnet-4-20250514"
+}

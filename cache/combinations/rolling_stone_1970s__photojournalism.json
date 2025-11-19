@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 9,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Perfect synergy between Rolling Stone's 1970s documentary approach and photojournalism's authentic storytelling methods. Both prioritize available light, candid moments, and truthful representation over studio perfection."
+  },
+  "description": {
+    "name": "Backstage Truth",
+    "tagline": "Intimate access meets journalistic integrity in the golden age of rock documentation.",
+    "full_description": "This combination captures the raw authenticity that defined Rolling Stone's revolutionary approach to music journalism in the 1970s. Built on photojournalistic principles of truthful documentation, these images reveal the unguarded moments between performances—musicians in hotel rooms lit by amber table lamps, candid conversations in smoky venues, and the genuine emotions behind the rock star mythology. The aesthetic relies heavily on available light, whether it's the harsh fluorescents of backstage corridors or the warm glow filtering through venue windows.\n\nThe visual language emphasizes connection over glamour, using natural film grain and moderate contrast to create an intimate, almost conspiratorial feeling. Subjects are photographed at eye level or slightly below, creating psychological proximity rather than hero worship. The color palette draws from the warm, saturated tones of 1970s film stock—golden yellows, deep reds, and rich earth tones that enhanced the romantic mythology of the era while maintaining journalistic credibility.\n\nThis approach revolutionized music photography by treating musicians as complex cultural figures rather than untouchable icons. The combination of insider access with rigorous photojournalistic standards created a new visual vocabulary that influenced both music culture and documentary photography for decades to come.",
+    "visual_expectations": "Warm, film-grain texture with natural lighting scenarios, intimate medium shots revealing environmental context, authentic expressions captured in candid moments, rich color saturation emphasizing earth tones and golden highlights, balanced contrast maintaining detail in both shadows and highlights",
+    "use_cases": [
+      "Music industry documentary projects",
+      "Behind-the-scenes cultural documentation",
+      "Editorial features requiring authentic access"
+    ]
+  },
+  "suggested_subjects": [
+    "Musicians in recording studios during creative sessions",
+    "Backstage moments before major performances",
+    "Cultural figures in their natural environments"
+  ],
+  "prompt_keywords": [
+    "available-light",
+    "candid-moment",
+    "film-grain",
+    "warm-tones",
+    "documentary-style"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "rolling_stone_1970s",
+  "photography_id": "photojournalism",
+  "id": "rolling_stone_1970s__photojournalism",
+  "generated_at": "2025-11-13T09:33:38.683907",
+  "llm_model": "claude-sonnet-4-20250514"
+}

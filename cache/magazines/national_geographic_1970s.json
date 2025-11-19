@@ -1,0 +1,42 @@
+{
+  "name": "National Geographic (1970s)",
+  "display_name": "National Geographic: Documentary Golden Age",
+  "era": {
+    "start": 1970,
+    "end": 1979,
+    "label": "Documentary photography's golden age with Kodachrome mastery"
+  },
+  "visual_treatment": {
+    "color_palette": "Kodachrome's signature saturated palette - deep cobalt skies, rich forest greens, warm amber sunlight, vibrant cultural textiles with slightly shifted color temperature toward warm",
+    "lighting": "Natural light mastery with golden hour preference, dramatic side-lighting, careful use of fill flash for portraits, deep shadows preserved for mood",
+    "contrast": "Medium-high contrast with rich blacks and bright highlights, avoiding blown-out areas, maintaining detail in shadow regions",
+    "texture": "Ultra-fine grain structure from Kodachrome 25/64, tack-sharp details, slight film softness in highlights, rich emulsion depth"
+  },
+  "composition": {
+    "framing": "Classic documentary framing with subjects given breathing room, environmental context prioritized, rule of thirds applied but not rigid",
+    "spatial_relationships": "Layered depth with distinct foreground/middle/background elements, leading lines from natural formations or cultural elements",
+    "perspectives": "Eye-level human connection shots, elevated geographical overviews, intimate close-ups balanced with wide establishing shots",
+    "layout_philosophy": "Storytelling through visual sequence, each frame contributing to narrative, patient observation over decisive moment"
+  },
+  "technical": {
+    "film_or_technology": "Kodachrome 25 and 64 slide film, Nikon F and F2 systems, Leica rangefinders for discrete work",
+    "lens_character": "Sharp but not clinical rendering from Nikkor and Leica glass, subtle vignetting, natural bokeh, wide-angle preference for environmental context",
+    "post_processing": "Minimal intervention - careful slide selection and duplication, color correction for printing reproduction, maintaining film's natural color rendition"
+  },
+  "cultural_context": {
+    "values": "Educational exploration, cultural respect and documentation, environmental awareness emerging, scientific accuracy with artistic vision",
+    "subject_matter": "Remote cultures before globalization, pristine wilderness areas, wildlife behavior, archaeological discoveries, geographical phenomena",
+    "target_audience": "Educated middle-class American families, armchair travelers, nature enthusiasts, cultural explorers",
+    "era_signature": "Last era of 'undiscovered' places, pre-digital authenticity, patient long-term documentary projects"
+  },
+  "temporal_markers": [
+    "Kodachrome's distinctive color science with slight magenta cast in shadows",
+    "Fashion and technology visible in cultural documentation reflects 1970s era",
+    "Film grain structure and dynamic range limitations create specific aesthetic",
+    "Long-term assignment photography allowing for seasonal and behavioral documentation"
+  ],
+  "distinguishing_features": "Kodachrome's unmatched color saturation and archival stability combined with world-class documentary photography skills, creating images that feel both scientifically accurate and emotionally compelling, with a distinctive warm/saturated color signature that became synonymous with exploration and discovery",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:24:17.630012",
+  "llm_model": "claude-sonnet-4-20250514"
+}

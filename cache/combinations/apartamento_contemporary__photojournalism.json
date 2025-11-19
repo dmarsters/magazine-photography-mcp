@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "creative_anachronism",
+    "technical_score": 6,
+    "aesthetic_score": 4,
+    "creative_tension": 8,
+    "overall_harmony": 5,
+    "reasoning": "This pairing creates fascinating tension between Apartamento's curated intimacy and photojournalism's documentary authenticity. The technical approaches align moderately, but aesthetic philosophies clash productively between styled spontaneity and genuine candid moments."
+  },
+  "description": {
+    "name": "Documentary Living",
+    "tagline": "Intimate home stories captured with unflinching journalistic authenticity.",
+    "full_description": "Documentary Living merges the sophisticated domestic eye of contemporary lifestyle publishing with the uncompromising truthfulness of photojournalism. This approach abandons the careful curation typical of home photography, instead capturing genuine moments of daily life with the same intensity and honesty used to document world events. The result strips away aspirational styling to reveal authentic human stories within domestic spaces.\n\nThe aesthetic maintains photojournalism's commitment to available light and minimal intervention, but applies this documentary rigor to the intimate realm of personal spaces. Natural lighting floods through windows not for beauty's sake, but to illuminate genuine moments of inhabitants cooking, working, arguing, or simply existing in their environments. The muted, naturally saturated palette emerges organically from real life rather than design choices.\n\nSubjects are captured in unguarded moments—reading at kitchen tables littered with yesterday's dishes, children playing amid scattered toys, or couples in natural conversation. The photographer becomes an invisible witness to authentic domestic life, creating images that feel more like glimpses into private worlds than designed lifestyle content. This approach challenges viewers to find beauty in unfiltered reality.",
+    "visual_expectations": "Abundant natural light revealing unposed inhabitants in genuine daily activities, lived-in spaces with authentic disorder and personal belongings, environmental context showing full rooms rather than styled vignettes, natural color palette emerging from real lighting conditions, sharp documentary focus on authentic human expressions and gestures",
+    "use_cases": [
+      "Authentic family lifestyle documentation",
+      "Real estate storytelling showing lived experiences",
+      "Social housing and urban living studies"
+    ]
+  },
+  "suggested_subjects": [
+    "Multi-generational families in their authentic daily routines",
+    "Artists and makers working in their cluttered, functional studios",
+    "Urban families navigating small space living with genuine adaptations"
+  ],
+  "prompt_keywords": [
+    "candid domestic moments",
+    "available light",
+    "authentic inhabited spaces",
+    "documentary realism",
+    "unposed lifestyle"
+  ],
+  "temporal_notes": "This anachronistic pairing challenges contemporary lifestyle photography's tendency toward aspiration by applying news photography's commitment to truth-telling to domestic spaces, creating a counter-narrative to social media's curated home imagery.",
+  "magazine_id": "apartamento_contemporary",
+  "photography_id": "photojournalism",
+  "id": "apartamento_contemporary__photojournalism",
+  "generated_at": "2025-11-13T09:29:18.230855",
+  "llm_model": "claude-sonnet-4-20250514"
+}

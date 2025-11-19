@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 2,
+    "overall_harmony": 8,
+    "reasoning": "Both styles share contemporary origins and emphasis on authentic architectural documentation. Apartamento's intimate approach perfectly complements architectural photography's technical precision, creating lived-in spaces that feel both professionally captured and personally inhabited."
+  },
+  "description": {
+    "name": "Intimate Architecture",
+    "tagline": "Professional architectural documentation meets the warm, authentic perspective of contemporary lifestyle publishing.",
+    "full_description": "This pairing transforms traditional architectural photography through Apartamento's humanistic lens, creating images that showcase buildings and spaces as they're actually lived in rather than sterile design objects. The technical precision of architectural photography - with its corrected perspectives, careful lighting, and material detail - combines with Apartamento's warm color palette and casual framing to produce documentation that feels both professionally comprehensive and personally inviting. The result captures the full story of architectural spaces: their geometric beauty and material richness alongside the human traces that make them homes.\n\nRather than the stark, unpopulated interiors typical of traditional architectural photography, this approach includes the gentle chaos of daily life - books left open, morning light streaming across unmade beds, kitchen counters with evidence of recent meals. The technical excellence remains, with sharp detail revealing wood grain and fabric textures, but processed with Apartamento's signature warmth that makes spaces feel lived-in rather than staged.\n\nThis style particularly excels at capturing the intersection of good design and real life, showing how thoughtful architecture supports and enhances human experience rather than existing as pure aesthetic statement.",
+    "visual_expectations": "Natural light flooding through large windows creating soft shadows on textured surfaces, warm color grading emphasizing sage greens and dusty pinks against natural materials, sharp architectural details like exposed beams or tile patterns, casual objects placed naturally within carefully composed geometric frames, and intimate viewing angles that feel like walking through someone's thoughtfully designed home.",
+    "use_cases": [
+      "Residential architecture portfolios that emphasize livability",
+      "Interior design documentation showing spaces in daily use",
+      "Real estate marketing for design-conscious buyers seeking authentic lifestyle imagery"
+    ]
+  },
+  "suggested_subjects": [
+    "Mid-century modern home with original furniture and personal collections",
+    "Contemporary apartment with floor-to-ceiling windows and curated vintage pieces",
+    "Converted industrial loft showing exposed brick and steel with warm textile layers"
+  ],
+  "prompt_keywords": [
+    "natural lighting",
+    "architectural details",
+    "lived-in spaces",
+    "warm color grading",
+    "geometric composition"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "apartamento_contemporary",
+  "photography_id": "architectural_photography",
+  "id": "apartamento_contemporary__architectural_photography",
+  "generated_at": "2025-11-13T09:27:50.799886",
+  "llm_model": "claude-sonnet-4-20250514"
+}

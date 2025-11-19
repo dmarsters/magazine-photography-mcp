@@ -1,0 +1,9 @@
+[project]
+name = "magazine-photography-mcp"
+version = "0.2.0"
+description = "Magazine × photography style combinations with categorical olog architecture"
+dependencies = []
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

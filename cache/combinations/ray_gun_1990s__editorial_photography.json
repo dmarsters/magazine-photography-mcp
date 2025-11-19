@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Both styles emerged from 1990s alternative culture, sharing rebellious aesthetics and anti-establishment values. Editorial photography's authentic storytelling perfectly complements Ray Gun's chaotic design philosophy."
+  },
+  "description": {
+    "name": "Grunge Editorial",
+    "tagline": "Raw editorial photography crushed through Ray Gun's photocopier chaos aesthetic.",
+    "full_description": "This combination merges authentic editorial storytelling with Ray Gun's revolutionary 1990s design chaos, creating images that feel like they've been pulled from the pages of David Carson's most experimental layouts. The photography maintains editorial integrity while embracing intentional distortion, heavy grain, and analog artifacts that defined the grunge era's visual rebellion.\n\nPhotographs are treated with extreme contrast ratios, photocopier-style distortions, and layered transparencies that transform straightforward editorial shots into deconstructed visual statements. Natural editorial lighting becomes harsh and blown-out, while authentic moments are preserved beneath layers of analog manipulation and intentional degradation.\n\nThe result captures the raw energy of 1990s alternative culture, where clear communication took a backseat to emotional impact and artistic expression. These images speak to an era when magazines were willing to sacrifice readability for pure visual rebellion, creating a aesthetic that's both documentarian and completely abstract.",
+    "visual_expectations": "Extreme black and white contrast with crushed shadows and blown highlights, heavy photocopier-style grain and analog distortion artifacts, tilted compositions with fragmented viewpoints, layered transparency effects creating visual noise, authentic editorial moments buried beneath intentional visual chaos",
+    "use_cases": [
+      "Alternative music magazine features",
+      "Underground culture documentation",
+      "Anti-corporate brand storytelling"
+    ]
+  },
+  "suggested_subjects": [
+    "Alternative musicians in recording studios",
+    "Underground venue performers",
+    "Street culture activists"
+  ],
+  "prompt_keywords": [
+    "photocopier distortion",
+    "blown highlights",
+    "analog grain",
+    "fragmented composition",
+    "harsh contrast"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "ray_gun_1990s",
+  "photography_id": "editorial_photography",
+  "id": "ray_gun_1990s__editorial_photography",
+  "generated_at": "2025-11-13T09:29:17.746332",
+  "llm_model": "claude-sonnet-4-20250514"
+}

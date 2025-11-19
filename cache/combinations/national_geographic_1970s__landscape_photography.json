@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Perfect alignment between Kodachrome's peak years and landscape photography's golden age. Both prioritized natural color accuracy, maximum detail retention, and patient documentary approach to wilderness subjects."
+  },
+  "description": {
+    "name": "Kodachrome Wilderness",
+    "tagline": "Pristine landscapes captured with the legendary color saturation and archival permanence of Kodachrome film.",
+    "full_description": "This combination represents the absolute pinnacle of analog landscape photography, when National Geographic photographers armed with Kodachrome 25 and 64 ventured into the world's most remote wilderness areas. The result is landscapes that glow with Kodachrome's signature warmth - deep cobalt skies that seem to pulse with intensity, forest greens so rich they appear three-dimensional, and golden hour light that transforms ordinary scenes into something transcendent. Every frame captures not just a place, but a moment in time when these locations remained largely untouched by modern development.\n\nThe technical marriage is flawless: Kodachrome's ultra-fine grain structure perfectly complements landscape photography's demand for maximum detail from foreground to infinity. The film's legendary sharpness renders every texture with crystalline clarity, while its slightly warm color temperature enhances the natural earth tones that define great landscape work. The medium-high contrast preserves rich shadows while maintaining highlight detail, creating images with the full tonal range that landscape photographers prize.\n\nThese aren't just photographs - they're time capsules of an era when patience and technical mastery were the only paths to success. Each image represents hours of waiting for perfect light, careful consideration of hyperfocal distance, and the irreversible commitment of exposing precious Kodachrome frames. The result captures both the majesty of untamed wilderness and the distinctive aesthetic signature that made National Geographic synonymous with exploration and discovery.",
+    "visual_expectations": "Landscapes glowing with Kodachrome's saturated palette and slight magenta shadow cast, ultra-sharp detail from immediate foreground to distant peaks, golden hour lighting that transforms ordinary scenes into jewel-toned masterpieces, pristine wilderness areas before modern development, classic documentary composition with environmental context prioritized over dramatic angles.",
+    "use_cases": [
+      "Fine art landscape prints celebrating the golden age of film photography",
+      "Environmental conservation campaigns showcasing pristine wilderness areas",
+      "Travel documentation emphasizing natural color beauty and remote locations"
+    ]
+  },
+  "suggested_subjects": [
+    "Remote mountain ranges with layered atmospheric perspective",
+    "Untouched forest environments with dappled golden light filtering through canopy",
+    "Pristine alpine lakes reflecting dramatic sky formations"
+  ],
+  "prompt_keywords": [
+    "kodachrome",
+    "golden-hour",
+    "pristine-wilderness",
+    "ultra-sharp",
+    "saturated-colors"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "national_geographic_1970s",
+  "photography_id": "landscape_photography",
+  "id": "national_geographic_1970s__landscape_photography",
+  "generated_at": "2025-11-13T09:39:33.258331",
+  "llm_model": "claude-sonnet-4-20250514"
+}

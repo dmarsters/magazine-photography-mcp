@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Perfect synergy between Wallpaper*'s modernist precision and architectural photography's technical discipline. Both emphasize geometric clarity, material textures, and clinical perfection through high-end digital capture."
+  },
+  "description": {
+    "name": "Modernist Monument",
+    "tagline": "Architecture transformed into design artifacts through museum-quality precision and minimalist perfection.",
+    "full_description": "This aesthetic merges Wallpaper*'s signature cool modernism with architectural photography's technical mastery, creating images that treat buildings as precious design objects floating in pristine white space. Every surface becomes hyper-glossy, every line geometrically perfect, captured with the clinical precision of early high-end digital cameras and tilt-shift lenses. The result eliminates architectural context in favor of pure form, transforming concrete and steel into lifestyle accessories.\n\nLighting becomes sculptural, emphasizing material textures like brushed aluminum and lacquered surfaces while maintaining the even, shadow-free illumination that made Wallpaper* famous. Blue hour exteriors glow with electric blues and lime greens, while interiors float in generous negative space with mathematical grid precision. Buildings lose their urban context and gain design museum status.\n\nThis approach revolutionized how contemporary architecture was presented in the 2000s, turning every facade into a potential iPod advertisement and every interior into a curated lifestyle statement. The aesthetic celebrates post-millennium optimism where technology and design promised to perfect human environments through pure geometric harmony.",
+    "visual_expectations": "Tack-sharp architectural details with zero perspective distortion floating against pure white backgrounds, electric accent colors highlighting specific building elements, hyper-glossy surface textures on materials like steel and glass, mathematical symmetry in both building composition and photographic framing, crisp edge definition with no atmospheric haze or shadows.",
+    "use_cases": [
+      "Design magazine portfolio spreads showcasing contemporary residential projects",
+      "Luxury real estate marketing emphasizing architectural pedigree over location",
+      "Museum exhibition catalogs documenting modernist revival architecture"
+    ]
+  },
+  "suggested_subjects": [
+    "Tadao Ando concrete residential volumes with geometric window cutouts",
+    "Glass-walled minimalist house with floating steel staircases",
+    "Contemporary art museum with white geometric facades and colorful accent details"
+  ],
+  "prompt_keywords": [
+    "tilt-shift",
+    "geometric-precision",
+    "cool-minimalism",
+    "material-textures",
+    "negative-space"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "wallpaper_2000s",
+  "photography_id": "architectural_photography",
+  "id": "wallpaper_2000s__architectural_photography",
+  "generated_at": "2025-11-13T09:31:22.265144",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 7,
+    "overall_harmony": 8,
+    "reasoning": "Both prioritize authenticity and unvarnished reality, but i-D's deliberately chaotic aesthetic creates fascinating tension with documentary's composed storytelling. The combination produces raw cultural documentation with rebellious edge."
+  },
+  "description": {
+    "name": "Street Rebellion",
+    "tagline": "Unfiltered youth culture documentation with deliberate imperfection and underground authenticity.",
+    "full_description": "This combination merges documentary photography's truth-telling mission with i-D's 1990s street culture rebellion, creating raw, immediate documentation of underground scenes and youth subcultures. The aesthetic embraces technical imperfection as a badge of authenticity - harsh flash photography, heavy grain, and blown-out highlights become tools for capturing the unvarnished energy of club culture, street fashion, and emerging creative movements.\n\nThe visual approach rejects polished magazine photography in favor of disposable camera aesthetics and pushed film grain, while maintaining documentary's commitment to capturing genuine moments and cultural significance. Subjects are photographed in their natural environments - backstage at underground venues, on street corners, in cramped record shops - with the urgent immediacy of both photojournalism and fanzine culture.\n\nThe result is cultural documentation that feels simultaneously professional and amateur, capturing the authentic spirit of 1990s youth rebellion while serving as historical record. This style pioneered the aesthetic of imperfection that would later influence social media photography, celebrating the unretouched reality of emerging subcultures with both artistic vision and documentary integrity.",
+    "visual_expectations": "Heavy film grain and high contrast with blown-out flash highlights, neon-saturated colors mixed with stark black and white, tight crops on expressive faces with unconventional framing angles, cluttered urban backgrounds that provide cultural context, xerox-quality texture with deliberately lo-fi reproduction aesthetic.",
+    "use_cases": [
+      "Underground music scene documentation",
+      "Street fashion and subculture photography",
+      "Youth culture archival projects"
+    ]
+  },
+  "suggested_subjects": [
+    "Club kids and rave culture participants",
+    "Emerging musicians and artists in underground venues",
+    "Street fashion pioneers and style innovators"
+  ],
+  "prompt_keywords": [
+    "harsh_flash",
+    "heavy_grain",
+    "street_culture",
+    "underground_scene",
+    "blown_highlights"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "i-d_1990s",
+  "photography_id": "documentary_photography",
+  "id": "i-d_1990s__documentary_photography",
+  "generated_at": "2025-11-13T09:53:55.193977",
+  "llm_model": "claude-sonnet-4-20250514"
+}

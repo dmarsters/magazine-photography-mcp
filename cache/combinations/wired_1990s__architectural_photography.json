@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "creative_anachronism",
+    "technical_score": 7,
+    "aesthetic_score": 4,
+    "creative_tension": 9,
+    "overall_harmony": 6,
+    "reasoning": "90s Wired's extreme Day-Glo aesthetic and digital chaos philosophy directly conflicts with architectural photography's clean, precise documentation approach. However, this creates fascinating opportunities to reimagine buildings as cyberpunk digital landscapes."
+  },
+  "description": {
+    "name": "Cyber Architecture",
+    "tagline": "Buildings transformed into electric digital monuments through 90s techno-optimist vision.",
+    "full_description": "This radical fusion takes the pristine world of architectural photography and explodes it through Wired magazine's legendary Day-Glo filter of the 1990s. Buildings become electric monuments to the digital revolution, their clean lines fractured by harsh neon lighting and oversaturated CMYK color treatments that push printing technology to its limits. The traditional architectural photographer's quest for perfect perspective correction meets the cyberpunk aesthetic of Dutch angles and fish-eye distortion.\n\nStructures are documented not as static monuments but as living interfaces between the physical and digital worlds. Glass facades reflect electric blue and hot pink lighting schemes, while concrete surfaces are treated with the same intensity as circuit boards. The blue hour becomes an electric hour, with building lights creating scan-line effects and digital artifacts that celebrate rather than correct technical imperfections.\n\nThis approach transforms mundane office buildings into cyberpunk cathedrals and residential complexes into nodes in a digital network. Every surface becomes a potential screen, every angle an opportunity to suggest the building's integration into the emerging digital landscape that 90s Wired so fervently evangelized.",
+    "visual_expectations": "Buildings lit with electric Day-Glo colors against stark contrasts, geometric architecture fragmented by Dutch angles and extreme wide-angle distortion, glass surfaces creating scan-line reflections, digital artifacts and pixelation effects overlaid on structural elements, harsh studio lighting creating dramatic shadows on building facades.",
+    "use_cases": [
+      "Cyberpunk film and game concept art showcasing futuristic urban environments",
+      "Alternative architecture portfolio presentation emphasizing buildings as digital interfaces",
+      "Speculative design documentation imagining cities as interconnected digital networks"
+    ]
+  },
+  "suggested_subjects": [
+    "Glass office towers with LED facade lighting systems",
+    "Modernist concrete structures with geometric patterns",
+    "Tech company headquarters and data centers"
+  ],
+  "prompt_keywords": [
+    "electric-neon-lighting",
+    "dutch-angle-architecture",
+    "day-glo-building-facades",
+    "digital-artifact-overlays",
+    "cyberpunk-urban-geometry"
+  ],
+  "temporal_notes": "This pairing creates a fascinating anachronism where 1990s digital optimism reimagines architectural documentation, treating buildings as interfaces in the emerging digital world rather than static monuments, resulting in a cyberpunk aesthetic that celebrates technological integration.",
+  "magazine_id": "wired_1990s",
+  "photography_id": "architectural_photography",
+  "id": "wired_1990s__architectural_photography",
+  "generated_at": "2025-11-13T09:57:36.876935",
+  "llm_model": "claude-sonnet-4-20250514"
+}

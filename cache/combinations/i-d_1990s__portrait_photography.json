@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 7,
+    "aesthetic_score": 6,
+    "creative_tension": 8,
+    "overall_harmony": 7,
+    "reasoning": "The anti-establishment rawness of 1990s i-D clashes with traditional portrait photography's polished approach, but creates compelling tension. This combination transforms conventional portraiture through deliberate technical imperfection and rebellious energy."
+  },
+  "description": {
+    "name": "Rebel Portraits",
+    "tagline": "Underground portraiture that celebrates imperfection and captures authentic youth rebellion.",
+    "full_description": "This style merges the raw documentary energy of 1990s i-D magazine with portrait photography, creating an anti-establishment approach to capturing personality. Instead of polished headshots, subjects are photographed with harsh direct flash, creating stark shadows and blown-out highlights that feel authentically gritty. The portraits maintain focus on the individual while embracing technical imperfection as an aesthetic choice.\n\nShot on pushed 35mm film or with disposable cameras, these portraits feature heavy grain, color shifts, and the unflattering illumination of street photography. Subjects are framed with unconventional crops - extreme close-ups on faces, off-center positioning, and deliberate amateur angles that reject traditional portrait composition rules. The lighting is harsh and direct, creating dramatic contrasts that emphasize character over beauty.\n\nThe aesthetic celebrates club kids, emerging artists, and underground culture figures as worthy portrait subjects. High saturation colors mix with stark black and white contrasts, while neon accents and fluorescent lighting create an urban nightlife atmosphere. These aren't corporate headshots but cultural documentation of youth rebellion, capturing subjects in their authentic environment rather than sterile studios.",
+    "visual_expectations": "Harsh direct flash creating dramatic shadows and blown-out highlights, heavy film grain and color shifts from pushed processing, extreme close-up crops focusing on faces with unconventional angles, high saturation neon colors contrasting with stark black and white elements, deliberately amateur framing that rejects traditional portrait rules",
+    "use_cases": [
+      "Underground music artist press photos",
+      "Alternative fashion brand campaigns",
+      "Youth culture magazine editorial portraits"
+    ]
+  },
+  "suggested_subjects": [
+    "Club scene DJ in colored lighting",
+    "Street style fashion rebel with bold makeup",
+    "Underground musician with alternative aesthetic"
+  ],
+  "prompt_keywords": [
+    "harsh flash",
+    "pushed film grain",
+    "neon lighting",
+    "extreme close-up",
+    "underground culture"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "i-d_1990s",
+  "photography_id": "portrait_photography",
+  "id": "i-d_1990s__portrait_photography",
+  "generated_at": "2025-11-13T09:55:16.030128",
+  "llm_model": "claude-sonnet-4-20250514"
+}

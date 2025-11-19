@@ -1,0 +1,47 @@
+{
+  "name": "Studio Photography",
+  "technical": {
+    "focal_length": "85-135mm for portraits, 24-70mm for products, 50-85mm for fashion",
+    "depth_of_field": "Variable - shallow f/1.4-f/2.8 for portraits, deep f/8-f/16 for products",
+    "shutter_speed": "1/125s to 1/250s typical for flash sync, slower for continuous lighting",
+    "lighting": "Controlled artificial lighting - strobes, softboxes, umbrellas, beauty dishes, key/fill/rim lighting setups",
+    "camera_format": "Full frame DSLR/mirrorless, medium format for high-end fashion/commercial"
+  },
+  "aesthetic": {
+    "composition": "Clean, deliberate framing, rule of thirds, centered compositions for products, negative space utilization",
+    "subject_background": "Controlled backgrounds - seamless paper, muslin, painted canvas, or carefully lit textured surfaces",
+    "tonal_range": "Full tonal control from pure blacks to clean whites, even lighting reduces harsh shadows",
+    "color_approach": "Accurate color reproduction, controlled color temperature, often neutral or deliberately styled palettes",
+    "texture_detail": "Sharp, well-defined textures with controlled highlights and shadows revealing form and material"
+  },
+  "shooting_approach": {
+    "subject_distance": "3-8 feet for portraits, 1-3 feet for products, varies by focal length and desired perspective",
+    "angle_perspective": "Eye level most common, slight variations for flattering angles, overhead for flat lays",
+    "subject_relationship": "Predominantly posed and directed, formal control over expression and positioning",
+    "environment": "Enclosed studio space with controlled ambient light, artificial lighting as primary source"
+  },
+  "context": {
+    "typical_uses": [
+      "Portrait photography",
+      "Commercial product photography",
+      "Fashion photography",
+      "Headshots",
+      "Beauty photography"
+    ],
+    "historical_context": "Evolved from 19th century painted backdrop studios, modernized with electronic flash in 1930s-1940s",
+    "key_characteristics": "Complete environmental control, consistent lighting, elimination of unwanted elements, professional polish",
+    "related_styles": [
+      "Fashion photography",
+      "Commercial photography",
+      "Beauty photography",
+      "Corporate portraiture"
+    ]
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "1950s-60s featured dramatic lighting and poses, 1980s emphasized high-key glamour, 2000s brought cleaner minimalist approaches, digital era enabled more complex lighting and post-processing"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:25:57.987238",
+  "llm_model": "claude-sonnet-4-20250514"
+}

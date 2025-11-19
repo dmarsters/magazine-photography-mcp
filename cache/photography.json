@@ -1,0 +1,899 @@
+[
+  {
+    "name": "Still Life Photography",
+    "technical": {
+      "focal_length": "85-135mm for classic distortion-free rendering, 50mm for environmental context, macro lenses for extreme detail work",
+      "depth_of_field": "Variable - shallow DOF for selective focus and bokeh, deep DOF for sharp detail throughout composition",
+      "shutter_speed": "1/60s to several seconds, often slower speeds due to controlled lighting and tripod use",
+      "lighting": "Controlled studio lighting - softboxes, diffusers, reflectors, window light, multiple light sources for shadow control",
+      "camera_format": "Medium format preferred for maximum detail and tonal gradation, full-frame digital, large format for commercial work"
+    },
+    "aesthetic": {
+      "composition": "Rule of thirds, triangular arrangements, leading lines, careful negative space management, geometric balance",
+      "subject_background": "Clean, uncluttered backgrounds that complement subject, often neutral tones or textured surfaces",
+      "tonal_range": "Full tonal range preferred, subtle gradations, controlled contrast, rich shadows and highlights",
+      "color_approach": "Harmonious color relationships, monochromatic schemes, complementary palettes, often muted or saturated depending on intent",
+      "texture_detail": "High emphasis on surface textures, material qualities, sharp detail rendering, tactile visual qualities"
+    },
+    "shooting_approach": {
+      "subject_distance": "Close to medium distances allowing detailed subject rendering while maintaining compositional context",
+      "angle_perspective": "Eye-level to slight overhead angles, occasionally dramatic low angles for impact, precise viewpoint selection",
+      "subject_relationship": "Highly controlled and deliberate arrangements, formal composition, intentional object relationships",
+      "environment": "Primarily controlled studio environments, occasionally natural window light setups, minimal environmental distractions"
+    },
+    "context": {
+      "typical_uses": [
+        "Commercial product photography",
+        "Fine art gallery work",
+        "Editorial illustration",
+        "Advertising campaigns",
+        "Artistic personal expression"
+      ],
+      "historical_context": "Emerged with early photography in 1840s, influenced by Dutch Golden Age paintings, evolved through pictorialism to modernist approaches",
+      "key_characteristics": "Inanimate subjects, controlled lighting, deliberate composition, emphasis on form and texture, timeless quality",
+      "related_styles": [
+        "Product photography",
+        "Food photography",
+        "Macro photography",
+        "Fine art photography",
+        "Commercial advertising photography"
+      ]
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "Victorian era emphasized elaborate arrangements, 1920s-30s brought modernist simplification, digital era enabled precise lighting control and post-processing refinement"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:25:30.474453",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Candid Photography",
+    "technical": {
+      "focal_length": "35mm-85mm for street candids, 70-200mm for distant subjects, wide-angle 24-35mm for environmental context",
+      "depth_of_field": "Variable - shallow f/1.4-2.8 for subject isolation, moderate f/4-5.6 for group context, deep f/8-11 for environmental storytelling",
+      "shutter_speed": "Fast 1/125s-1/500s+ to freeze natural movement, sometimes slower 1/60s-1/30s for intentional motion blur",
+      "lighting": "Available light priority - natural window light, ambient indoor/outdoor lighting, minimal flash use, high ISO capability essential",
+      "camera_format": "35mm film historically, digital full-frame/APS-C, rangefinders and mirrorless for discretion, fast autofocus systems"
+    },
+    "aesthetic": {
+      "composition": "Rule of thirds relaxed, off-center subjects, tilted horizons acceptable, foreground/background interaction, authentic moment over perfect composition",
+      "subject_background": "Background often busy/realistic, environmental context crucial, subjects naturally integrated into surroundings, layered compositions",
+      "tonal_range": "Natural contrast reflecting actual lighting conditions, shadows may be blocked, highlights may blow - authenticity over technical perfection",
+      "color_approach": "Natural color temperature variations, mixed lighting accepted, desaturated earth tones common, realistic skin tones priority",
+      "texture_detail": "Natural texture preservation, grain/noise acceptable, sharp focus on key subjects but soft focus acceptable for motion/emotion"
+    },
+    "shooting_approach": {
+      "subject_distance": "Variable - close 3-10 feet for intimacy, medium 10-25 feet for context, distant 25+ feet for unobtrusive observation",
+      "angle_perspective": "Eye level predominant, occasional low/high angles when naturally occurring, handheld camera shake acceptable",
+      "subject_relationship": "Purely candid - subjects unaware or natural, genuine emotions and expressions, unposed body language",
+      "environment": "Natural locations - streets, homes, events, workplaces, public spaces, real environments over controlled settings"
+    },
+    "context": {
+      "typical_uses": [
+        "Street photography",
+        "Photojournalism and documentary work",
+        "Wedding and event photography",
+        "Family lifestyle photography",
+        "Social documentary projects"
+      ],
+      "historical_context": "Emerged 1920s-1930s with portable cameras (Leica), popularized by Henri Cartier-Bresson's 'decisive moment' concept, evolved through street photography movement",
+      "key_characteristics": "Unposed authentic moments, natural lighting conditions, genuine expressions and emotions, environmental context, spontaneous composition",
+      "related_styles": [
+        "Street Photography",
+        "Documentary Photography",
+        "Photojournalism",
+        "Lifestyle Photography",
+        "Social Realism"
+      ]
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "1930s-50s: formal candids with available light; 1960s-80s: grittier street style, higher grain tolerance; Digital era: higher ISO capabilities, continuous shooting modes, more intimate access"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:25:33.652253",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Macro Photography",
+    "technical": {
+      "focal_length": "60mm, 90mm, 100mm, 105mm dedicated macro lenses; 180mm-200mm for distant subjects; extension tubes and close-up filters for standard lenses",
+      "depth_of_field": "Extremely shallow DOF (f/2.8-f/5.6) for artistic isolation; moderate DOF (f/8-f/11) for balanced sharpness; deep DOF (f/16-f/22) for maximum detail despite diffraction",
+      "shutter_speed": "1/60s-1/250s handheld with stabilization; 1/500s+ for moving insects; long exposures 1/30s or slower on tripod for static subjects",
+      "lighting": "Ring flash for even illumination; twin flash systems for directional control; LED panels for continuous lighting; natural light with reflectors; focus stacking lighting setups",
+      "camera_format": "Full-frame for shallow DOF control; APS-C for effective focal length extension; mirrorless for silent shooting and EVF magnification"
+    },
+    "aesthetic": {
+      "composition": "Rule of thirds for subject placement; leading lines from natural structures; radial compositions following flower petals or insect anatomy; negative space for subject isolation",
+      "subject_background": "Completely isolated subjects with blown-out or dark backgrounds; complementary natural backgrounds; bokeh patterns from vegetation or water droplets",
+      "tonal_range": "High contrast for dramatic impact; soft, even tones for scientific documentation; selective contrast enhancement on subject details",
+      "color_approach": "Saturated natural colors; complementary color relationships; monochromatic studies; emphasis on subtle color gradations invisible to naked eye",
+      "texture_detail": "Maximum sharpness on focal plane; intricate surface textures emphasized; water droplets and crystalline structures; fine hair, scales, and microscopic details revealed"
+    },
+    "shooting_approach": {
+      "subject_distance": "1:1 magnification (life-size) as standard; 2:1 to 5:1 for extreme close-ups; minimum focusing distances of 0.3-1 meter depending on lens",
+      "angle_perspective": "Eye-level with small subjects; low angles looking up at flowers and insects; perpendicular to flat subjects like leaves; oblique angles for dimensional rendering",
+      "subject_relationship": "Patient observation of natural behavior; minimal disturbance techniques; controlled studio setups for precise positioning; focus on undisturbed natural states",
+      "environment": "Outdoor natural habitats in early morning; controlled studio environments with live subjects; greenhouse settings; underwater macro setups"
+    },
+    "context": {
+      "typical_uses": [
+        "Scientific documentation and research",
+        "Nature and wildlife photography",
+        "Fine art and abstract studies"
+      ],
+      "historical_context": "Emerged in 1960s with dedicated macro lens development; popularized by National Geographic nature photography; digital era enabled focus stacking techniques",
+      "key_characteristics": "Magnification ratios of 1:1 or greater; revelation of normally invisible details; transformation of small subjects into monumental compositions",
+      "related_styles": "Close-up photography, scientific photography, nature photography, abstract photography"
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "Film era limited by single exposure constraints; digital era introduced focus stacking for extended DOF; modern mirrorless systems enable real-time magnification and silent operation for wildlife"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:25:35.249218",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Product Photography",
+    "technical": {
+      "focal_length": "85-135mm for minimal distortion, 50mm standard, macro lenses for detail shots",
+      "depth_of_field": "Variable - deep DOF for overall product clarity, shallow for hero shots and luxury items",
+      "shutter_speed": "1/60s to 1/250s, often tripod-mounted for consistency",
+      "lighting": "Controlled studio lighting with softboxes, diffusers, reflectors; key, fill, and rim lighting setup",
+      "camera_format": "Full-frame DSLR/mirrorless, medium format for high-end commercial work"
+    },
+    "aesthetic": {
+      "composition": "Clean, centered compositions; rule of thirds for lifestyle context; negative space emphasis",
+      "subject_background": "Seamless white/gray backgrounds, or contextual environments that don't compete with product",
+      "tonal_range": "High contrast with retained detail in highlights and shadows; even tonal distribution",
+      "color_approach": "Accurate color reproduction; neutral backgrounds; brand-consistent color schemes",
+      "texture_detail": "Sharp, detailed rendering of product textures; emphasis on material quality and craftsmanship"
+    },
+    "shooting_approach": {
+      "subject_distance": "Close enough to show product details clearly while maintaining context",
+      "angle_perspective": "Straight-on, 45-degree angles, overhead flat lays; multiple angles for comprehensive coverage",
+      "subject_relationship": "Formal, pristine presentation; products often isolated or in carefully staged contexts",
+      "environment": "Primarily controlled studio environments; occasional lifestyle settings for context"
+    },
+    "context": {
+      "typical_uses": [
+        "E-commerce catalogs",
+        "Advertising campaigns",
+        "Marketing materials",
+        "Social media content"
+      ],
+      "historical_context": "Evolved from catalog photography in early 1900s; revolutionized by digital photography and e-commerce",
+      "key_characteristics": "Clean presentation, accurate representation, consistent lighting, brand alignment",
+      "related_styles": [
+        "Still life photography",
+        "Commercial photography",
+        "Advertising photography"
+      ]
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "Evolution from formal catalog style to lifestyle integration; social media influence creating more casual, contextual approaches"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:25:43.479752",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Architectural Photography",
+    "technical": {
+      "focal_length": "Wide-angle 14-35mm for exteriors and interiors, 50-85mm for details, tilt-shift lenses for perspective correction",
+      "depth_of_field": "Deep DOF (f/8-f/16) to maintain sharpness throughout the frame, occasional shallow DOF for detail isolation",
+      "shutter_speed": "Tripod-based long exposures (1/15s to several seconds), especially for twilight and interior lighting",
+      "lighting": "Golden hour and blue hour preferred, HDR techniques for high contrast scenes, artificial lighting for interiors, light painting",
+      "camera_format": "Full-frame and medium format cameras for maximum detail and dynamic range, high-resolution sensors essential"
+    },
+    "aesthetic": {
+      "composition": "Emphasis on geometric patterns, leading lines, symmetry, rule of thirds, vertical and horizontal line correction",
+      "subject_background": "Building integrated with surrounding context or isolated against sky, minimal distracting elements",
+      "tonal_range": "Full tonal range with detailed shadows and highlights, often HDR processing for interior-exterior balance",
+      "color_approach": "Natural color rendition emphasizing material textures, warm interior lighting contrasted with cool exterior light",
+      "texture_detail": "Sharp detail in materials (concrete, glass, steel, wood), surface textures and patterns emphasized"
+    },
+    "shooting_approach": {
+      "subject_distance": "Variable from wide establishing shots to intimate detail close-ups, often multiple distances for comprehensive coverage",
+      "angle_perspective": "Low angles for monumentality, eye-level for human scale, elevated positions for context, corrected verticals",
+      "subject_relationship": "Formal documentation approach, occasional human elements for scale, emphasis on design intent",
+      "environment": "Primarily location-based, natural context essential, occasional studio work for architectural models"
+    },
+    "context": {
+      "typical_uses": [
+        "Architectural documentation",
+        "Real estate marketing",
+        "Design portfolio presentation",
+        "Urban planning",
+        "Historical preservation"
+      ],
+      "historical_context": "Emerged in 1850s with architectural documentation needs, evolved with modernist movement emphasizing clean lines and form",
+      "key_characteristics": "Perspective correction, emphasis on form and function, geometric composition, attention to lighting and materials",
+      "related_styles": [
+        "Interior photography",
+        "Urban landscape",
+        "Fine art photography",
+        "Documentary photography"
+      ]
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "Early work focused on documentation, mid-century emphasized modernist aesthetics, contemporary work includes HDR techniques and digital perspective correction"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:25:50.985241",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Landscape Photography",
+    "technical": {
+      "focal_length": "Wide-angle (14-35mm) for expansive vistas, telephoto (70-200mm) for compression and isolation of distant subjects, ultra-wide (10-24mm) for dramatic foregrounds",
+      "depth_of_field": "Deep DOF (f/8-f/16) to maintain sharpness from foreground to background, hyperfocal distance focusing techniques",
+      "shutter_speed": "Variable: fast (1/125s+) for sharp details, long exposure (30s-several minutes) for motion blur in water/clouds, tripod essential for stability",
+      "lighting": "Golden hour and blue hour preferred, diffused overcast light for even exposure, polarizing filters to manage reflections and enhance sky contrast",
+      "camera_format": "Full-frame and medium format for maximum dynamic range and detail, high-resolution sensors, weather-sealed bodies"
+    },
+    "aesthetic": {
+      "composition": "Rule of thirds, leading lines, foreground-midground-background layering, symmetry and reflections, S-curves and diagonal elements",
+      "subject_background": "Seamless integration where landscape elements work together as unified composition, no separation between subject and environment",
+      "tonal_range": "Full tonal range from deep shadows to bright highlights, HDR techniques common, emphasis on detail retention in both shadows and highlights",
+      "color_approach": "Natural color palette emphasizing earth tones, dramatic skies with enhanced contrast, seasonal color variations, desaturated or enhanced depending on mood",
+      "texture_detail": "Maximum sharpness and detail throughout frame, emphasis on natural textures like rock formations, water movement, cloud patterns"
+    },
+    "shooting_approach": {
+      "subject_distance": "Varies from intimate foreground details (1-3 feet) to infinity, emphasis on spatial relationships across vast distances",
+      "angle_perspective": "Low angles to emphasize foreground drama, elevated positions for overview perspectives, eye-level for human connection to landscape",
+      "subject_relationship": "Pure documentary approach to natural scenes, minimal human intervention, patient waiting for optimal conditions",
+      "environment": "Exclusively natural outdoor locations, often remote wilderness areas, coastal regions, mountains, deserts, forests"
+    },
+    "context": {
+      "typical_uses": [
+        "Fine art gallery exhibitions",
+        "Tourism and travel promotion",
+        "Environmental conservation advocacy",
+        "Calendar and wall art",
+        "National park documentation"
+      ],
+      "historical_context": "Emerged in mid-19th century with Ansel Adams and f/64 group, evolved from romantic painting traditions, gained prominence with large format photography",
+      "key_characteristics": "Sharp focus throughout, dramatic natural lighting, emphasis on natural beauty and wilderness preservation, technical precision in exposure and printing",
+      "related_styles": [
+        "Nature photography",
+        "Wilderness photography",
+        "Seascape photography",
+        "Mountain photography",
+        "Architectural landscape"
+      ]
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "Classic era (1930s-1970s) emphasized black and white with maximum detail. Modern digital era features HDR processing, focus stacking, and enhanced color saturation. Contemporary trends include minimalist compositions and abstract landscape interpretations."
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:25:53.310841",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Studio Photography",
+    "technical": {
+      "focal_length": "85-135mm for portraits, 24-70mm for products, 50-85mm for fashion",
+      "depth_of_field": "Variable - shallow f/1.4-f/2.8 for portraits, deep f/8-f/16 for products",
+      "shutter_speed": "1/125s to 1/250s typical for flash sync, slower for continuous lighting",
+      "lighting": "Controlled artificial lighting - strobes, softboxes, umbrellas, beauty dishes, key/fill/rim lighting setups",
+      "camera_format": "Full frame DSLR/mirrorless, medium format for high-end fashion/commercial"
+    },
+    "aesthetic": {
+      "composition": "Clean, deliberate framing, rule of thirds, centered compositions for products, negative space utilization",
+      "subject_background": "Controlled backgrounds - seamless paper, muslin, painted canvas, or carefully lit textured surfaces",
+      "tonal_range": "Full tonal control from pure blacks to clean whites, even lighting reduces harsh shadows",
+      "color_approach": "Accurate color reproduction, controlled color temperature, often neutral or deliberately styled palettes",
+      "texture_detail": "Sharp, well-defined textures with controlled highlights and shadows revealing form and material"
+    },
+    "shooting_approach": {
+      "subject_distance": "3-8 feet for portraits, 1-3 feet for products, varies by focal length and desired perspective",
+      "angle_perspective": "Eye level most common, slight variations for flattering angles, overhead for flat lays",
+      "subject_relationship": "Predominantly posed and directed, formal control over expression and positioning",
+      "environment": "Enclosed studio space with controlled ambient light, artificial lighting as primary source"
+    },
+    "context": {
+      "typical_uses": [
+        "Portrait photography",
+        "Commercial product photography",
+        "Fashion photography",
+        "Headshots",
+        "Beauty photography"
+      ],
+      "historical_context": "Evolved from 19th century painted backdrop studios, modernized with electronic flash in 1930s-1940s",
+      "key_characteristics": "Complete environmental control, consistent lighting, elimination of unwanted elements, professional polish",
+      "related_styles": [
+        "Fashion photography",
+        "Commercial photography",
+        "Beauty photography",
+        "Corporate portraiture"
+      ]
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "1950s-60s featured dramatic lighting and poses, 1980s emphasized high-key glamour, 2000s brought cleaner minimalist approaches, digital era enabled more complex lighting and post-processing"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:25:57.987238",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Fine Art Photography",
+    "technical": {
+      "focal_length": "35-85mm for balanced perspective, 24-35mm for environmental context, 85-200mm for compressed backgrounds and subject isolation",
+      "depth_of_field": "Variable - shallow DOF for subject isolation and bokeh, deep DOF for sharp environmental detail and maximum information",
+      "shutter_speed": "1/60s to 1/250s for handheld work, longer exposures 1-30s+ for motion blur and ethereal effects, tripod-mounted precision work",
+      "lighting": "Controlled natural light preferred, golden hour and blue hour, diffused artificial lighting, dramatic directional light for mood, minimal fill flash",
+      "camera_format": "Medium format (6x6, 6x7) and large format (4x5, 8x10) for maximum detail and tonal range, high-end full-frame digital"
+    },
+    "aesthetic": {
+      "composition": "Rule of thirds, leading lines, symmetry, negative space emphasis, classical proportions, deliberate framing with strong geometric structure",
+      "subject_background": "Background as integral compositional element, environmental context supporting conceptual meaning, careful separation or integration based on artistic intent",
+      "tonal_range": "Full tonal range from deep blacks to bright whites, subtle gradations, emphasis on tonal relationships and contrast control",
+      "color_approach": "Muted earth tones, desaturated palettes, monochromatic schemes, or selective color emphasis for emotional impact",
+      "texture_detail": "High attention to surface textures, fine detail rendering, smooth gradations, tactile quality emphasized through lighting and focus"
+    },
+    "shooting_approach": {
+      "subject_distance": "Variable from intimate close-ups to expansive environmental views, distance chosen to serve conceptual intent",
+      "angle_perspective": "Eye-level and slightly elevated angles most common, low angles for dramatic impact, perspective chosen for psychological effect",
+      "subject_relationship": "Highly deliberate and composed, planned rather than spontaneous, formal arrangement with attention to every element",
+      "environment": "Both studio and location work, natural environments preferred, architectural spaces, controlled lighting conditions essential"
+    },
+    "context": {
+      "typical_uses": [
+        "Gallery exhibitions",
+        "Art collection pieces",
+        "Museum displays",
+        "Limited edition prints",
+        "Artistic expression and commentary"
+      ],
+      "historical_context": "Emerged in 1960s-70s as photography gained acceptance as fine art medium, influenced by pictorialist movement and modernist aesthetics",
+      "key_characteristics": "Conceptual depth beyond documentation, technical excellence, artistic vision, gallery-worthy presentation, limited edition printing",
+      "related_styles": "Pictorialism, Documentary photography, Landscape photography, Portrait photography, Conceptual art"
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "1970s-80s emphasized large format B&W work, 1990s-2000s incorporated digital manipulation and color work, contemporary fine art embraces mixed media and conceptual approaches"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:26:08.058663",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Street Photography",
+    "technical": {
+      "focal_length": "35mm and 50mm most common, with 28mm and 85mm also popular; wide-angle for environmental context, normal for natural perspective",
+      "depth_of_field": "Variable - often moderate to deep (f/5.6-f/11) for zone focusing and sharp backgrounds, occasionally shallow for subject isolation",
+      "shutter_speed": "Fast enough to freeze motion (1/125s-1/500s), sometimes slower for intentional blur or panning effects",
+      "lighting": "Available light preferred - natural daylight, artificial street lighting, neon signs, window light; minimal or no flash to maintain candidness",
+      "camera_format": "35mm film historically dominant, now full-frame and APS-C digital; rangefinders and compact cameras favored for discretion"
+    },
+    "aesthetic": {
+      "composition": "Rule of thirds, leading lines, framing within frames, layered compositions, geometric patterns, decisive moment timing",
+      "subject_background": "Background integral to storytelling - urban architecture, signage, crowds provide context and narrative depth",
+      "tonal_range": "High contrast often preferred, deep blacks and bright whites, though can vary from high-key to low-key depending on mood",
+      "color_approach": "Both B&W and color - B&W for timeless quality and focus on form/light, color for contemporary urban vibrancy and cultural documentation",
+      "texture_detail": "Sharp detail throughout scene typical, capturing urban textures - concrete, metal, glass, fabric, weathered surfaces"
+    },
+    "shooting_approach": {
+      "subject_distance": "Varies widely - close for intimate human moments, medium for interaction with environment, distant for environmental context",
+      "angle_perspective": "Eye-level most common for natural perspective, low angles for drama, high angles for overview of urban scenes",
+      "subject_relationship": "Predominantly candid and unposed, subjects often unaware of photographer, capturing authentic human behavior",
+      "environment": "Urban streets, public spaces, markets, transportation hubs, sidewalks - anywhere public life unfolds naturally"
+    },
+    "context": {
+      "typical_uses": [
+        "Documentary photography",
+        "Photojournalism",
+        "Fine art photography",
+        "Cultural documentation",
+        "Urban sociology studies"
+      ],
+      "historical_context": "Emerged in 1920s-1930s with portable cameras, peaked mid-20th century with Leica cameras and masters like Cartier-Bresson, Evans, Frank",
+      "key_characteristics": "Captures unposed moments of everyday urban life, emphasizes human condition, social commentary, and spontaneous interactions in public spaces",
+      "related_styles": "Documentary photography, photojournalism, urban photography, candid photography, social realism"
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "1920s-40s focused on formal composition and decisive moment; 1950s-60s became more intimate and subjective; digital era brought continuous shooting and immediate review capabilities"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:26:11.295446",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Fashion Photography",
+    "technical": {
+      "focal_length": "85-135mm for portraits, 24-70mm for full body, 50mm for editorial work. Prime lenses preferred for sharpness",
+      "depth_of_field": "Variable - shallow f/1.4-f/2.8 for beauty shots, f/5.6-f/11 for full body to keep entire garment sharp",
+      "shutter_speed": "1/125s-1/250s minimum for handheld, up to 1/1000s for movement, sync speeds for studio strobes",
+      "lighting": "Studio strobes with softboxes/beauty dishes, ring lights for beauty, natural window light, reflectors and diffusers essential",
+      "camera_format": "Medium format (Hasselblad, Fuji GFX) preferred for detail, full-frame DSLRs/mirrorless common"
+    },
+    "aesthetic": {
+      "composition": "Rule of thirds, leading lines, negative space emphasis, dynamic poses, attention to garment flow and drape",
+      "subject_background": "Clean, minimal backgrounds in studio; environmental contexts that complement not compete; seamless papers common",
+      "tonal_range": "High contrast for dramatic looks, softer contrast for beauty, emphasis on clean highlights and rich shadows",
+      "color_approach": "Coordinated palettes, seasonal colors, brand-consistent schemes, often desaturated or complementary",
+      "texture_detail": "Fabric texture crucial - sharp detail in garments, skin retouching for flawless finish, material properties emphasized"
+    },
+    "shooting_approach": {
+      "subject_distance": "Varies by shot type - close for beauty (3-6 feet), medium for three-quarter (8-12 feet), wide for full body (15+ feet)",
+      "angle_perspective": "Eye level common, slight high angle for slimming, low angle for power/drama, profile and three-quarter poses frequent",
+      "subject_relationship": "Primarily posed and directed, confident expressions, body language emphasizing garment fit and flow",
+      "environment": "Professional studios with cycloramas, high-end retail locations, urban settings, minimalist interiors"
+    },
+    "context": {
+      "typical_uses": [
+        "Magazine editorials and covers",
+        "E-commerce and catalog imagery",
+        "Advertising campaigns and lookbooks"
+      ],
+      "historical_context": "Emerged in 1920s with Vogue and Harper's Bazaar, evolved through Avedon, Newton, Leibovitz innovations",
+      "key_characteristics": "Emphasis on clothing/accessories, aspirational aesthetic, high production values, model as clothes horse",
+      "related_styles": "Beauty photography, commercial portraiture, lifestyle photography, editorial photography"
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "1950s-60s: formal, studio-based; 1970s-80s: more dynamic, lifestyle integration; 1990s-2000s: grunge influence, candid feel; 2010s+: social media influence, authentic/diverse representation"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:26:16.535007",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Photojournalism",
+    "technical": {
+      "focal_length": "35mm-85mm for versatility, 24-70mm zooms common, 50mm standard for natural perspective, telephoto 200-400mm for distant subjects",
+      "depth_of_field": "Variable based on story needs - shallow for subject isolation, deep for environmental context, typically f/5.6-f/8 for balance",
+      "shutter_speed": "1/125s minimum for handheld stability, 1/250s+ for action, varies with available light constraints",
+      "lighting": "Available light preferred, minimal flash to maintain authenticity, natural window light, street lighting, emergency lighting",
+      "camera_format": "35mm film historically, digital DSLR/mirrorless now standard, full-frame sensors preferred for low-light performance"
+    },
+    "aesthetic": {
+      "composition": "Rule of thirds, leading lines, decisive moment timing, strong foreground-background relationships, geometric balance",
+      "subject_background": "Background provides context and story information, environmental elements support narrative, careful attention to distracting elements",
+      "tonal_range": "Full tonal range preferred, moderate to high contrast, shadow detail retention important, highlights controlled",
+      "color_approach": "Natural color rendition, desaturated palette often preferred, black and white for timeless impact, color used to support story",
+      "texture_detail": "Sharp detail throughout important areas, texture used to convey emotion and atmosphere, grain acceptable for authenticity"
+    },
+    "shooting_approach": {
+      "subject_distance": "Varies from intimate close-ups to wide environmental shots, often middle distance for human connection while showing context",
+      "angle_perspective": "Eye-level most common for relatability, low angles for power dynamics, high angles for vulnerability, perspective serves story",
+      "subject_relationship": "Primarily candid and unposed, authentic moments preferred, minimal photographer intervention, natural expressions",
+      "environment": "On-location shooting exclusively, real-world environments, no studio setups, natural context essential"
+    },
+    "context": {
+      "typical_uses": [
+        "News reporting",
+        "Documentary storytelling",
+        "Social issue awareness",
+        "Historical documentation",
+        "Magazine features"
+      ],
+      "historical_context": "Emerged in 1920s-1930s with portable cameras and flash, golden age 1940s-1970s with Life magazine era, evolved with digital technology",
+      "key_characteristics": "Truthful representation, decisive moment capture, social consciousness, technical excellence under challenging conditions, ethical responsibility",
+      "related_styles": [
+        "Documentary photography",
+        "Street photography",
+        "War photography",
+        "Social documentary",
+        "Editorial photography"
+      ]
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "Early era: formal, posed elements common. 1950s-60s: more intimate, handheld aesthetic. Modern: faster shooting, digital workflow, color standard, ethical debates around digital manipulation"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:26:25.664305",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Drone Photography",
+    "technical": {
+      "focal_length": "Wide angle 24-35mm equivalent, some 50-85mm for compression effects",
+      "depth_of_field": "Deep DOF (f/5.6-f/11) for maximum sharpness across frame",
+      "shutter_speed": "1/250s or faster for stability, 1/60s for intentional motion blur",
+      "lighting": "Golden hour and blue hour preferred, even overcast for diffused light",
+      "camera_format": "Small sensor (1/2.3\" to APS-C), 12-48MP, 4K video capability"
+    },
+    "aesthetic": {
+      "composition": "Rule of thirds, leading lines, geometric patterns, symmetry from above",
+      "subject_background": "Subject integrated into larger landscape context, patterns emerge",
+      "tonal_range": "High dynamic range, balanced exposure, detail in shadows and highlights",
+      "color_approach": "Enhanced saturation, polarized blues and greens, warm/cool contrast",
+      "texture_detail": "Sharp detail throughout frame, surface textures emphasized from aerial view"
+    },
+    "shooting_approach": {
+      "subject_distance": "50-400 feet altitude typical, varies from intimate to expansive views",
+      "angle_perspective": "Straight down (orthogonal), 45-degree angles, low altitude reveal shots",
+      "subject_relationship": "Subjects unaware or posed for scale, emphasis on environment over individual",
+      "environment": "Outdoor locations, coastal areas, urban environments, natural landscapes"
+    },
+    "context": {
+      "typical_uses": [
+        "Real estate marketing",
+        "Landscape documentation",
+        "Event coverage",
+        "Commercial advertising",
+        "Travel photography",
+        "Mapping and surveying"
+      ],
+      "historical_context": "Emerged 2010s with consumer drone accessibility, democratized aerial photography",
+      "key_characteristics": "Unique elevated perspectives, geometric patterns invisible from ground level, scalability of subjects",
+      "related_styles": "Aerial photography, architectural photography, landscape photography, street photography from above"
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "Early era (2013-2016) focused on novelty of height, modern era emphasizes sophisticated composition and cinematic movement"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:26:29.461004",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Low-Key Photography",
+    "technical": {
+      "focal_length": "Variable, often 85-135mm for portraits to compress features and isolate subjects, 50mm for natural perspective, wide angles less common",
+      "depth_of_field": "Variable, shallow DOF for subject isolation in portraits, deeper DOF when environmental context matters",
+      "shutter_speed": "1/60s to 1/250s typical, fast enough to avoid camera shake, may use slower speeds with tripod for still life",
+      "lighting": "Single key light heavily flagged/controlled, minimal fill light, strategic use of negative fill, hard or soft light depending on mood",
+      "camera_format": "All formats suitable, full-frame preferred for better high ISO performance and shadow detail retention"
+    },
+    "aesthetic": {
+      "composition": "Subject emerges from darkness, rule of thirds often applied to lit areas, negative space crucial, leading lines from shadows",
+      "subject_background": "Subject dramatically separated from dark or black background, background falls into shadow zones",
+      "tonal_range": "Predominantly dark tones, limited highlights, high contrast between lit and unlit areas, compressed shadow detail",
+      "color_approach": "Often monochrome or desaturated colors, warm amber/golden highlights against cool shadows, limited color palette",
+      "texture_detail": "High detail in highlighted areas, texture revealed through directional lighting, smooth gradation into shadows"
+    },
+    "shooting_approach": {
+      "subject_distance": "Varies by intent, close for intimate portraits, medium distance for dramatic full-body shots",
+      "angle_perspective": "Often eye-level or slightly below to emphasize drama, side lighting common for dimensional modeling",
+      "subject_relationship": "Typically posed and controlled, formal and dramatic rather than candid, emphasizes mood over documentation",
+      "environment": "Studio preferred for light control, controlled indoor locations, rarely outdoor unless specific dramatic lighting available"
+    },
+    "context": {
+      "typical_uses": [
+        "Portrait photography for dramatic effect",
+        "Fine art photography",
+        "Product photography for luxury items",
+        "Film noir inspired imagery",
+        "Artistic nude photography"
+      ],
+      "historical_context": "Emerged from early 20th century pictorialism, heavily influenced by film noir cinematography of 1940s-50s, refined through studio portrait traditions",
+      "key_characteristics": "Predominant use of shadows and darkness, dramatic contrast ratios, selective illumination, moody atmosphere, emphasis on form and shape over detail",
+      "related_styles": "Chiaroscuro painting techniques, Film noir cinematography, Rembrandt lighting portraits, High contrast black and white photography"
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "Classic film era emphasized grain and silver gelatin prints, digital era allows more precise shadow control and HDR techniques while maintaining the dark aesthetic"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:26:29.671571",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Cinematic Photography",
+    "technical": {
+      "focal_length": "35mm-85mm for narrative scenes, 24-35mm for environmental shots, 85mm+ for character portraits and close-ups",
+      "depth_of_field": "Shallow to medium DOF (f/1.4-f/4) for subject isolation, deeper DOF (f/5.6-f/8) for establishing shots",
+      "shutter_speed": "1/60s-1/250s to maintain natural motion blur, avoiding overly frozen or blurred movement",
+      "lighting": "Dramatic directional lighting, three-point setup, strong contrast with controlled shadows, often moody and atmospheric",
+      "camera_format": "Full-frame sensors preferred, often shot in 16:9 or 2.35:1 aspect ratios to mimic film formats"
+    },
+    "aesthetic": {
+      "composition": "Rule of thirds, leading lines, symmetry, deep focus layers, careful framing that tells a story",
+      "subject_background": "Background serves narrative purpose, creates depth and context, often blurred but meaningful",
+      "tonal_range": "High contrast with deep blacks and bright highlights, dramatic tonal separation",
+      "color_approach": "Stylized color grading with orange/teal, desaturated or monochromatic palettes, mood-driven color temperature",
+      "texture_detail": "Rich textures in foreground, atmospheric haze or grain, film-like quality with controlled sharpness"
+    },
+    "shooting_approach": {
+      "subject_distance": "Varies by shot type: wide establishing shots, medium shots for interaction, close-ups for emotion",
+      "angle_perspective": "Low angles for power, high angles for vulnerability, Dutch tilts for tension, eye-level for intimacy",
+      "subject_relationship": "Posed but natural, directed moments that feel authentic, emphasis on emotion and narrative",
+      "environment": "Location-based shooting preferred, natural or constructed sets that support story, atmospheric conditions"
+    },
+    "context": {
+      "typical_uses": [
+        "Film stills and behind-the-scenes",
+        "Portrait photography with narrative elements",
+        "Commercial and advertising campaigns",
+        "Music videos and promotional content"
+      ],
+      "historical_context": "Emerged from film noir and Hollywood golden age cinematography, popularized by digital photography and accessible film emulation",
+      "key_characteristics": "Film-like aesthetic, narrative composition, dramatic lighting, stylized color grading, emotional depth",
+      "related_styles": "Film noir photography, portrait photography, editorial photography, lifestyle photography"
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "Early variants mimicked classic Hollywood cinematography, modern versions incorporate digital color grading techniques and contemporary aspect ratios"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:26:41.339114",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Black and White Photography",
+    "technical": {
+      "focal_length": "Variable - 35mm-85mm for street/documentary, 50mm classic standard, 85mm-135mm for portraits, wide angle 24-35mm for landscapes",
+      "depth_of_field": "Variable - shallow f/1.4-f/2.8 for portraits/isolation, deep f/8-f/16 for landscapes/street scenes, driven by creative intent",
+      "shutter_speed": "1/60s-1/250s for handheld work, 1/500s+ for action, long exposures 1s+ for creative effects, varies by subject",
+      "lighting": "Emphasis on contrast and form - dramatic side lighting, Rembrandt lighting for portraits, golden hour, harsh shadows acceptable, window light preferred",
+      "camera_format": "35mm film historically dominant, medium format 6x6/6x7 for studio work, modern digital full-frame sensors"
+    },
+    "aesthetic": {
+      "composition": "Strong geometric elements, rule of thirds, leading lines emphasized, negative space crucial, symmetry and patterns highlighted",
+      "subject_background": "High contrast separation, background often simplified or darkened, subject isolation through tonal contrast rather than color",
+      "tonal_range": "Full range from pure black to pure white preferred, rich midtones, dramatic contrast often favored over flat lighting",
+      "color_approach": "Monochromatic grayscale only - red filter effects for dramatic skies, yellow for natural tones, blue for increased contrast",
+      "texture_detail": "Texture heavily emphasized - skin detail, fabric weave, architectural surfaces, grain structure often celebrated rather than minimized"
+    },
+    "shooting_approach": {
+      "subject_distance": "Variable by genre - intimate close-ups for portraits, medium distance for environmental context, wide establishing shots for landscapes",
+      "angle_perspective": "Eye-level classic, low angles for drama/power, high angles for context, Dutch angles rarely used except for creative effect",
+      "subject_relationship": "Both posed and candid traditions strong - formal studio portraits, street photography candids, documentary approach",
+      "environment": "All environments - controlled studio lighting, natural outdoor light, urban street contexts, available light interiors"
+    },
+    "context": {
+      "typical_uses": [
+        "Fine art photography",
+        "Portrait photography",
+        "Street and documentary photography",
+        "Landscape photography",
+        "Architectural photography",
+        "Fashion photography",
+        "Photojournalism"
+      ],
+      "historical_context": "Originated with photography's invention 1820s-1840s, dominated until 1960s color revolution, experienced revival in 1970s-80s fine art movement",
+      "key_characteristics": "Focus on form, texture, contrast, and composition without color distraction; emphasis on tonal relationships and light quality",
+      "related_styles": "Film noir cinematography, pictorialism, straight photography, documentary photography, street photography"
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "1920s-40s pictorialism soft focus, 1950s-60s high contrast modernism, 1970s+ fine art revival with varied approaches, digital era grain simulation"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:26:48.061686",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Editorial Photography",
+    "technical": {
+      "focal_length": "24-85mm most common, wide angles (14-35mm) for environmental context, 50-135mm for portraits, telephoto (70-200mm) for sports/events",
+      "depth_of_field": "Variable based on story needs - shallow f/1.4-f/2.8 for subject isolation, deep f/5.6-f/11 for environmental context and multiple subjects",
+      "shutter_speed": "1/60s-1/250s for portraits and interviews, 1/500s+ for action/events, sometimes slower for intentional motion blur storytelling",
+      "lighting": "Natural light preferred when possible, minimal flash intervention, bounce flash or LED panels for indoor work, maintaining authentic atmosphere over perfect lighting",
+      "camera_format": "Full-frame DSLR/mirrorless dominant, medium format for high-end magazines, occasionally 35mm film for specific aesthetic"
+    },
+    "aesthetic": {
+      "composition": "Rule of thirds, leading lines, strong geometric elements, asymmetrical balance, negative space to accommodate text layout, multiple focal points",
+      "subject_background": "Background provides context and story information, environmental elements support narrative, minimal backgrounds only when subject is the complete story",
+      "tonal_range": "Full tonal range preserved, moderate contrast, shadow detail retention important, highlights controlled to avoid blown areas",
+      "color_approach": "Natural color palette reflecting real environment, muted tones common, color grading subtle and story-appropriate, black and white for timeless or serious subjects",
+      "texture_detail": "High detail retention throughout frame, textures support storytelling, fabric, architectural, and skin textures rendered naturally"
+    },
+    "shooting_approach": {
+      "subject_distance": "Varies widely - close portraits (3-6 feet), environmental shots (10-30 feet), establishing shots (50+ feet), dictated by story requirements",
+      "angle_perspective": "Eye level most common, slight variations for visual interest, low angles for empowerment themes, high angles for vulnerability, Dutch angles rare",
+      "subject_relationship": "Mix of posed and candid moments, subjects aware of camera but natural, authentic expressions prioritized over perfect poses",
+      "environment": "On-location shooting dominant, subjects in their natural or relevant environments, studio only when environmental context unnecessary"
+    },
+    "context": {
+      "typical_uses": [
+        "Magazine feature stories",
+        "Newspaper articles",
+        "Corporate annual reports",
+        "Documentary essays",
+        "Profile pieces",
+        "News coverage"
+      ],
+      "historical_context": "Emerged with photojournalism in 1930s-40s, evolved with magazine culture post-WWII, influenced by Life Magazine and European photo essays",
+      "key_characteristics": "Story-driven imagery, authentic moments, environmental context, technical excellence, ethical representation, layout consideration",
+      "related_styles": [
+        "Photojournalism",
+        "Documentary Photography",
+        "Portrait Photography",
+        "Street Photography",
+        "Corporate Photography"
+      ]
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "1950s-60s emphasized formal poses and studio work, 1970s-80s became more environmental and candid, 1990s-2000s increased color saturation and stylization, 2010s+ embraced authentic moments and diverse representation"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:26:49.306881",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Documentary Photography",
+    "technical": {
+      "focal_length": "35mm-85mm standard lenses preferred for natural perspective; 24-35mm wide-angle for environmental context; 85-135mm for intimate portraits without intrusion",
+      "depth_of_field": "Variable based on narrative needs - deep DOF for environmental context, moderate DOF for subject isolation while maintaining background information",
+      "shutter_speed": "1/60s-1/250s for handheld stability; faster speeds 1/125s-1/500s for action/movement; slower speeds acceptable with stabilization for available light",
+      "lighting": "Natural/available light preferred; minimal artificial lighting to preserve authenticity; reflectors and fill flash used subtly when necessary",
+      "camera_format": "35mm film historically dominant; full-frame digital sensors; some medium format for higher quality archival work; rangefinders and SLRs for discretion"
+    },
+    "aesthetic": {
+      "composition": "Strong geometric compositions; rule of thirds; leading lines; framing through environmental elements; balanced but not overly stylized arrangements",
+      "subject_background": "Background provides context and narrative information; environmental elements support story; careful attention to avoid distracting elements",
+      "tonal_range": "Full tonal range with good shadow and highlight detail; moderate contrast; emphasis on detail retention over dramatic effect",
+      "color_approach": "Natural color rendition; muted, realistic palettes; black and white common for timeless quality and focus on content over aesthetics",
+      "texture_detail": "High attention to texture and fine detail; sharp focus where narratively important; preservation of environmental textures and surfaces"
+    },
+    "shooting_approach": {
+      "subject_distance": "Variable - close for intimate human moments, medium distance for subject-environment relationship, wider for contextual scenes",
+      "angle_perspective": "Eye-level perspective most common for human connection; slight variations for narrative emphasis; avoid extreme angles that distract from subject",
+      "subject_relationship": "Primarily candid and unposed; subjects often unaware or comfortable with photographer; natural expressions and body language prioritized",
+      "environment": "Real-world locations essential; subjects photographed in their natural environments; studio work rare except for formal portrait documentation"
+    },
+    "context": {
+      "typical_uses": [
+        "Photojournalism and news documentation",
+        "Social issue advocacy and awareness",
+        "Historical record keeping",
+        "Anthropological and sociological studies",
+        "Personal documentary projects",
+        "Corporate and institutional documentation"
+      ],
+      "historical_context": "Emerged in 1930s with photographers like Walker Evans and Dorothea Lange during Great Depression; formalized through FSA projects; evolved through civil rights era and continues as digital medium",
+      "key_characteristics": "Commitment to truth and accuracy; minimal manipulation; strong narrative content; social consciousness; respect for subjects; technical competence serving content",
+      "related_styles": "Street photography, photojournalism, social documentary, environmental portraiture, reportage photography"
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "1930s-50s: formal, large format approach; 1960s-80s: more intimate 35mm style; 1990s-2000s: color acceptance increased; 2010s+: digital tools enable new distribution but core ethics remain"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:27:01.715533",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Portrait Photography",
+    "technical": {
+      "focal_length": "85-135mm for headshots, 50-85mm for environmental portraits, wide aperture lenses preferred (f/1.4-f/2.8)",
+      "depth_of_field": "Shallow DOF dominant (f/1.4-f/4) for subject isolation, occasionally deep DOF for environmental context",
+      "shutter_speed": "1/60s-1/250s for static poses, 1/125s minimum for handheld to avoid camera shake",
+      "lighting": "Soft, directional lighting preferred - studio strobes, softboxes, natural window light, reflectors for fill",
+      "camera_format": "Full-frame and medium format for professional work, APS-C acceptable, mirrorless increasingly common"
+    },
+    "aesthetic": {
+      "composition": "Rule of thirds for eye placement, leading lines toward subject, negative space for impact, tight framing on face/upper body",
+      "subject_background": "Background secondary to subject - either creamy bokeh, simple textures, or contextual environments that don't compete",
+      "tonal_range": "Moderate to high contrast emphasizing facial features, careful shadow/highlight balance on skin tones",
+      "color_approach": "Accurate skin tone reproduction paramount, often warmer color temperature (3200-5600K), muted backgrounds",
+      "texture_detail": "Sharp focus on eyes essential, skin texture balanced - detailed but flattering, fabric and hair texture secondary"
+    },
+    "shooting_approach": {
+      "subject_distance": "3-8 feet typical working distance to avoid perspective distortion, closer for intimate headshots",
+      "angle_perspective": "Eye level or slightly above, 45-degree lighting angle common, avoid extreme high/low angles",
+      "subject_relationship": "Mix of posed and candid moments, formal business portraits vs intimate personal portraits",
+      "environment": "Controlled studio settings, natural outdoor locations, architectural backgrounds, subject's natural environment"
+    },
+    "context": {
+      "typical_uses": [
+        "Professional headshots",
+        "Family portraits",
+        "Fashion and beauty",
+        "Editorial portraits",
+        "Wedding photography",
+        "Corporate photography"
+      ],
+      "historical_context": "Evolved from painted portraiture traditions, formalized with studio photography in early 1900s, democratized with 35mm cameras",
+      "key_characteristics": "Subject is primary focus, emphasis on capturing personality and character, technical excellence in skin tones and eye sharpness",
+      "related_styles": [
+        "Fashion photography",
+        "Street portraiture",
+        "Documentary portraiture",
+        "Fine art portraiture",
+        "Corporate headshots"
+      ]
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "Classical formal poses (1900s-1950s) to casual environmental portraits (1960s+), digital era brought focus stacking and advanced retouching"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:27:04.883969",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Environmental Portraiture",
+    "technical": {
+      "focal_length": "35-85mm preferred; wide-angle (24-35mm) for context inclusion, 50-85mm for natural perspective with environment",
+      "depth_of_field": "Variable - moderate depth (f/5.6-f/8) to keep subject sharp while showing environment context; sometimes deep DOF for full scene clarity",
+      "shutter_speed": "1/60s-1/250s typically; fast enough for sharp subjects, accounting for ambient light conditions",
+      "lighting": "Natural ambient light preferred; minimal flash or continuous lighting to maintain authentic environment feel; window light, outdoor shade common",
+      "camera_format": "35mm and medium format most common; full-frame digital for optimal lens selection and low-light performance"
+    },
+    "aesthetic": {
+      "composition": "Subject integrated within environment rather than isolated; rule of thirds with subject placement allowing environment to tell story; balanced composition between person and place",
+      "subject_background": "Background is contextually meaningful - workplace, home, hobby space; subject and environment work together narratively; background supports rather than competes",
+      "tonal_range": "Natural, unforced contrast; preserves ambient lighting character; avoids artificial drama in favor of authentic mood",
+      "color_approach": "Natural color palette reflecting actual environment; colors harmonious between subject and setting; minimal color grading to maintain authenticity",
+      "texture_detail": "Rich environmental detail preserved; textures of place (wood, metal, fabric) important for context; balanced sharpness between subject and meaningful background elements"
+    },
+    "shooting_approach": {
+      "subject_distance": "Medium distance (3-8 feet) allowing full or 3/4 body shots with environment; close enough for connection, far enough for context",
+      "angle_perspective": "Eye level or slightly below; natural human perspective; avoids dramatic high or low angles that might diminish environmental context",
+      "subject_relationship": "Mix of posed and candid; subject comfortable and natural in their environment; often engaged in characteristic activity or positioned meaningfully within space",
+      "environment": "Always on location in subject's natural or meaningful environment - workplace, home, studio, outdoor setting relevant to subject's identity or story"
+    },
+    "context": {
+      "typical_uses": [
+        "Editorial portraits for magazines",
+        "Corporate executive portraits",
+        "Artist and craftsperson documentation",
+        "Professional headshots with context",
+        "Documentary portrait work"
+      ],
+      "historical_context": "Emerged in 1960s editorial photography; Arnold Newman pioneered approach; reaction against sterile studio portraits; emphasized showing 'whole person' in context",
+      "key_characteristics": "Subject's environment tells part of their story; balance between portraiture and documentary; authentic rather than constructed feeling; reveals personality through place",
+      "related_styles": [
+        "Documentary Photography",
+        "Lifestyle Photography",
+        "Corporate Portraiture",
+        "Editorial Photography",
+        "Street Portraiture"
+      ]
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "1960s-70s: formal, carefully composed with available light; 1980s-90s: more dynamic, sometimes mixed lighting; 2000s+: digital flexibility allows more environmental detail, HDR techniques sometimes used"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:27:09.293716",
+    "llm_model": "claude-sonnet-4-20250514"
+  },
+  {
+    "name": "Golden Hour Photography",
+    "technical": {
+      "focal_length": "35-85mm for landscapes, 85-135mm for portraits, wide angles (14-35mm) for dramatic scenes",
+      "depth_of_field": "Variable - shallow for portraits (f/1.4-2.8), moderate to deep for landscapes (f/5.6-11)",
+      "shutter_speed": "1/60-1/500s typically, faster for moving subjects, slower with tripods for landscapes",
+      "lighting": "Natural sunlight 30-60 minutes after sunrise or before sunset, backlighting and rim lighting emphasized",
+      "camera_format": "Full frame preferred for dynamic range, APS-C and mirrorless common, film creates distinctive warmth"
+    },
+    "aesthetic": {
+      "composition": "Rule of thirds, leading lines toward sun, silhouettes, sun positioning at intersections or edges",
+      "subject_background": "Subjects often backlit or rim-lit against warm sky, silhouettes common, bokeh emphasized",
+      "tonal_range": "High contrast between shadows and highlights, lifted shadows in post, gradual tonal transitions",
+      "color_approach": "Warm color palette dominated by oranges, yellows, deep blues, enhanced saturation and vibrance",
+      "texture_detail": "Soft, diffused textures, rim lighting reveals edge detail, atmospheric haze reduces contrast"
+    },
+    "shooting_approach": {
+      "subject_distance": "Varies widely - close portraits to distant landscapes, often determined by desired sun size",
+      "angle_perspective": "Low angles common to include foreground, shooting toward or across light source",
+      "subject_relationship": "Both posed and candid, romantic and intimate mood, relaxed positioning",
+      "environment": "Outdoor locations exclusively, open fields, beaches, urban rooftops, anywhere with horizon access"
+    },
+    "context": {
+      "typical_uses": [
+        "Portrait photography",
+        "Wedding photography",
+        "Landscape photography",
+        "Fashion shoots",
+        "Travel photography",
+        "Social media content"
+      ],
+      "historical_context": "Popularized in film era, massively expanded with digital photography and social media (2010s onward)",
+      "key_characteristics": "Warm color temperature, dramatic lighting ratios, ethereal quality, consistent timing requirements",
+      "related_styles": "Blue hour photography, backlit photography, sunset photography, romantic portraiture"
+    },
+    "era_variants": {
+      "has_temporal_variations": true,
+      "notes": "Film era emphasized natural warmth, digital era allows extreme color grading, Instagram era popularized heavy orange/teal processing"
+    },
+    "confidence_score": "HIGH",
+    "generated_at": "2025-11-13T09:27:17.381218",
+    "llm_model": "claude-sonnet-4-20250514"
+  }
+]

@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 3,
+    "aesthetic_score": 2,
+    "creative_tension": 9,
+    "overall_harmony": 4,
+    "reasoning": "This pairing creates extreme creative tension between documentary photography's commitment to authenticity and Wired's aggressive digital manipulation aesthetic. The technical approaches are fundamentally opposed, but this tension could produce compelling commentary on digital culture's impact on truth."
+  },
+  "description": {
+    "name": "Digital Authenticity",
+    "tagline": "Documentary truth meets electric manipulation in the digital revolution's defining moment.",
+    "full_description": "This radical pairing transforms traditional documentary photography through Wired's revolutionary 1990s visual language, creating images that question the nature of truth in the digital age. Subjects are captured with documentary honesty but processed through electric Day-Glo filters, scan lines, and digital artifacts that acknowledge the medium's synthetic nature. The result is photography that documents the collision between analog reality and digital transformation.\n\nUnlike pure documentary work, these images embrace their digital construction while maintaining documentary's commitment to real subjects and authentic moments. CRT monitor glow bathes genuine human interactions, while pixelated overlays and color channel separations fracture reality without destroying its emotional core. The aesthetic suggests that in the digital era, authenticity itself must be reimagined.\n\nThis approach captures the 1990s moment when digital culture was reshaping human experience, using documentary's observational power filtered through technology's transformative lens. Each image becomes both record and artifact, preserving genuine moments while celebrating the tools that were revolutionizing visual culture.",
+    "visual_expectations": "Natural documentary moments processed with electric lime green and hot pink color shifts, CRT scan lines overlaying real human interactions, genuine environmental contexts with added digital artifacts and pixelated elements, authentic subject expressions surrounded by fluorescent color halos, traditional documentary compositions fractured by circuit board-inspired grids.",
+    "use_cases": [
+      "Technology industry documentation with artistic edge",
+      "Digital culture retrospectives and exhibitions",
+      "Corporate reporting on tech transformation with visual innovation"
+    ]
+  },
+  "suggested_subjects": [
+    "Early internet entrepreneurs in their cluttered home offices",
+    "Computer programmers working late under CRT monitor glow",
+    "Tech conference attendees networking in hotel lobbies"
+  ],
+  "prompt_keywords": [
+    "documentary_authenticity",
+    "electric_daylight",
+    "digital_artifacts",
+    "scan_lines",
+    "fluorescent_processing"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "wired_1990s",
+  "photography_id": "documentary_photography",
+  "id": "wired_1990s__documentary_photography",
+  "generated_at": "2025-11-13T10:01:49.164638",
+  "llm_model": "claude-sonnet-4-20250514"
+}

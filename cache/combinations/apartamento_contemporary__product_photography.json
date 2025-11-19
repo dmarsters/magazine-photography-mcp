@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 7,
+    "creative_tension": 4,
+    "overall_harmony": 8,
+    "reasoning": "Both styles emerged in the contemporary era and share technical precision, though Apartamento's casual intimacy contrasts with product photography's formal presentation. The combination creates sophisticated commercial imagery with authentic domestic warmth."
+  },
+  "description": {
+    "name": "Curated Living",
+    "tagline": "Product photography reimagined through Apartamento's lens of authentic, lived-in sophistication.",
+    "full_description": "This style transforms traditional product photography by embedding objects within the intimate, naturally-lit environments that define Apartamento magazine. Instead of sterile studio backdrops, products are photographed in real homes flooded with soft natural light, surrounded by the gentle imperfections of daily life. The technical precision of commercial photography remains, but now serves to capture the authentic textures of linen throws, the patina on ceramic vessels, and the way morning light catches dust motes around a carefully placed design object.\n\nThe aesthetic bridges commercial necessity with editorial sophistication, presenting products as integral parts of creative living rather than isolated commodities. Colors remain true to the product while embracing Apartamento's muted palette of warm whites, dusty pastels, and earthy tones. Compositions balance the product clarity required for commerce with the casual, discovered-moment feeling that makes viewers want to inhabit these spaces.\n\nThis approach elevates product presentation from mere documentation to lifestyle aspiration, showing how objects exist within the homes of artists, designers, and creative professionals. The result feels both authentic and aspirational, commercial yet intimate.",
+    "visual_expectations": "Products positioned naturally within sun-drenched domestic spaces with visible imperfections like rumpled bedding or coffee rings. Abundant natural window light creating soft shadows and highlighting product textures. Muted color palettes with warm whites and soft pastels. Casual compositions that feel discovered rather than staged. Sharp digital clarity revealing material details within lived-in contexts.",
+    "use_cases": [
+      "High-end home goods e-commerce requiring lifestyle context",
+      "Design brand marketing that emphasizes authentic living over luxury",
+      "Editorial product features in contemporary lifestyle publications"
+    ]
+  },
+  "suggested_subjects": [
+    "Handmade ceramics on a sun-drenched kitchen counter with coffee stains",
+    "Vintage textiles draped over an unmade bed in morning light",
+    "Design books stacked naturally on a lived-in artist's desk"
+  ],
+  "prompt_keywords": [
+    "natural window light",
+    "lived-in authenticity",
+    "muted earth tones",
+    "casual placement",
+    "domestic intimacy"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "apartamento_contemporary",
+  "photography_id": "product_photography",
+  "id": "apartamento_contemporary__product_photography",
+  "generated_at": "2025-11-13T09:27:34.627245",
+  "llm_model": "claude-sonnet-4-20250514"
+}

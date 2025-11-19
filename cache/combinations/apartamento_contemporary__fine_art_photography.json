@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 2,
+    "overall_harmony": 8,
+    "reasoning": "Both emphasize technical excellence and deliberate composition, sharing a preference for natural light and thoughtful framing. The combination elevates Apartamento's intimate domesticity with fine art's conceptual rigor and museum-quality presentation standards."
+  },
+  "description": {
+    "name": "Elevated Domesticity",
+    "tagline": "Gallery-worthy fine art photography celebrating the authentic beauty of contemporary home spaces.",
+    "full_description": "This sophisticated approach transforms intimate domestic moments into museum-quality fine art pieces, combining Apartamento's signature warmth with the technical precision of gallery photography. Each frame captures the poetry of everyday living through carefully controlled natural light, revealing the tactile richness of fabrics, ceramics, and architectural details with exceptional clarity. The aesthetic celebrates authentic imperfection while maintaining the compositional rigor expected of fine art photography.\n\nThe visual treatment emphasizes medium format quality and tonal sophistication, using muted earth tones and soft pastels to create images that feel both lived-in and timeless. Natural light floods through windows, creating gentle shadows that reveal texture and form with museum-worthy precision. Each composition balances Apartamento's casual intimacy with fine art's deliberate structural elements, resulting in images that work equally well in design publications and gallery walls.\n\nThis style speaks to discerning viewers who appreciate both authentic domestic narratives and artistic excellence, creating photographs that transcend simple documentation to become contemplative studies of contemporary living. The approach respects the inherent beauty of personal spaces while elevating them through superior technical execution and conceptual depth.",
+    "visual_expectations": "Exceptional detail rendering showing fabric weaves and ceramic glazes, abundant natural window light creating soft directional shadows, muted color palettes dominated by warm whites and sage greens, intimate eye-level perspectives that feel naturally discovered, and careful negative space usage creating breathing room around subjects.",
+    "use_cases": [
+      "Limited edition art prints for design-conscious collectors",
+      "Gallery exhibitions focusing on contemporary domestic life",
+      "High-end interior design portfolio presentations"
+    ]
+  },
+  "suggested_subjects": [
+    "Ceramic vessels arranged on weathered wooden surfaces near large windows",
+    "Artist studio corners with vintage furniture and creative tools in natural light",
+    "Architectural details like exposed brick walls with morning light patterns"
+  ],
+  "prompt_keywords": [
+    "museum-quality",
+    "natural-light-flooding",
+    "muted-earth-tones",
+    "intimate-domesticity",
+    "medium-format-clarity"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "apartamento_contemporary",
+  "photography_id": "fine_art_photography",
+  "id": "apartamento_contemporary__fine_art_photography",
+  "generated_at": "2025-11-13T09:28:23.523361",
+  "llm_model": "claude-sonnet-4-20250514"
+}

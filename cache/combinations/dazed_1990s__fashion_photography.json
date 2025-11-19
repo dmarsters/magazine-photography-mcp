@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 8,
+    "overall_harmony": 9,
+    "reasoning": "Fashion photography in 1990s Dazed creates a revolutionary hybrid of high fashion craft with underground rebellion. The technical precision of fashion photography deliberately corrupted by Dazed's lo-fi aesthetic produces iconic anti-glamour fashion imagery."
+  },
+  "description": {
+    "name": "Anti-Glamour Fashion",
+    "tagline": "High fashion photography stripped of perfection and shot through the lens of underground rebellion.",
+    "full_description": "This combination revolutionizes fashion photography by embracing everything the industry traditionally rejected. Models wearing cutting-edge designer pieces are captured with cheap point-and-shoot cameras, harsh fluorescent lighting, and deliberately unflattering angles that somehow make the clothing more powerful and authentic. The result is fashion imagery that feels stolen rather than staged, where a £2000 avant-garde jacket looks equally at home in a grimy club bathroom or photocopied zine spread.\n\nThe aesthetic deliberately corrupts fashion photography's technical perfection with Dazed's signature grain, blown-out highlights, and cramped compositions. Models are caught mid-gesture with crushed blacks eating the edges of expensive fabrics, while neon lighting turns luxury materials into something alien and electric. This isn't fashion photography trying to look underground—it's underground photography accidentally capturing high fashion in its natural 1990s habitat.\n\nWhat emerges is profoundly influential: fashion imagery that prioritizes attitude over aspiration, rawness over refinement. The clothes become characters in a larger story about youth rebellion and cultural transformation, where a perfectly tailored garment photographed imperfectly becomes more desirable than any polished studio shot. This approach would eventually reshape how an entire generation viewed the relationship between fashion, authenticity, and visual culture.",
+    "visual_expectations": "Expensive designer clothing shot with cheap cameras creating heavy grain and blown highlights, models in awkward off-center compositions with dramatic shadows from harsh fluorescent lighting, fabric textures obscured by high contrast black and white processing, garments cropped by tight framing that focuses on unexpected details rather than full silhouettes, occasional bursts of acid yellow or electric blue that make materials look otherworldly",
+    "use_cases": [
+      "Underground fashion magazine editorials showcasing avant-garde designers",
+      "Anti-establishment brand campaigns targeting alternative youth markets",
+      "Documentary-style lookbooks for experimental fashion collections"
+    ]
+  },
+  "suggested_subjects": [
+    "Club kid wearing deconstructed Comme des Garçons in harsh bathroom lighting",
+    "Androgynous model in Helmut Lang photographed with unflattering flash at underground venue",
+    "Street-cast subject wearing high-fashion pieces mixed with thrift store finds"
+  ],
+  "prompt_keywords": [
+    "harsh-fluorescent-lighting",
+    "blown-out-highlights",
+    "deliberately-unflattering-angles",
+    "heavy-grain-35mm",
+    "crushed-blacks"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "dazed_1990s",
+  "photography_id": "fashion_photography",
+  "id": "dazed_1990s__fashion_photography",
+  "generated_at": "2025-11-13T10:05:34.140355",
+  "llm_model": "claude-sonnet-4-20250514"
+}

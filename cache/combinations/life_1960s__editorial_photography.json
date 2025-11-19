@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 10,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Perfect temporal and aesthetic alignment as Life magazine essentially defined editorial photography in the 1960s. The magazine's photojournalistic approach and editorial photography's story-driven methodology are fundamentally the same visual language."
+  },
+  "description": {
+    "name": "Documentary Narrative",
+    "tagline": "Classic American photojournalism that transformed ordinary moments into shared national experiences.",
+    "full_description": "This combination represents the golden age of American visual storytelling, when Life magazine photographers wielded their cameras like instruments of truth and cultural documentation. Armed with Leica rangefinders and pushed Tri-X film, these images capture the decisive moment with unflinching honesty and artistic sophistication. The aesthetic balances intimate human-scale perspectives with environmental context, using natural light and available darkness to create images that feel both immediate and timeless.\n\nThe visual treatment emphasizes rich Kodachrome saturation in color work and deep, punchy blacks in monochrome, with grain structure that adds tactile authenticity rather than clinical perfection. Compositions prioritize emotional impact over formal beauty, employing tight crops that eliminate non-essential elements while preserving the layered depth that gives context to human stories.\n\nThis approach defined how America saw itself during a decade of unprecedented change, from civil rights struggles to space exploration. Every frame carries the weight of historical documentation while maintaining the accessibility that made these images part of the collective visual memory of a generation.",
+    "visual_expectations": "Rich Kodachrome colors with slight magenta cast, visible 35mm grain structure adding texture, dramatic chiaroscuro lighting in portraits, tight crops focusing on essential story elements, natural environmental context preserved in backgrounds",
+    "use_cases": [
+      "Historical documentary projects recreating 1960s American experiences",
+      "Editorial stories requiring authentic photojournalistic credibility",
+      "Cultural documentation emphasizing human dignity and social awareness"
+    ]
+  },
+  "suggested_subjects": [
+    "Civil rights activists in quiet moments between demonstrations",
+    "Working-class families in their authentic home environments",
+    "Cultural icons captured in unguarded, humanizing situations"
+  ],
+  "prompt_keywords": [
+    "kodachrome",
+    "photojournalism",
+    "decisive moment",
+    "natural light",
+    "human dignity"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "life_1960s",
+  "photography_id": "editorial_photography",
+  "id": "life_1960s__editorial_photography",
+  "generated_at": "2025-11-13T10:05:32.669579",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 8,
+    "creative_tension": 2,
+    "overall_harmony": 9,
+    "reasoning": "Documentary photography's commitment to authentic, unmanipulated imagery aligns perfectly with The New Yorker's editorial integrity and sophisticated journalism. Both prioritize substance over flash, creating natural synergy."
+  },
+  "description": {
+    "name": "Editorial Truth",
+    "tagline": "Sophisticated documentary photography that serves The New Yorker's tradition of intelligent, uncompromising journalism.",
+    "full_description": "This combination marries documentary photography's commitment to authentic storytelling with The New Yorker's sophisticated editorial sensibilities. Images maintain the raw honesty of traditional documentary work while being refined through the magazine's elegant visual hierarchy and muted color palette. The approach favors natural lighting and unposed subjects, but frames them with the magazine's signature restraint and generous white space.\n\nPhotographs serve the narrative rather than dominating it, using 35-85mm focal lengths to capture intimate human moments within their broader context. The aesthetic emphasizes realistic skin tones and environmental accuracy, avoiding dramatic effects in favor of clear, readable imagery that supports complex editorial content. Black and white treatments often complement the magazine's timeless typographic tradition.\n\nThe result is documentary photography elevated by intellectual sophistication—images that inform and engage educated audiences while maintaining journalistic integrity. This style works particularly well for political profiles, cultural investigations, and New York City life documentation, where the magazine's urban cosmopolitan perspective meets documentary photography's commitment to truth.",
+    "visual_expectations": "Natural lighting with subtle fill when necessary, moderate depth of field preserving background context, muted color palettes with strategic accent colors, clean compositions with generous negative space, sharp focus on narratively important elements",
+    "use_cases": [
+      "Political profile photography for investigative features",
+      "Cultural documentation for arts and literature coverage",
+      "New York City life stories and urban issues reporting"
+    ]
+  },
+  "suggested_subjects": [
+    "Politicians and public figures in their working environments",
+    "Artists and writers in their creative spaces",
+    "New York City residents navigating urban life"
+  ],
+  "prompt_keywords": [
+    "documentary realism",
+    "editorial sophistication",
+    "natural lighting",
+    "environmental context",
+    "journalistic integrity"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "the_new_yorker_contemporary",
+  "photography_id": "documentary_photography",
+  "id": "the_new_yorker_contemporary__documentary_photography",
+  "generated_at": "2025-11-13T10:00:58.714410",
+  "llm_model": "claude-sonnet-4-20250514"
+}

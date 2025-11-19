@@ -1,0 +1,48 @@
+{
+  "name": "Photojournalism",
+  "technical": {
+    "focal_length": "35mm-85mm for versatility, 24-70mm zooms common, 50mm standard for natural perspective, telephoto 200-400mm for distant subjects",
+    "depth_of_field": "Variable based on story needs - shallow for subject isolation, deep for environmental context, typically f/5.6-f/8 for balance",
+    "shutter_speed": "1/125s minimum for handheld stability, 1/250s+ for action, varies with available light constraints",
+    "lighting": "Available light preferred, minimal flash to maintain authenticity, natural window light, street lighting, emergency lighting",
+    "camera_format": "35mm film historically, digital DSLR/mirrorless now standard, full-frame sensors preferred for low-light performance"
+  },
+  "aesthetic": {
+    "composition": "Rule of thirds, leading lines, decisive moment timing, strong foreground-background relationships, geometric balance",
+    "subject_background": "Background provides context and story information, environmental elements support narrative, careful attention to distracting elements",
+    "tonal_range": "Full tonal range preferred, moderate to high contrast, shadow detail retention important, highlights controlled",
+    "color_approach": "Natural color rendition, desaturated palette often preferred, black and white for timeless impact, color used to support story",
+    "texture_detail": "Sharp detail throughout important areas, texture used to convey emotion and atmosphere, grain acceptable for authenticity"
+  },
+  "shooting_approach": {
+    "subject_distance": "Varies from intimate close-ups to wide environmental shots, often middle distance for human connection while showing context",
+    "angle_perspective": "Eye-level most common for relatability, low angles for power dynamics, high angles for vulnerability, perspective serves story",
+    "subject_relationship": "Primarily candid and unposed, authentic moments preferred, minimal photographer intervention, natural expressions",
+    "environment": "On-location shooting exclusively, real-world environments, no studio setups, natural context essential"
+  },
+  "context": {
+    "typical_uses": [
+      "News reporting",
+      "Documentary storytelling",
+      "Social issue awareness",
+      "Historical documentation",
+      "Magazine features"
+    ],
+    "historical_context": "Emerged in 1920s-1930s with portable cameras and flash, golden age 1940s-1970s with Life magazine era, evolved with digital technology",
+    "key_characteristics": "Truthful representation, decisive moment capture, social consciousness, technical excellence under challenging conditions, ethical responsibility",
+    "related_styles": [
+      "Documentary photography",
+      "Street photography",
+      "War photography",
+      "Social documentary",
+      "Editorial photography"
+    ]
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "Early era: formal, posed elements common. 1950s-60s: more intimate, handheld aesthetic. Modern: faster shooting, digital workflow, color standard, ethical debates around digital manipulation"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:26:25.664305",
+  "llm_model": "claude-sonnet-4-20250514"
+}

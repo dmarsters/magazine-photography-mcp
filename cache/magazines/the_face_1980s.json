@@ -1,0 +1,43 @@
+{
+  "name": "The Face (1980s)",
+  "display_name": "The Face: New Romantic Era",
+  "era": {
+    "start": 1980,
+    "end": 1989,
+    "label": "Post-punk new wave cultural revolution"
+  },
+  "visual_treatment": {
+    "color_palette": "High-contrast primaries, neon accents, stark black and white, electric blues and magentas, often desaturated skin tones against vivid backgrounds",
+    "lighting": "Hard directional lighting, dramatic shadows, occasional neon or colored gels, stark studio lighting with high contrast ratios",
+    "contrast": "Extremely high contrast, blown-out highlights, crushed blacks, graphic separation between light and dark",
+    "texture": "Sharp grain structure, high-contrast prints, deliberate posterization effects, clean geometric textures mixed with organic skin detail"
+  },
+  "composition": {
+    "framing": "Tight crops on faces, asymmetrical compositions, diagonal lines, dramatic close-ups with extreme angles",
+    "spatial_relationships": "Bold graphic elements overlaying photography, text integrated as visual design element, layered compositions",
+    "perspectives": "Low angles for power, extreme close-ups, profile shots, unconventional cropping that challenges traditional portraiture",
+    "layout_philosophy": "Typography as image, deconstructed grid systems, bold geometric shapes, negative space as active design element"
+  },
+  "technical": {
+    "film_or_technology": "35mm film, likely Tri-X for B&W, color negative stocks with heavy darkroom manipulation, early electronic typography",
+    "lens_character": "Wide-angle distortion for dramatic effect, sharp modern lenses, occasional fish-eye or extreme wide angles",
+    "post_processing": "Heavy darkroom manipulation, high-contrast printing, color separation techniques, mechanical paste-up layouts"
+  },
+  "cultural_context": {
+    "values": "Youth rebellion, style as identity, subcultural authenticity, art-fashion fusion, anti-establishment aesthetics",
+    "subject_matter": "Musicians, club culture, street fashion, emerging artists, nightlife personalities, subcultural icons",
+    "target_audience": "Style-conscious youth, club culture participants, art school students, creative professionals",
+    "era_signature": "Post-punk visual rebellion meeting high fashion sensibility with accessible street credibility"
+  },
+  "temporal_markers": [
+    "New Romantic makeup and styling",
+    "Early computer typography and photomontage techniques",
+    "Club culture and underground music scene documentation",
+    "Memphis Group design influence",
+    "Pre-digital but post-punk aesthetic experimentation"
+  ],
+  "distinguishing_features": "Revolutionary fusion of street culture documentation with high-concept art direction, treating youth culture subjects with the visual sophistication typically reserved for high fashion, creating a new template for style journalism",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:23:07.829983",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Fine Art Photography",
+  "technical": {
+    "focal_length": "35-85mm for balanced perspective, 24-35mm for environmental context, 85-200mm for compressed backgrounds and subject isolation",
+    "depth_of_field": "Variable - shallow DOF for subject isolation and bokeh, deep DOF for sharp environmental detail and maximum information",
+    "shutter_speed": "1/60s to 1/250s for handheld work, longer exposures 1-30s+ for motion blur and ethereal effects, tripod-mounted precision work",
+    "lighting": "Controlled natural light preferred, golden hour and blue hour, diffused artificial lighting, dramatic directional light for mood, minimal fill flash",
+    "camera_format": "Medium format (6x6, 6x7) and large format (4x5, 8x10) for maximum detail and tonal range, high-end full-frame digital"
+  },
+  "aesthetic": {
+    "composition": "Rule of thirds, leading lines, symmetry, negative space emphasis, classical proportions, deliberate framing with strong geometric structure",
+    "subject_background": "Background as integral compositional element, environmental context supporting conceptual meaning, careful separation or integration based on artistic intent",
+    "tonal_range": "Full tonal range from deep blacks to bright whites, subtle gradations, emphasis on tonal relationships and contrast control",
+    "color_approach": "Muted earth tones, desaturated palettes, monochromatic schemes, or selective color emphasis for emotional impact",
+    "texture_detail": "High attention to surface textures, fine detail rendering, smooth gradations, tactile quality emphasized through lighting and focus"
+  },
+  "shooting_approach": {
+    "subject_distance": "Variable from intimate close-ups to expansive environmental views, distance chosen to serve conceptual intent",
+    "angle_perspective": "Eye-level and slightly elevated angles most common, low angles for dramatic impact, perspective chosen for psychological effect",
+    "subject_relationship": "Highly deliberate and composed, planned rather than spontaneous, formal arrangement with attention to every element",
+    "environment": "Both studio and location work, natural environments preferred, architectural spaces, controlled lighting conditions essential"
+  },
+  "context": {
+    "typical_uses": [
+      "Gallery exhibitions",
+      "Art collection pieces",
+      "Museum displays",
+      "Limited edition prints",
+      "Artistic expression and commentary"
+    ],
+    "historical_context": "Emerged in 1960s-70s as photography gained acceptance as fine art medium, influenced by pictorialist movement and modernist aesthetics",
+    "key_characteristics": "Conceptual depth beyond documentation, technical excellence, artistic vision, gallery-worthy presentation, limited edition printing",
+    "related_styles": "Pictorialism, Documentary photography, Landscape photography, Portrait photography, Conceptual art"
+  },
+  "era_variants": {
+    "has_temporal_variations": true,
+    "notes": "1970s-80s emphasized large format B&W work, 1990s-2000s incorporated digital manipulation and color work, contemporary fine art embraces mixed media and conceptual approaches"
+  },
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:26:08.058663",
+  "llm_model": "claude-sonnet-4-20250514"
+}

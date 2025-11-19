@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 7,
+    "aesthetic_score": 6,
+    "creative_tension": 7,
+    "overall_harmony": 7,
+    "reasoning": "Both styles share contemporary digital origins and sophisticated lighting approaches, but cinematic drama conflicts with Apartamento's intimate casualness. The tension creates opportunities for elevated domestic storytelling."
+  },
+  "description": {
+    "name": "Cinematic Intimacy",
+    "tagline": "Transforms everyday domestic moments into film-worthy scenes with dramatic lighting and narrative depth.",
+    "full_description": "This hybrid approach elevates Apartamento's authentic home photography through cinematic storytelling techniques, creating domestic scenes that feel like frames from an art house film. Natural light flooding through windows becomes dramatically directional, casting intentional shadows across lived-in spaces while maintaining the magazine's signature warmth and authenticity. The result transforms casual interior moments into compelling visual narratives.\n\nTechnical execution balances Apartamento's documentary intimacy with cinema's controlled drama. Medium format digital clarity captures textile details and architectural elements, while cinematic framing in 16:9 ratios adds narrative weight to simple domestic arrangements. Shallow depth of field isolates meaningful objects and spaces, creating layered compositions that guide the viewer's eye through carefully orchestrated yet natural-feeling scenes.\n\nColor treatment merges Apartamento's muted, naturally saturated palette with subtle cinematic grading, emphasizing warm highlights and controlled contrast. The aesthetic celebrates imperfection and personal narrative while adding emotional depth through dramatic lighting and thoughtful composition, appealing to design-conscious audiences who appreciate both authenticity and visual sophistication.",
+    "visual_expectations": "Dramatic window light casting geometric shadows across minimalist interiors, shallow focus isolating ceramic objects against blurred lived-in backgrounds, warm cinematic color grading enhancing sage greens and dusty pinks, 16:9 compositions framing architectural details like film stills, controlled contrast revealing fabric textures and wood grain with theatrical depth.",
+    "use_cases": [
+      "High-end interior design portfolios seeking narrative depth",
+      "Lifestyle brand campaigns emphasizing authentic living",
+      "Architectural photography with emotional storytelling elements"
+    ]
+  },
+  "suggested_subjects": [
+    "Artist's breakfast table with dramatic morning light streaming across handmade ceramics",
+    "Creative professional's workspace with cinematic shadows highlighting vintage furniture details",
+    "Minimalist bedroom corner featuring layered textiles and architectural light patterns"
+  ],
+  "prompt_keywords": [
+    "cinematic_lighting",
+    "domestic_narrative",
+    "dramatic_shadows",
+    "authentic_interiors",
+    "film_aesthetic"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "apartamento_contemporary",
+  "photography_id": "cinematic_photography",
+  "id": "apartamento_contemporary__cinematic_photography",
+  "generated_at": "2025-11-13T09:29:51.406776",
+  "llm_model": "claude-sonnet-4-20250514"
+}

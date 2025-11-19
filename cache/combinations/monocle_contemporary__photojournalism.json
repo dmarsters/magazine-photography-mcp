@@ -1,0 +1,39 @@
+{
+  "compatibility": {
+    "temporal_alignment": "era_matched",
+    "technical_score": 9,
+    "aesthetic_score": 7,
+    "creative_tension": 4,
+    "overall_harmony": 8,
+    "reasoning": "Both styles emerged in the digital era and share documentary authenticity, though Monocle's polished sophistication creates interesting tension with photojournalism's raw immediacy. The combination produces elevated reportage that maintains credibility while achieving visual refinement."
+  },
+  "description": {
+    "name": "Elevated Reportage",
+    "tagline": "Sophisticated documentary storytelling that brings photojournalistic integrity to premium lifestyle subjects.",
+    "full_description": "This pairing transforms traditional photojournalism through Monocle's lens of global sophistication, creating images that feel authentically captured yet carefully curated. The approach maintains photojournalism's commitment to truthful representation and decisive moments while applying Monocle's signature restraint—muted color palettes, generous white space, and refined compositions that never sacrifice authenticity for aesthetics. The result is documentary photography that speaks to educated, globally-minded audiences who value substance alongside style.\n\nTechnically, this combination favors natural lighting and candid moments but with more deliberate attention to environmental context and material textures. The photojournalistic eye for decisive moments is filtered through Monocle's appreciation for craftsmanship and cultural nuance, resulting in images that tell deeper stories about global citizenship, quality, and understated luxury. Sharp digital capture replaces film grain, while maintaining the medium contrast and warm neutral tones that make subjects feel approachable yet significant.\n\nThe aesthetic bridges the gap between news photography and lifestyle journalism, creating visual narratives that inform while inspiring. This isn't street photography made pretty—it's sophisticated documentation that respects both the urgency of the moment and the intelligence of the viewer, perfect for stories that matter to culturally curious professionals.",
+    "visual_expectations": "Natural lighting with soft shadows and rich midtones, candid subjects positioned thoughtfully within their environments, muted color palettes dominated by navy and forest green with strategic orange accents, sharp digital clarity that emphasizes material textures, and generous negative space that gives subjects room to breathe while maintaining documentary authenticity.",
+    "use_cases": [
+      "International business features documenting entrepreneurs in their natural work environments",
+      "Cultural stories exploring craftsmanship and traditional industries with contemporary relevance",
+      "Urban planning and architecture photography that shows human-scale impact of design decisions"
+    ]
+  },
+  "suggested_subjects": [
+    "Japanese master craftsman working in traditional workshop with modern tools",
+    "Startup founder presenting to investors in converted warehouse space",
+    "Local market vendor arranging artisanal products in Copenhagen morning light"
+  ],
+  "prompt_keywords": [
+    "documentary_authenticity",
+    "natural_lighting",
+    "environmental_context",
+    "muted_sophistication",
+    "decisive_moment"
+  ],
+  "temporal_notes": "",
+  "magazine_id": "monocle_contemporary",
+  "photography_id": "photojournalism",
+  "id": "monocle_contemporary__photojournalism",
+  "generated_at": "2025-11-13T09:48:47.934669",
+  "llm_model": "claude-sonnet-4-20250514"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Vice (2000s)",
+  "display_name": "Vice: Gritty Underground Era",
+  "era": {
+    "start": 2000,
+    "end": 2009,
+    "label": "Raw counter-culture documentation"
+  },
+  "visual_treatment": {
+    "color_palette": "Oversaturated primaries, harsh neons, blown-out whites, crushed blacks with occasional monochrome",
+    "lighting": "Harsh direct flash, unflattering overhead fluorescents, natural light pushed to extremes",
+    "contrast": "Extreme high contrast with clipped highlights and shadow detail loss",
+    "texture": "Heavy grain, digital noise, intentionally degraded image quality, compression artifacts"
+  },
+  "composition": {
+    "framing": "Tight crops, off-center subjects, amateur snapshot aesthetics, cropped body parts",
+    "spatial_relationships": "Cramped, claustrophobic spaces, subjects pressed against backgrounds",
+    "perspectives": "Eye-level candids, low angles for power dynamics, invasive close-ups",
+    "layout_philosophy": "Anti-professional, deliberately crude, snapshot realism over formal composition"
+  },
+  "technical": {
+    "film_or_technology": "Early digital cameras, disposable film cameras, low-res phone cameras, consumer-grade equipment",
+    "lens_character": "Wide-angle distortion, built-in flash falloff, cheap lens aberrations",
+    "post_processing": "Minimal retouching, intentional over-sharpening, contrast pushed to breaking point"
+  },
+  "cultural_context": {
+    "values": "Authenticity over polish, underground credibility, shock value, anti-establishment stance",
+    "subject_matter": "Nightlife, subcultures, drugs, sex, street fashion, emerging music scenes",
+    "target_audience": "Urban youth, creative underground, cultural early adopters",
+    "era_signature": "Deliberate rejection of mainstream magazine aesthetics through technical 'mistakes'"
+  },
+  "temporal_markers": [
+    "Early digital camera limitations embraced as aesthetic choice",
+    "Pre-Instagram lo-fi photography",
+    "Y2K-era club culture documentation",
+    "Anti-glamour movement in fashion photography"
+  ],
+  "distinguishing_features": "Intentionally amateur technique elevated to editorial standard, harsh flash photography as signature look, celebration of technical imperfection as authenticity marker",
+  "confidence_score": "HIGH",
+  "generated_at": "2025-11-13T09:24:28.420168",
+  "llm_model": "claude-sonnet-4-20250514"
+}
