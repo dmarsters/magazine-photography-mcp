@@ -1,6 +1,6 @@
 # Magazine Photography MCP
 
-A deterministic visual vocabulary server that maps magazine aesthetic traditions to locked photographic and compositional parameters for image generation. Part of the visual vocabularies ecosystem.
+A deterministic visual vocabulary server that maps magazine aesthetic traditions to locked photographic and compositional parameters for image generation. Part of the Lushy.app Visual Vocabularies ecosystem.
 
 ## What This Does
 
@@ -581,15 +581,15 @@ Magazine photography traditions derive from:
 
 ## License
 
-[Specify your license here]
+See LICENSE
 
 ## Related
 
-Part of the visual vocabularies ecosystem:
-- [Cocktail Aesthetics](link)
-- [Slapstick Enhancer](link)
-- [Terpene-based Aesthetics](link)
-- [Constellation Composition](link)
+Part of the Lushy.app Visual Vocabularies ecosystem:
+- [Cocktail Aesthetics](https://github.com/dmarsters/cocktail-aesthetics-mcp)
+- [Slapstick Enhancer](https://github.com/dmarsters/slapstick-enhancer)
+- [Terpene-based Aesthetics](https://github.com/dmarsters/terpene-mcp-server)
+- [Constellation Composition](https://github.com/dmarsters/constellation-composition-mcp)
 
 See the visual vocabularies intro post for context on how these systems work together.
 
