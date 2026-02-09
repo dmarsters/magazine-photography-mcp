@@ -537,5 +537,775 @@ def get_random_combinations(count: int = 5, min_harmony: int = 7) -> List[Dict]:
     } for c in sampled]
 
 
+# ============================================================================
+# PHASE 2.6: RHYTHMIC PRESETS + ATTRACTOR VISUALIZATION
+# ============================================================================
+# Normalized parameter space for aesthetic dynamics integration.
+# Maps magazine×photography aesthetics to a 6D morphospace [0.0, 1.0].
+# ============================================================================
+
+import math
+import numpy as np
+
+MAGPHOTO_PARAMETER_NAMES = [
+    "color_saturation",          # 0.0 = muted/desaturated, 1.0 = vivid/saturated
+    "detail_sharpness",          # 0.0 = soft/dreamy, 1.0 = razor crisp
+    "mood_intensity",            # 0.0 = understated/quiet, 1.0 = dramatic/powerful
+    "contrast_level",            # 0.0 = flat/even, 1.0 = extreme chiaroscuro
+    "temporal_warmth",           # 0.0 = cool/modern/clinical, 1.0 = warm/vintage/analog
+    "compositional_formality",   # 0.0 = candid/loose/spontaneous, 1.0 = rigid/staged/formal
+]
+
+# ----------------------------------------------------------------------------
+# Canonical aesthetic states (archetypes)
+# Each represents a recognizable magazine×photography configuration
+# ----------------------------------------------------------------------------
+
+MAGPHOTO_COORDS = {
+    "editorial_glamour": {
+        # Vogue / Harper's Bazaar × Fashion Photography
+        "color_saturation": 0.85,
+        "detail_sharpness": 0.80,
+        "mood_intensity": 0.70,
+        "contrast_level": 0.65,
+        "temporal_warmth": 0.40,
+        "compositional_formality": 0.90,
+    },
+    "documentary_grit": {
+        # Life / Magnum × Documentary Photography
+        "color_saturation": 0.45,
+        "detail_sharpness": 0.60,
+        "mood_intensity": 0.80,
+        "contrast_level": 0.85,
+        "temporal_warmth": 0.55,
+        "compositional_formality": 0.15,
+    },
+    "minimalist_modern": {
+        # Kinfolk / Cereal × Minimalist Photography
+        "color_saturation": 0.25,
+        "detail_sharpness": 0.75,
+        "mood_intensity": 0.20,
+        "contrast_level": 0.30,
+        "temporal_warmth": 0.25,
+        "compositional_formality": 0.60,
+    },
+    "avant_garde_experimental": {
+        # i-D / Dazed × Experimental Photography
+        "color_saturation": 0.65,
+        "detail_sharpness": 0.40,
+        "mood_intensity": 0.95,
+        "contrast_level": 0.75,
+        "temporal_warmth": 0.35,
+        "compositional_formality": 0.10,
+    },
+    "golden_age_portrait": {
+        # Classic Vanity Fair / Esquire × Portrait Photography
+        "color_saturation": 0.60,
+        "detail_sharpness": 0.70,
+        "mood_intensity": 0.55,
+        "contrast_level": 0.50,
+        "temporal_warmth": 0.85,
+        "compositional_formality": 0.80,
+    },
+    "street_candid": {
+        # Vice / early Rolling Stone × Street Photography
+        "color_saturation": 0.50,
+        "detail_sharpness": 0.45,
+        "mood_intensity": 0.60,
+        "contrast_level": 0.70,
+        "temporal_warmth": 0.50,
+        "compositional_formality": 0.05,
+    },
+    "nature_sublime": {
+        # National Geographic × Landscape Photography
+        "color_saturation": 0.90,
+        "detail_sharpness": 0.85,
+        "mood_intensity": 0.75,
+        "contrast_level": 0.55,
+        "temporal_warmth": 0.60,
+        "compositional_formality": 0.50,
+    },
+}
+
+# ----------------------------------------------------------------------------
+# Phase 2.6 Rhythmic Presets
+# Oscillations between canonical states creating temporal aesthetics
+# Periods: [12, 16, 20, 24, 30]
+# ----------------------------------------------------------------------------
+
+MAGPHOTO_RHYTHMIC_PRESETS = {
+    "editorial_sweep": {
+        "state_a": "editorial_glamour",
+        "state_b": "minimalist_modern",
+        "pattern": "sinusoidal",
+        "num_cycles": 3,
+        "steps_per_cycle": 20,
+        "description": "Fashion editorial cycling between glamour saturation and minimalist restraint",
+    },
+    "era_drift": {
+        "state_a": "golden_age_portrait",
+        "state_b": "minimalist_modern",
+        "pattern": "sinusoidal",
+        "num_cycles": 3,
+        "steps_per_cycle": 24,
+        "description": "Temporal drift between warm vintage portraiture and cool modern minimalism",
+    },
+    "tension_pulse": {
+        "state_a": "documentary_grit",
+        "state_b": "avant_garde_experimental",
+        "pattern": "sinusoidal",
+        "num_cycles": 4,
+        "steps_per_cycle": 16,
+        "description": "Rhythmic pulse between raw documentary honesty and experimental abstraction",
+    },
+    "mood_arc": {
+        "state_a": "minimalist_modern",
+        "state_b": "nature_sublime",
+        "pattern": "triangular",
+        "num_cycles": 2,
+        "steps_per_cycle": 30,
+        "description": "Gradual arc from quiet minimalism to sublime natural drama and back",
+    },
+    "formality_toggle": {
+        "state_a": "street_candid",
+        "state_b": "editorial_glamour",
+        "pattern": "square",
+        "num_cycles": 5,
+        "steps_per_cycle": 12,
+        "description": "Sharp toggle between raw street spontaneity and controlled editorial staging",
+    },
+}
+
+# ----------------------------------------------------------------------------
+# Phase 2.7 Visual Vocabulary Types
+# Nearest-neighbor matching maps parameter coordinates → prompt keywords
+# ----------------------------------------------------------------------------
+
+MAGPHOTO_VISUAL_TYPES = {
+    "editorial_polished": {
+        "coords": {
+            "color_saturation": 0.85,
+            "detail_sharpness": 0.80,
+            "mood_intensity": 0.65,
+            "contrast_level": 0.60,
+            "temporal_warmth": 0.40,
+            "compositional_formality": 0.90,
+        },
+        "keywords": [
+            "editorial fashion photography",
+            "studio-lit with precise shadows",
+            "retouched skin and fabric textures",
+            "saturated color palette with designer precision",
+            "geometric composition with deliberate negative space",
+            "glossy magazine-spread finish",
+            "high-end commercial aesthetic",
+        ],
+        "optical_properties": {
+            "finish": "glossy",
+            "lighting": "controlled multi-source studio",
+            "grain": "none",
+            "depth_of_field": "selective razor focus",
+        },
+    },
+    "raw_documentary": {
+        "coords": {
+            "color_saturation": 0.45,
+            "detail_sharpness": 0.55,
+            "mood_intensity": 0.80,
+            "contrast_level": 0.85,
+            "temporal_warmth": 0.55,
+            "compositional_formality": 0.15,
+        },
+        "keywords": [
+            "raw photojournalistic documentary",
+            "available light with deep shadows",
+            "visible film grain and optical imperfections",
+            "high-contrast tonal range",
+            "unposed decisive-moment composition",
+            "gritty street-level authenticity",
+            "analog warmth with honest texture",
+        ],
+        "optical_properties": {
+            "finish": "matte",
+            "lighting": "available/natural with hard shadows",
+            "grain": "pronounced film grain",
+            "depth_of_field": "deep environmental focus",
+        },
+    },
+    "ethereal_minimal": {
+        "coords": {
+            "color_saturation": 0.25,
+            "detail_sharpness": 0.70,
+            "mood_intensity": 0.20,
+            "contrast_level": 0.25,
+            "temporal_warmth": 0.25,
+            "compositional_formality": 0.60,
+        },
+        "keywords": [
+            "airy minimalist photography",
+            "soft diffused even lighting",
+            "desaturated muted pastel tones",
+            "expansive negative space with clean geometry",
+            "understated quiet presence",
+            "fine-art gallery aesthetic",
+            "crisp detail within restrained palette",
+        ],
+        "optical_properties": {
+            "finish": "matte with slight luminosity",
+            "lighting": "diffused overcast softbox",
+            "grain": "none, clean sensor",
+            "depth_of_field": "moderate, subject isolation",
+        },
+    },
+    "dramatic_cinematic": {
+        "coords": {
+            "color_saturation": 0.70,
+            "detail_sharpness": 0.50,
+            "mood_intensity": 0.90,
+            "contrast_level": 0.80,
+            "temporal_warmth": 0.50,
+            "compositional_formality": 0.35,
+        },
+        "keywords": [
+            "cinematic narrative photography",
+            "chiaroscuro lighting with motivated sources",
+            "rich color grading with teal-orange or complementary split",
+            "atmospheric haze and volumetric light",
+            "widescreen compositional framing",
+            "emotionally charged with filmic tension",
+            "shallow depth isolating subject from environment",
+        ],
+        "optical_properties": {
+            "finish": "filmic with subtle halation",
+            "lighting": "motivated practical sources with controlled spill",
+            "grain": "subtle filmic texture",
+            "depth_of_field": "shallow cinematic bokeh",
+        },
+    },
+    "vintage_analog": {
+        "coords": {
+            "color_saturation": 0.55,
+            "detail_sharpness": 0.45,
+            "mood_intensity": 0.55,
+            "contrast_level": 0.50,
+            "temporal_warmth": 0.90,
+            "compositional_formality": 0.70,
+        },
+        "keywords": [
+            "vintage analog film photography",
+            "warm color cast with lifted blacks",
+            "soft optical rendering with gentle vignette",
+            "Kodachrome or Ektachrome color science",
+            "period-correct styling and staging",
+            "nostalgic golden-hour warmth",
+            "hand-printed darkroom finish",
+        ],
+        "optical_properties": {
+            "finish": "semi-matte with warm cast",
+            "lighting": "golden-hour natural or tungsten",
+            "grain": "organic film grain, medium format",
+            "depth_of_field": "vintage lens rendering with swirl bokeh",
+        },
+    },
+}
+
+
+# ============================================================================
+# Phase 2.6 Oscillation Engine (deterministic, 0 LLM tokens)
+# ============================================================================
+
+def _generate_oscillation(num_steps: int, num_cycles: float, pattern: str) -> list:
+    """Generate oscillation alpha values [0, 1] for trajectory interpolation."""
+    t = [2.0 * math.pi * num_cycles * i / num_steps for i in range(num_steps)]
+
+    if pattern == "sinusoidal":
+        return [0.5 * (1.0 + math.sin(v)) for v in t]
+    elif pattern == "triangular":
+        result = []
+        for v in t:
+            t_norm = (v / (2.0 * math.pi)) % 1.0
+            result.append(2.0 * t_norm if t_norm < 0.5 else 2.0 * (1.0 - t_norm))
+        return result
+    elif pattern == "square":
+        return [0.0 if (v / (2.0 * math.pi)) % 1.0 < 0.5 else 1.0 for v in t]
+    else:
+        raise ValueError(f"Unknown pattern: {pattern}")
+
+
+def _interpolate_states(state_a: dict, state_b: dict, alpha: float) -> dict:
+    """Linearly interpolate between two parameter states."""
+    return {
+        p: state_a[p] * (1.0 - alpha) + state_b[p] * alpha
+        for p in MAGPHOTO_PARAMETER_NAMES
+    }
+
+
+def _generate_preset_trajectory(preset_name: str) -> list:
+    """Generate full trajectory for a Phase 2.6 preset. Returns list of state dicts."""
+    preset = MAGPHOTO_RHYTHMIC_PRESETS[preset_name]
+    state_a = MAGPHOTO_COORDS[preset["state_a"]]
+    state_b = MAGPHOTO_COORDS[preset["state_b"]]
+    total_steps = preset["num_cycles"] * preset["steps_per_cycle"]
+    alphas = _generate_oscillation(total_steps, preset["num_cycles"], preset["pattern"])
+    return [_interpolate_states(state_a, state_b, a) for a in alphas]
+
+
+def _euclidean_distance(a: dict, b: dict) -> float:
+    """Euclidean distance between two parameter states."""
+    return math.sqrt(sum((a[p] - b[p]) ** 2 for p in MAGPHOTO_PARAMETER_NAMES))
+
+
+def _find_nearest_visual_type(state: dict) -> tuple:
+    """Find nearest visual vocabulary type via Euclidean distance. Returns (type_name, distance, type_data)."""
+    best_name = None
+    best_dist = float("inf")
+    best_data = None
+    for type_name, type_data in MAGPHOTO_VISUAL_TYPES.items():
+        d = _euclidean_distance(state, type_data["coords"])
+        if d < best_dist:
+            best_dist = d
+            best_name = type_name
+            best_data = type_data
+    return best_name, best_dist, best_data
+
+
+# ============================================================================
+# Phase 2.6 MCP Tools
+# ============================================================================
+
+@mcp.tool()
+def list_rhythmic_presets() -> Dict:
+    """
+    List all Phase 2.6 rhythmic presets for magazine×photography aesthetics.
+
+    Returns available temporal oscillation patterns between canonical aesthetic
+    states.  Each preset defines a periodic trajectory through the 6D
+    magazine-photography morphospace that can be used for:
+    - Temporal aesthetic transitions in image sequences
+    - Multi-domain composition with other Lushy aesthetic domains
+    - Attractor-based limit cycle discovery
+
+    Cost: 0 tokens (deterministic lookup)
+    """
+    result = {}
+    for name, preset in MAGPHOTO_RHYTHMIC_PRESETS.items():
+        total_steps = preset["num_cycles"] * preset["steps_per_cycle"]
+        result[name] = {
+            "description": preset["description"],
+            "state_a": preset["state_a"],
+            "state_b": preset["state_b"],
+            "pattern": preset["pattern"],
+            "period": preset["steps_per_cycle"],
+            "total_steps": total_steps,
+            "num_cycles": preset["num_cycles"],
+        }
+    return {
+        "domain": "magazine_photography",
+        "parameter_names": MAGPHOTO_PARAMETER_NAMES,
+        "presets": result,
+        "periods": sorted(set(p["steps_per_cycle"] for p in MAGPHOTO_RHYTHMIC_PRESETS.values())),
+    }
+
+
+@mcp.tool()
+def get_aesthetic_state_coordinates(state_name: str) -> Dict:
+    """
+    Get normalized parameter coordinates for a canonical aesthetic state.
+
+    Args:
+        state_name: One of the canonical states — "editorial_glamour",
+            "documentary_grit", "minimalist_modern", "avant_garde_experimental",
+            "golden_age_portrait", "street_candid", "nature_sublime"
+
+    Returns parameter coordinates in the 6D magazine-photography morphospace
+    with values in [0.0, 1.0].
+
+    Cost: 0 tokens (deterministic lookup)
+    """
+    if state_name not in MAGPHOTO_COORDS:
+        return {
+            "error": f"Unknown state '{state_name}'",
+            "available_states": list(MAGPHOTO_COORDS.keys()),
+        }
+    return {
+        "state_name": state_name,
+        "domain": "magazine_photography",
+        "parameter_names": MAGPHOTO_PARAMETER_NAMES,
+        "coordinates": MAGPHOTO_COORDS[state_name],
+    }
+
+
+@mcp.tool()
+def generate_rhythmic_sequence(
+    preset_name: str,
+    num_steps: Optional[int] = None,
+) -> Dict:
+    """
+    Generate a Phase 2.6 rhythmic oscillation sequence from a preset.
+
+    Produces a temporal trajectory oscillating between two canonical
+    aesthetic states.  Each step is a complete parameter state in the 6D
+    magazine-photography morphospace.
+
+    Args:
+        preset_name: Preset name from list_rhythmic_presets()
+        num_steps: Override total steps (default uses preset's num_cycles × steps_per_cycle)
+
+    Returns full trajectory with per-step parameter states and metadata.
+
+    Cost: 0 tokens (deterministic computation)
+    """
+    if preset_name not in MAGPHOTO_RHYTHMIC_PRESETS:
+        return {
+            "error": f"Unknown preset '{preset_name}'",
+            "available_presets": list(MAGPHOTO_RHYTHMIC_PRESETS.keys()),
+        }
+
+    preset = MAGPHOTO_RHYTHMIC_PRESETS[preset_name]
+    state_a = MAGPHOTO_COORDS[preset["state_a"]]
+    state_b = MAGPHOTO_COORDS[preset["state_b"]]
+
+    total = num_steps or (preset["num_cycles"] * preset["steps_per_cycle"])
+    num_cycles = preset["num_cycles"] if num_steps is None else num_steps / preset["steps_per_cycle"]
+    alphas = _generate_oscillation(total, num_cycles, preset["pattern"])
+
+    trajectory = [_interpolate_states(state_a, state_b, a) for a in alphas]
+
+    return {
+        "domain": "magazine_photography",
+        "preset": preset_name,
+        "description": preset["description"],
+        "period": preset["steps_per_cycle"],
+        "total_steps": total,
+        "pattern": preset["pattern"],
+        "state_a": preset["state_a"],
+        "state_b": preset["state_b"],
+        "parameter_names": MAGPHOTO_PARAMETER_NAMES,
+        "trajectory": trajectory,
+    }
+
+
+@mcp.tool()
+def map_magazine_photography_parameters(
+    state_name: str,
+    intensity: str = "moderate",
+    emphasis: str = "color",
+) -> Dict:
+    """
+    Map an aesthetic state to full visual synthesis parameters.
+
+    Like catastrophe-morph's map_catastrophe_parameters — returns a
+    complete parameter set adjusted by intensity and emphasis, ready for
+    visual synthesis or cross-domain composition.
+
+    Args:
+        state_name: Canonical state (e.g. "editorial_glamour", "documentary_grit")
+        intensity: "subtle", "moderate", or "dramatic"
+        emphasis: "color", "detail", "mood", "contrast", "warmth", or "composition"
+
+    Cost: 0 tokens (deterministic)
+    """
+    if state_name not in MAGPHOTO_COORDS:
+        return {
+            "error": f"Unknown state '{state_name}'",
+            "available_states": list(MAGPHOTO_COORDS.keys()),
+        }
+
+    base = dict(MAGPHOTO_COORDS[state_name])
+
+    # Intensity scaling
+    scale = {"subtle": 0.6, "moderate": 1.0, "dramatic": 1.4}.get(intensity, 1.0)
+    emphasis_param = {
+        "color": "color_saturation",
+        "detail": "detail_sharpness",
+        "mood": "mood_intensity",
+        "contrast": "contrast_level",
+        "warmth": "temporal_warmth",
+        "composition": "compositional_formality",
+    }.get(emphasis)
+
+    params = {}
+    for p in MAGPHOTO_PARAMETER_NAMES:
+        v = base[p]
+        if p == emphasis_param:
+            v = min(1.0, max(0.0, v * scale * 1.2))
+        else:
+            v = min(1.0, max(0.0, v * scale))
+        params[p] = round(v, 4)
+
+    return {
+        "domain": "magazine_photography",
+        "state": state_name,
+        "intensity": intensity,
+        "emphasis": emphasis,
+        "parameters": params,
+        "parameter_names": MAGPHOTO_PARAMETER_NAMES,
+    }
+
+
+# ============================================================================
+# Phase 2.7 Attractor Visualization — Prompt Generation
+# ============================================================================
+
+@mcp.tool()
+def extract_visual_vocabulary(
+    state: Dict,
+    strength: float = 1.0,
+) -> Dict:
+    """
+    Extract visual prompt vocabulary from parameter coordinates.
+
+    Maps a 6D parameter state to the nearest canonical visual type and
+    returns image-generation-ready keywords.  Uses nearest-neighbour
+    matching against 5 visual types derived from the magazine×photography
+    morphospace.
+
+    Args:
+        state: Parameter dict with keys matching MAGPHOTO_PARAMETER_NAMES
+               (values in [0.0, 1.0])
+        strength: Keyword weight multiplier [0.0, 1.0] (default 1.0)
+
+    Returns nearest visual type, distance, keywords, and optical properties.
+
+    Cost: 0 tokens (deterministic nearest-neighbour computation)
+    """
+    # Validate keys
+    missing = [p for p in MAGPHOTO_PARAMETER_NAMES if p not in state]
+    if missing:
+        return {"error": f"Missing parameters: {missing}", "expected": MAGPHOTO_PARAMETER_NAMES}
+
+    type_name, dist, type_data = _find_nearest_visual_type(state)
+
+    keywords = type_data["keywords"]
+    if strength < 1.0:
+        # Reduce keyword count proportionally
+        n = max(2, int(len(keywords) * strength))
+        keywords = keywords[:n]
+
+    return {
+        "domain": "magazine_photography",
+        "nearest_type": type_name,
+        "distance": round(dist, 4),
+        "keywords": keywords,
+        "optical_properties": type_data["optical_properties"],
+        "input_state": state,
+        "strength": strength,
+    }
+
+
+@mcp.tool()
+def generate_attractor_prompt(
+    preset_name: Optional[str] = None,
+    custom_state: Optional[Dict] = None,
+    mode: str = "composite",
+    style_modifier: str = "",
+    keyframe_count: int = 4,
+) -> Dict:
+    """
+    Generate image-generation prompts from attractor state or preset.
+
+    Translates mathematical attractor coordinates into visual prompts
+    suitable for Flux, Stable Diffusion, DALL-E, ComfyUI, Midjourney, etc.
+
+    Modes:
+        composite:  Single blended prompt from current state
+        split_view: Separate prompt sections (color, lighting, texture, mood)
+        sequence:   Multiple keyframe prompts from a rhythmic preset trajectory
+
+    Args:
+        preset_name: Phase 2.6 preset name (for sequence mode or default state)
+        custom_state: Optional custom parameter dict (overrides preset if given)
+        mode: "composite" | "split_view" | "sequence"
+        style_modifier: Optional prefix like "35mm film", "digital medium format"
+        keyframe_count: Number of keyframes for sequence mode (default 4)
+
+    Cost: 0 tokens (deterministic)
+    """
+    # --- Resolve the working state(s) ----
+    if mode == "sequence":
+        if not preset_name:
+            return {"error": "preset_name required for sequence mode"}
+        if preset_name not in MAGPHOTO_RHYTHMIC_PRESETS:
+            return {"error": f"Unknown preset '{preset_name}'",
+                    "available": list(MAGPHOTO_RHYTHMIC_PRESETS.keys())}
+
+        trajectory = _generate_preset_trajectory(preset_name)
+        total = len(trajectory)
+        step_size = max(1, total // keyframe_count)
+        keyframes = []
+        for k in range(keyframe_count):
+            idx = min(k * step_size, total - 1)
+            st = trajectory[idx]
+            type_name, dist, type_data = _find_nearest_visual_type(st)
+            kw = type_data["keywords"]
+            prompt = f"{style_modifier + ', ' if style_modifier else ''}{', '.join(kw)}"
+            keyframes.append({
+                "step": idx,
+                "state": {p: round(st[p], 4) for p in MAGPHOTO_PARAMETER_NAMES},
+                "nearest_type": type_name,
+                "distance": round(dist, 4),
+                "prompt": prompt,
+            })
+        return {
+            "domain": "magazine_photography",
+            "mode": "sequence",
+            "preset": preset_name,
+            "description": MAGPHOTO_RHYTHMIC_PRESETS[preset_name]["description"],
+            "keyframe_count": keyframe_count,
+            "keyframes": keyframes,
+        }
+
+    # Single state for composite / split_view
+    if custom_state:
+        missing = [p for p in MAGPHOTO_PARAMETER_NAMES if p not in custom_state]
+        if missing:
+            return {"error": f"Missing parameters in custom_state: {missing}"}
+        state = custom_state
+        state_source = "custom"
+    elif preset_name:
+        if preset_name not in MAGPHOTO_RHYTHMIC_PRESETS:
+            return {"error": f"Unknown preset '{preset_name}'"}
+        # Use midpoint of first cycle as representative state
+        trajectory = _generate_preset_trajectory(preset_name)
+        mid = len(trajectory) // 4  # quarter-cycle = peak of sinusoidal
+        state = trajectory[mid]
+        state_source = f"preset:{preset_name}:step_{mid}"
+    else:
+        return {"error": "Provide preset_name or custom_state"}
+
+    type_name, dist, type_data = _find_nearest_visual_type(state)
+
+    if mode == "composite":
+        prompt = f"{style_modifier + ', ' if style_modifier else ''}{', '.join(type_data['keywords'])}"
+        return {
+            "domain": "magazine_photography",
+            "mode": "composite",
+            "source": state_source,
+            "nearest_type": type_name,
+            "distance": round(dist, 4),
+            "prompt": prompt,
+            "vocabulary": {
+                "keywords": type_data["keywords"],
+                "optical": type_data["optical_properties"],
+            },
+            "state": {p: round(state[p], 4) for p in MAGPHOTO_PARAMETER_NAMES},
+        }
+
+    elif mode == "split_view":
+        kw = type_data["keywords"]
+        optical = type_data["optical_properties"]
+        prefix = f"{style_modifier}, " if style_modifier else ""
+        sections = {
+            "color_and_tone": f"{prefix}{kw[3] if len(kw) > 3 else ''}, {optical.get('finish', '')}",
+            "lighting": f"{prefix}{kw[1] if len(kw) > 1 else ''}, {optical.get('lighting', '')}",
+            "texture_and_detail": f"{prefix}{kw[2] if len(kw) > 2 else ''}, {optical.get('grain', '')}",
+            "mood_and_composition": f"{prefix}{kw[4] if len(kw) > 4 else ''}, {kw[5] if len(kw) > 5 else ''}",
+        }
+        return {
+            "domain": "magazine_photography",
+            "mode": "split_view",
+            "source": state_source,
+            "nearest_type": type_name,
+            "distance": round(dist, 4),
+            "sections": sections,
+            "state": {p: round(state[p], 4) for p in MAGPHOTO_PARAMETER_NAMES},
+        }
+
+    return {"error": f"Unknown mode '{mode}'. Use composite, split_view, or sequence."}
+
+
+@mcp.tool()
+def compute_aesthetic_distance(state_a_name: str, state_b_name: str) -> Dict:
+    """
+    Compute Euclidean distance between two canonical aesthetic states.
+
+    Useful for understanding how far apart two magazine×photography
+    aesthetics are in morphospace, which affects transition smoothness
+    and rhythmic preset behavior.
+
+    Args:
+        state_a_name: First canonical state name
+        state_b_name: Second canonical state name
+
+    Cost: 0 tokens (pure computation)
+    """
+    if state_a_name not in MAGPHOTO_COORDS:
+        return {"error": f"Unknown state '{state_a_name}'", "available": list(MAGPHOTO_COORDS.keys())}
+    if state_b_name not in MAGPHOTO_COORDS:
+        return {"error": f"Unknown state '{state_b_name}'", "available": list(MAGPHOTO_COORDS.keys())}
+
+    a = MAGPHOTO_COORDS[state_a_name]
+    b = MAGPHOTO_COORDS[state_b_name]
+    dist = _euclidean_distance(a, b)
+
+    per_param = {p: round(abs(a[p] - b[p]), 4) for p in MAGPHOTO_PARAMETER_NAMES}
+    max_param = max(per_param, key=per_param.get)
+
+    return {
+        "state_a": state_a_name,
+        "state_b": state_b_name,
+        "euclidean_distance": round(dist, 4),
+        "per_parameter_difference": per_param,
+        "largest_difference": {"parameter": max_param, "value": per_param[max_param]},
+        "transition_characterization": (
+            "smooth" if dist < 0.4 else "moderate" if dist < 0.7 else "dramatic"
+        ),
+    }
+
+
+@mcp.tool()
+def get_server_info() -> Dict:
+    """
+    Get comprehensive information about the Magazine×Photography MCP server.
+
+    Returns server metadata, capabilities, library stats, and Phase 2.6/2.7
+    enhancement details.
+    """
+    return {
+        "server": "magazine-photography",
+        "version": "2.7.0",
+        "description": "Magazine × Photography aesthetic domain with rhythmic presets and attractor visualization",
+        "library": {
+            "magazines": len(MAGAZINES),
+            "photography_styles": len(PHOTOGRAPHY),
+            "combinations": len(COMBINATIONS),
+        },
+        "phase_2_6_enhancements": {
+            "rhythmic_presets": True,
+            "preset_count": len(MAGPHOTO_RHYTHMIC_PRESETS),
+            "presets": list(MAGPHOTO_RHYTHMIC_PRESETS.keys()),
+            "periods": sorted(set(p["steps_per_cycle"] for p in MAGPHOTO_RHYTHMIC_PRESETS.values())),
+            "canonical_states": list(MAGPHOTO_COORDS.keys()),
+            "parameter_count": len(MAGPHOTO_PARAMETER_NAMES),
+            "parameter_names": MAGPHOTO_PARAMETER_NAMES,
+        },
+        "phase_2_7_enhancements": {
+            "attractor_visualization": True,
+            "visual_types": list(MAGPHOTO_VISUAL_TYPES.keys()),
+            "prompt_modes": ["composite", "split_view", "sequence"],
+            "supported_generators": [
+                "Flux", "Stable Diffusion", "DALL-E",
+                "Midjourney", "ComfyUI",
+            ],
+        },
+        "multi_domain_composition": {
+            "compatible_with": [
+                "microscopy-aesthetics",
+                "nuclear-aesthetic",
+                "catastrophe-morph-mcp",
+                "diatom-morphology-mcp",
+                "heraldic-blazonry-mcp",
+            ],
+            "domain_id": "magazine_photography",
+            "integration_ready": True,
+        },
+        "cost_profile": {
+            "phase_2_6_tools": "0 tokens (deterministic)",
+            "phase_2_7_tools": "0 tokens (deterministic)",
+            "llm_required_for": "creative synthesis only (Layer 3)",
+        },
+    }
+
+
 if __name__ == "__main__":
     mcp.run()
