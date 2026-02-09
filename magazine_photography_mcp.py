@@ -17,6 +17,7 @@ import json
 import os
 import sys
 import random
+import numpy
 from typing import List, Dict, Optional
 
 # Import olog system (Layer 1: Categorical Taxonomy)
