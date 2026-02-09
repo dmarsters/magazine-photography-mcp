@@ -17,7 +17,8 @@ import json
 import os
 import sys
 import random
-import numpy
+import math
+import numpy as np
 from typing import List, Dict, Optional
 
 # Import olog system (Layer 1: Categorical Taxonomy)
@@ -545,8 +546,7 @@ def get_random_combinations(count: int = 5, min_harmony: int = 7) -> List[Dict]:
 # Maps magazine×photography aesthetics to a 6D morphospace [0.0, 1.0].
 # ============================================================================
 
-import math
-import numpy as np
+
 
 MAGPHOTO_PARAMETER_NAMES = [
     "color_saturation",          # 0.0 = muted/desaturated, 1.0 = vivid/saturated
