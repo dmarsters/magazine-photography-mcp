@@ -2,7 +2,10 @@
 name = "magazine-photography-mcp"
 version = "0.2.0"
 description = "Magazine × photography style combinations with categorical olog architecture"
-dependencies = []
+dependencies = [
+    "fastmcp",
+    "numpy",
+]
 
 [build-system]
 requires = ["hatchling"]
